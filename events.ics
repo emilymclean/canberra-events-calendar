@@ -4,8 +4,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260107T023000Z
 DTEND:20260107T033000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-6cd8a11e7db84e55a5e79c90373370e4
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-c98f8b0080f9be91ae30300b6d0c6bba
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/89814/f__29146_scribblers2.jpg
 CREATED:20250111T114358Z
@@ -13,6 +13,7 @@ DESCRIPTION:Spend your Wednesday (and or Thursday/Friday) lunchtime making
   something beautiful.
 LAST-MODIFIED:20251218T082634Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-scribblers-89814
@@ -21,8 +22,8 @@ BEGIN:VEVENT
 SUMMARY:Crafternoons at Smith's
 DTSTART:20260107T023000Z
 DTEND:20260107T040000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-c0dd793998ce2da1a43fb95d521c877e
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-ebf0dce2652d1992313f92ed987b9abe
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/74920/f__28214_crafternoon.jpg
 CREATED:20220104T091258Z
@@ -30,6 +31,7 @@ DESCRIPTION:Head into Smith's with your projects\, whatever they be\, and
  hang out with other crafty types doing their thing.
 LAST-MODIFIED:20251218T081847Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/crafternoons-74920
@@ -38,14 +40,15 @@ BEGIN:VEVENT
 SUMMARY:Old Timey Wednesday
 DTSTART:20260107T060000Z
 DTEND:20260107T080000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-81bfbf6b148c87bda0a0e034e30c1bce
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-2f68296197c466e2976a83bf8c22089b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/69082/f__2084_old.time.jam.picture.jpg
 CREATED:20200626T034201Z
 DESCRIPTION:The open jam where we party like it's 1899.
 LAST-MODIFIED:20251218T082114Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/old-timey-wednesday-69082
@@ -54,8 +57,8 @@ BEGIN:VEVENT
 SUMMARY:Matilda Lorenz Quintet
 DTSTART:20260107T090000Z
 DTEND:20260107T110000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-62906ab90c2b4c7fe178bc16627afa1d
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-0cd097548ca097cad245820c032c9a7d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94729/f__32850_mlq.jpg
 CREATED:20251220T003137Z
@@ -63,6 +66,7 @@ DESCRIPTION:Matilda Lorenz (vocals)\, Chris Pound (bass)\, Lachlan Coventr
  y (guitar)\, John Mackey (sax)\, Luke Glanville (drums)
 LAST-MODIFIED:20251220T005529Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/matilda-lorenz-quintet-94729
@@ -71,14 +75,15 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260108T023000Z
 DTEND:20260108T040000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-ae73b28422da73d5f6206eadf92d1eae
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-ed95408241019bde185a0074d707114b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/73943/f__29146_scribblers2.jpg
 CREATED:20211015T061550Z
 DESCRIPTION:Spend your lunchtime making something beautiful.
 LAST-MODIFIED:20251218T085209Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-scribblers-73943
@@ -87,14 +92,15 @@ BEGIN:VEVENT
 SUMMARY:Pop-Folk-Rock Jam
 DTSTART:20260108T060000Z
 DTEND:20260108T080000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-6c4f31160c8cbfd1d3ac478d3a2dc97a
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-bb5479bd21c2f8f1824d0370e0fc857e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/79790/f__29021_pfr.jpg
 CREATED:20230116T144129Z
 DESCRIPTION:A weekly open jam\, for all instruments and voices.
 LAST-MODIFIED:20251218T082919Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/pop-folk-rock-jam-79790
@@ -103,14 +109,15 @@ BEGIN:VEVENT
 SUMMARY:Chameleon
 DTSTART:20260108T093000Z
 DTEND:20260108T113000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-a46397693f9ba4069c38d8a5a6fca830
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-3d9d153ee3feaabb03781f5565014d90
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94566/f__32819_cham.jpg
 CREATED:20251209T111926Z
 DESCRIPTION:
 LAST-MODIFIED:20251209T133236Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/chameleon-94566
@@ -119,14 +126,15 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260109T023000Z
 DTEND:20260109T040000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-64074b1bcff510f606342b677e28daeb
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-e3476e664d75c92e1fc98eff949f29d3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/82645/f__29146_scribblers2.jpg
 CREATED:20230819T120435Z
 DESCRIPTION:Spend your Friday lunchtime making something beautiful.
 LAST-MODIFIED:20251220T021351Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-scribblers-82645
@@ -135,14 +143,15 @@ BEGIN:VEVENT
 SUMMARY:CRAP MUSIC RAVE PARTY
 DTSTART:20260109T110000Z
 DTEND:20260109T130000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-bcba7b52493e71957d2ff59f1636781b
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-3baf463270d5558fcda3f8735eb7cea2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94644/f__32841_crap.jpg
 CREATED:20251216T071557Z
 DESCRIPTION:
 LAST-MODIFIED:20251216T084853Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/crap-music-rave-party-94644
@@ -151,8 +160,8 @@ BEGIN:VEVENT
 SUMMARY:Woody Campfire
 DTSTART:20260110T090000Z
 DTEND:20260110T110000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-878bf2fd277e0662583fcaa2809e0a87
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-c503d4b06ff82335f3e802c9451fb814
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94649/f__32842_woody.jpg
 CREATED:20251216T093019Z
@@ -161,6 +170,7 @@ DESCRIPTION:Pull up a camp chair and settle in with Woody Campfire - a sin
  erously good line in Australian folk storytelling.
 LAST-MODIFIED:20260102T055056Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/woody-campfire-94649
@@ -169,14 +179,15 @@ BEGIN:VEVENT
 SUMMARY:Alex Lloyd - January
 DTSTART:20260110T110000Z
 DTEND:20260110T130000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-30b6ae01f92b2508e1f569289f375100
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-f15722c3da5444b70ad80dabf2ca6c11
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93151/f__32346_alexl.jpg
 CREATED:20250903T073133Z
 DESCRIPTION:
 LAST-MODIFIED:20260102T055115Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/alex-lloyd-january-93151
@@ -185,14 +196,15 @@ BEGIN:VEVENT
 SUMMARY:Legs Fest '26
 DTSTART:20260111T050000Z
 DTEND:20260111T090000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-d37d6eb201e6950f6f8a5822fe9fa9e1
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-9d6a82e5264c8e9a639af8ad270b38f0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94764/f__32860_legs.jpg
 CREATED:20251221T070236Z
 DESCRIPTION:Clarke lost the legs from his drums. Help us replace them...
 LAST-MODIFIED:20251221T071210Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/legs-fest-26-94764
@@ -201,8 +213,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Open Mic Comedy
 DTSTART:20260111T090000Z
 DTEND:20260111T110000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-7c4d1666588f575b4d76839416584500
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-b20663f1c4f2779bac0c37d188d40635
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94751/f__32859_sopmic.jpg
 CREATED:20251220T050739Z
@@ -210,6 +222,7 @@ DESCRIPTION:Comedy Open Mic at Smith's - First Sunday of the month (except
   this month)
 LAST-MODIFIED:20251220T081752Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-94751
@@ -218,14 +231,15 @@ BEGIN:VEVENT
 SUMMARY:Lunchulele
 DTSTART:20260112T023000Z
 DTEND:20260112T040000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-58fd73afd33b980ca6a1a9b569c137fd
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-a809721af33da53bb77180c3264d9277
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/74838/f__27309_lunchulele2.jpg
 CREATED:20211213T142806Z
 DESCRIPTION:Ukulele Fun Time
 LAST-MODIFIED:20251217T063638Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/lunchulele-74838
@@ -234,8 +248,8 @@ BEGIN:VEVENT
 SUMMARY:Canberra Eurosession
 DTSTART:20260112T060000Z
 DTEND:20260112T080000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-4c23bb8e0292b8f020ed51bfd9aaa120
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-15c2c5fcb69046108cdf9d83da24c8e9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/82011/f__29575_canbeuro.jpg
 CREATED:20230711T124056Z
@@ -243,6 +257,7 @@ DESCRIPTION:Join us at the Canberra Eurosession\, a musical gathering like
   no other!
 LAST-MODIFIED:20251217T063806Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/canberra-eurosession-82011
@@ -251,8 +266,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Jazz Jam
 DTSTART:20260113T083000Z
 DTEND:20260113T113000Z
-DTSTAMP:20260102T092416Z
-UID:smiths-alternative-e3150c00bb98557ef1a0176ae36a4e7b
+DTSTAMP:20260102T092523Z
+UID:smiths-alternative-193fe46709b6522e36da01e5d4b27bbf
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93807/f__32637_sjjj.jpg
 CREATED:20251014T023614Z
@@ -260,6 +275,7 @@ DESCRIPTION:Join us at Smith's\, upstairs or down\, every Tuesday night fo
  r a jazz jam lead by a variety of luminaries from the local scene
 LAST-MODIFIED:20251217T063314Z
 LOCATION:
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-jazz-jam-93807
@@ -268,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260102T190000
 DTEND;TZID=Australia/Sydney:20260102T220000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10000485-1767380400-1767391200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -285,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260108T183000
 DTEND;TZID=Australia/Sydney:20260108T210000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10000759-1767897000-1767906000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -303,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -347,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -394,7 +410,7 @@ BEGIN:VEVENT
 SUMMARY:Hannah Cohen + Sam Evian
 DTSTART;TZID=Australia/Sydney:20260304T180000
 DTEND;TZID=Australia/Sydney:20260304T230000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10001200-1772647200-1772665200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.47.31-am.png
@@ -445,7 +461,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260102T192417
+DTSTAMP:20260102T192524
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
