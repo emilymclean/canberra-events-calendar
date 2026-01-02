@@ -1,0 +1,646 @@
+BEGIN:VCALENDAR
+X-WR-CALNAME:Canberra Events Calendar
+BEGIN:VEVENT
+SUMMARY:Smith's Scribblers
+DTSTART:20260107T023000Z
+DTEND:20260107T033000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-38a456fabf45cfcacf83776093bab650
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/89814/f__29146_scribblers2.jpg
+CREATED:20250111T114358Z
+DESCRIPTION:Spend your Wednesday (and or Thursday/Friday) lunchtime making
+  something beautiful.
+LAST-MODIFIED:20251218T082634Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-scribblers-89814
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Crafternoons at Smith's
+DTSTART:20260107T023000Z
+DTEND:20260107T040000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-542de3dd116058d53e6c527024d27712
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/74920/f__28214_crafternoon.jpg
+CREATED:20220104T091258Z
+DESCRIPTION:Head into Smith's with your projects\, whatever they be\, and 
+ hang out with other crafty types doing their thing.
+LAST-MODIFIED:20251218T081847Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/crafternoons-74920
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Old Timey Wednesday
+DTSTART:20260107T060000Z
+DTEND:20260107T080000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-13a9133b5e7b334ecee240c87a126efd
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/69082/f__2084_old.time.jam.picture.jpg
+CREATED:20200626T034201Z
+DESCRIPTION:The open jam where we party like it's 1899.
+LAST-MODIFIED:20251218T082114Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/old-timey-wednesday-69082
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matilda Lorenz Quintet
+DTSTART:20260107T090000Z
+DTEND:20260107T110000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-40cf9488b1491def069842fd29002870
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94729/f__32850_mlq.jpg
+CREATED:20251220T003137Z
+DESCRIPTION:Matilda Lorenz (vocals)\, Chris Pound (bass)\, Lachlan Coventr
+ y (guitar)\, John Mackey (sax)\, Luke Glanville (drums)
+LAST-MODIFIED:20251220T005529Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/matilda-lorenz-quintet-94729
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Scribblers
+DTSTART:20260108T023000Z
+DTEND:20260108T040000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-da76787b3eae73022887899eb06c0b28
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/73943/f__29146_scribblers2.jpg
+CREATED:20211015T061550Z
+DESCRIPTION:Spend your lunchtime making something beautiful.
+LAST-MODIFIED:20251218T085209Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-scribblers-73943
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pop-Folk-Rock Jam
+DTSTART:20260108T060000Z
+DTEND:20260108T080000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-18d08d2eb1ceaa938d62deca7ac847e6
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/79790/f__29021_pfr.jpg
+CREATED:20230116T144129Z
+DESCRIPTION:A weekly open jam\, for all instruments and voices.
+LAST-MODIFIED:20251218T082919Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/pop-folk-rock-jam-79790
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chameleon
+DTSTART:20260108T093000Z
+DTEND:20260108T113000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-7fcd7fcd5c46ab78463f9fcfa2196841
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94566/f__32819_cham.jpg
+CREATED:20251209T111926Z
+DESCRIPTION:
+LAST-MODIFIED:20251209T133236Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/chameleon-94566
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Scribblers
+DTSTART:20260109T023000Z
+DTEND:20260109T040000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-456c7690e82fbbf2e410692978eae6ec
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/82645/f__29146_scribblers2.jpg
+CREATED:20230819T120435Z
+DESCRIPTION:Spend your Friday lunchtime making something beautiful.
+LAST-MODIFIED:20251220T021351Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-scribblers-82645
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CRAP MUSIC RAVE PARTY
+DTSTART:20260109T110000Z
+DTEND:20260109T130000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-d2e68b4249110a1d3455f407e5ebe6b4
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94644/f__32841_crap.jpg
+CREATED:20251216T071557Z
+DESCRIPTION:
+LAST-MODIFIED:20251216T084853Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/crap-music-rave-party-94644
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woody Campfire
+DTSTART:20260110T090000Z
+DTEND:20260110T110000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-c5943e5cc8876b3c3b28003863610e8a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94649/f__32842_woody.jpg
+CREATED:20251216T093019Z
+DESCRIPTION:Pull up a camp chair and settle in with Woody Campfire - a sin
+ ging bushman with a guitar\, a roaring (fake\, indoor) campfire and a dang
+ erously good line in Australian folk storytelling.
+LAST-MODIFIED:20260102T055056Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/woody-campfire-94649
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alex Lloyd - January
+DTSTART:20260110T110000Z
+DTEND:20260110T130000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-f0d2371f993522c6a52cd304953e2c33
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/93151/f__32346_alexl.jpg
+CREATED:20250903T073133Z
+DESCRIPTION:
+LAST-MODIFIED:20260102T055115Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/alex-lloyd-january-93151
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Legs Fest '26
+DTSTART:20260111T050000Z
+DTEND:20260111T090000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-bc7642ae53b4a4ef30d95206d532da24
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94764/f__32860_legs.jpg
+CREATED:20251221T070236Z
+DESCRIPTION:Clarke lost the legs from his drums. Help us replace them...
+LAST-MODIFIED:20251221T071210Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/legs-fest-26-94764
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Open Mic Comedy
+DTSTART:20260111T090000Z
+DTEND:20260111T110000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-0efded381a0141e6bbbf1598a717c84e
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94751/f__32859_sopmic.jpg
+CREATED:20251220T050739Z
+DESCRIPTION:Comedy Open Mic at Smith's - First Sunday of the month (except
+  this month)
+LAST-MODIFIED:20251220T081752Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-94751
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lunchulele
+DTSTART:20260112T023000Z
+DTEND:20260112T040000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-2d139c0190b359889c34cab083dcb16a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/74838/f__27309_lunchulele2.jpg
+CREATED:20211213T142806Z
+DESCRIPTION:Ukulele Fun Time
+LAST-MODIFIED:20251217T063638Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/lunchulele-74838
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canberra Eurosession
+DTSTART:20260112T060000Z
+DTEND:20260112T080000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-c722935c57f820b8751eee79a64bba04
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/82011/f__29575_canbeuro.jpg
+CREATED:20230711T124056Z
+DESCRIPTION:Join us at the Canberra Eurosession\, a musical gathering like
+  no other!
+LAST-MODIFIED:20251217T063806Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/canberra-eurosession-82011
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Jazz Jam
+DTSTART:20260113T083000Z
+DTEND:20260113T113000Z
+DTSTAMP:20260102T091648Z
+UID:smiths-alternative-482ad3219f4cea70cf4552203ff3cf86
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/93807/f__32637_sjjj.jpg
+CREATED:20251014T023614Z
+DESCRIPTION:Join us at Smith's\, upstairs or down\, every Tuesday night fo
+ r a jazz jam lead by a variety of luminaries from the local scene
+LAST-MODIFIED:20251217T063314Z
+LOCATION:
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-jazz-jam-93807
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Friday Night Jazz - Free Entry
+DTSTART;TZID=Australia/Sydney:20260102T190000
+DTEND;TZID=Australia/Sydney:20260102T220000
+DTSTAMP:20260102T191649
+UID:ganggang-10000485-1767380400-1767391200@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
+ 024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
+ jpg
+CREATED:20240219T000235Z
+DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
+ s get loose live every Friday. Pssst – it’s free.
+LAST-MODIFIED:20240219T000732Z
+URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-01
+ -02/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Trivia
+DTSTART;TZID=Australia/Sydney:20260108T183000
+DTEND;TZID=Australia/Sydney:20260108T210000
+DTSTAMP:20260102T191649
+UID:ganggang-10000759-1767897000-1767906000@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
+ 023/06/Trivia-Banner-03-scaled.jpg
+CREATED:20231120T234024Z
+DESCRIPTION:Trivia at Gang Gang.  \n\n\n\nEvery Thursday night Quiz Meiste
+ rs come and host a trivia night for us. We’re talking pop culture\, poli
+ tics\, geography\, musical clues\, movie clues\, cryptic clues\, something
+  for everyone!    Call us up to book a table inside if you’re keen to ge
+ t quizzy. Otherwise you can enjoy regular service outside.
+LAST-MODIFIED:20240516T021518Z
+URL:https://ganggangcafe.com.au/event/trivia-2/2026-01-08/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:TOPS
+DTSTART;TZID=Australia/Sydney:20260221T190000
+DTEND;TZID=Australia/Sydney:20260221T230000
+DTSTAMP:20260102T191649
+UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 25/12/Screenshot-2025-12-02-at-9.41.41-am.png
+CREATED:20251201T224319Z
+DESCRIPTION:When we first started Gang Gang\, it was during COVID\, we wer
+ e working everyday and TOPS were spinning a lot. To think we’ve gone fro
+ m those early 25 pax covid shows to booking TOPS to play at Gang Gang is w
+ ild. \n\n\n\nCome get amongst it with us \n\n\n\nTOPS \n\n\n\nTOPS (CA) mu
+ sicians David Carriere\, Jane Penny\, Marta Cikojevic\, and Riley Fleck\,
+  write timeless music that reliably threads immediacy and depth. Bury the
+  Key\, their first full-length since 2020 and with new label home Ghostly 
+ International\, is a captivating reintroduction for the Montréal band: e
+ ver refined\, undoubtedly masters of their melodic craft yet unafraid of 
+ evolving and testing themselves against different\, at times darker tones.
+  The album faces feelings once locked away\, engaging the give-and-take be
+ tween happiness\, hedonism\, and self-destruction.While often inhabited by
+  fictional figures\, their glowing\, grooving\, self-produced songs draw f
+ rom personal observations: intimacy (both inside and outside the band)\, t
+ oxic behavior\, drug use\, and apocalyptic dread. When recording started\,
+  they noticed a shift and leaned in\, jokingly dubbed “evil TOPS\,” sa
+ ys Penny. “We’re always kind of seen as a soft band or like naive or f
+ riendly in a Canadian way\, but we made it a challenge to really channel t
+ he world around us.” Through the lens of a looming epoch and the clarity
+  that comes with age\, TOPS dip into a more sinister disco realm with Bury
+  the Key\, giving their soft-focus sophisti-pop a sharpened edge. \n\n\n\n
+ \n\n\n\nGang Gang is committed to an inclusive and safe experience for all
+ . Gang Gang Cafe is wheelchair accessible with accessible restrooms. We ha
+ ve zero tolerance for harassment and have support measures in place to ens
+ ure everyone’s safety. For specific accessibility needs or assistance\, 
+ please contact us in advance. We aim to make our events enjoyable for ever
+ yone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal and Ngambri people
+ \, the Traditional Custodians of the land where our events take place. We 
+ pay our respects to their Elders past\, present\, and emerging\, and recog
+ nise their enduring connection to this land\, waters\, and culture. We are
+  grateful to celebrate music and dance on Ngunnawal Country.
+LAST-MODIFIED:20251201T224321Z
+URL:https://ganggangcafe.com.au/event/tops/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Annahstasia
+DTSTART;TZID=Australia/Sydney:20260301T180000
+DTEND;TZID=Australia/Sydney:20260301T220000
+DTSTAMP:20260102T191649
+UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 25/12/Screenshot-2025-12-21-at-11.19.47-am.png
+CREATED:20251221T002202Z
+DESCRIPTION:Annahstasia arrives in Australia for the first time this Febru
+ ary\, bringing her soulful\, poetic\, and deeply intimate songcraft to sta
+ ges across the country. A singular voice in contemporary folk\, she has ca
+ rved her own path through patience\, independence\, and a devotion to stor
+ ytelling – qualities that shape her acclaimed debut album Tether. \n\n\
+ n\nTether is a record built slowly and intentionally\, recorded live at V
+ alentine Studios in Los Angeles with a community of collaborators includin
+ g Jason Lader\, Andrew Lappin\, Aaron Liao\, Obongjayar\, and aja mon
+ et. Across its sweeping arrangements and bare\, vulnerable moments\, Annah
+ stasia’s voice sits at the centre: rich\, resonant\, and unguarded. Her 
+ songs navigate love in all its forms – the love we find\, lose\, resist\
+ , and rebuild – approached with the nuance of poetry and a quiet\, assur
+ ed power. \n\n\n\nIn February\, Australian audiences will have the chance 
+ to experience this world up close. Annahstasia will perform headline shows
+  in Melbourne\, Sydney\, Perth and Canberra\, alongside special appearanc
+ es at Meeniyan Town Hall\, Port Fairy Folk Festival\, and WOMADelaide. It
+  marks her long-awaited introduction to Australian stages\, and a rare opp
+ ortunity to witness an artist whose work feels both intimate and expansive
+ . \n\n\n\nOnstage\, Annahstasia performs with the same instinct and openne
+ ss that shaped Tether. Her sets move between stillness and swelling emoti
+ on\, carried by a voice that can shift from gentle warmth to something bre
+ athtakingly commanding. Each performance becomes its own moment – lived\
+ , shared\, and fleeting. \n\n\n\nAnnahstasia’s debut Australian tour is 
+ a celebration of an artist stepping into her full creative force. \n\n\n\n
+ \n\n\n\nGang Gang is committed to an inclusive and safe experience for all
+ . Gang Gang Cafe is wheelchair accessible with accessible restrooms. We ha
+ ve zero tolerance for harassment and have support measures in place to ens
+ ure everyone’s safety. For specific accessibility needs or assistance\, 
+ please contact us in advance. We aim to make our events enjoyable for ever
+ yone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal and Ngambri people
+ \, the Traditional Custodians of the land where our events take place. We 
+ pay our respects to their Elders past\, present\, and emerging\, and recog
+ nise their enduring connection to this land\, waters\, and culture. We are
+  grateful to celebrate music and dance on Ngunnawal Country.
+LAST-MODIFIED:20251221T002204Z
+URL:https://ganggangcafe.com.au/event/annahstasia/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hannah Cohen + Sam Evian
+DTSTART;TZID=Australia/Sydney:20260304T180000
+DTEND;TZID=Australia/Sydney:20260304T230000
+DTSTAMP:20260102T191649
+UID:ganggang-10001200-1772647200-1772665200@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 25/12/Screenshot-2025-12-02-at-9.47.31-am.png
+CREATED:20251201T224845Z
+DESCRIPTION:Two artists that have been on high rotation at the cafe and an
+ other incredible show courtesy of Jet Black Cat \n\n\n\nHannah Cohen and S
+ am Evian \n\n\n\nHannah Cohen \n\n\n\nSince her move to the Catskills in 2
+ 018\, Hannah Cohen hikes with her rescue dog Jan every day. In the woods\,
+  they witness the color of change\, the verdant resilience of softness and
+  the necessary cycles of demise and vitality. It’s been five years since
+  her last full length record and in that bubble of time\, Cohen has learne
+ d the patience of her environment\; to stay quiet until the noise starts t
+ o make sense. Her new collection of songs\, Earthstar Mountain\, is a kee
+ psake of Cohen’s time in the Catskills\, built over the course of 2020-2
+ 024\, as blurred\, shimmering memories come into focus to produce a collag
+ e of echoes and sonic souvenirs. Featuring contributions from Sufjan Steve
+ ns\, Clairo\, Sean Mullins\, Liam Kazar\, Oliver Hill and more\, Earthsta
+ r Mountain is a love letter to the Catskills and in the interconnectednes
+ s of all things: in her past\, present\, future and alternative selves\, i
+ n her friends\, here and gone\, and in the mountain that peers through her
+  windows.  \n\n\n\nSam Evian \n\n\n\nSam Evian is the performance alias o
+ f Sam Griffin Owens\, a songwriter\, producer and multi-instrumentalist wi
+ th an affection for the mellower sounds of the ’60s and ’70s. After mo
+ ving to New York City in the early 2010s\, he worked as house engineer at 
+ Brooklyn’s Figure 8 Recording Studios and formed the indie rock band Cel
+ estial Shore. Under his real name\, he’s spent the past decade producing
+  and engineering records for the likes of Big Thief\, Cass McCombs\, and C
+ assandra Jenkins\, as well as Liam Kazar’s recently released debut LP. H
+ is own music as Sam Evian has been earnest and introspective and often pla
+ yful\, and after signing with Fat Possum\, he released his third and fourt
+ h full-length albums. Sam has split from the bustle of New York City and i
+ s settled in a quiet Catskills town upstate. \n\n\n\n\n\n\n\nGang Gang is 
+ committed to an inclusive and safe experience for all. Gang Gang Cafe is w
+ heelchair accessible with accessible restrooms. We have zero tolerance for
+  harassment and have support measures in place to ensure everyone’s safe
+ ty. For specific accessibility needs or assistance\, please contact us in 
+ advance. We aim to make our events enjoyable for everyone. \n\n\n\nGang Ga
+ ng Cafe acknowledges the Ngunnawal and Ngambri people\, the Traditional Cu
+ stodians of the land where our events take place. We pay our respects to t
+ heir Elders past\, present\, and emerging\, and recognise their enduring c
+ onnection to this land\, waters\, and culture. We are grateful to celebrat
+ e music and dance on Ngunnawal Country.
+LAST-MODIFIED:20251201T224848Z
+URL:https://ganggangcafe.com.au/event/hannah-cohen-sam-evian/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James K with Alias Error & friends
+DTSTART;TZID=Australia/Sydney:20260306T190000
+DTEND;TZID=Australia/Sydney:20260306T230000
+DTSTAMP:20260102T191649
+UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 25/12/Screenshot-2025-12-21-at-11.23.05-am.png
+CREATED:20251221T002441Z
+DESCRIPTION:This is a really special one for us. James K\, E Fishpool\, Mi
+ cah Heathwood x Umki. Having them come together at Gang Gang feels like a 
+ rare alignment. These are  artists who move with their own gravity and in
+ tention. Come\, lean in\, and listen. \n\n\n\nJames K \n\n\n\nA version of
+  james K was born. Comprised of bones\, reactive metals and a larynx with 
+ freckled eyes that catalyzes that mix\, she can now see through all the sc
+ hemes. This is the truth. When she chews gum\, it’s not clear which one 
+ of her personas does it. Since their first release in 2013\, describing th
+ em separately is grunt work as they switch places\, cosplay each other and
+  would most likely lull you into a lonesome dream. Together\, they know ho
+ w to produce\, sound\, film and edit. Thus\, they are brought to the table
+ \, performing and DJing in clubs and theaters\, along composers and childr
+ en alike. She has performed in festivals and venues such as Dekmantel\, Su
+ stain Release\, Mutek\, iii Points\, and Nowadays.. In recent years she ha
+ s shared the stage with james Ferraro\, Robert Aiki Aubrey Lowe\, Yves Tum
+ or\, Morton Subotnick\, Nick Leon\, and Priori\, among many others. \n\n\n
+ \nShe has released with labels such as AD 93\, Incienso\, PAN\, iDEAL\, Di
+ al\, UNO\, among others\, and started her label She Rocks! in 2015. Her co
+ llaboration with hoodie\, a 10” titled ‘Scorpio\,’ was released in s
+ ummer 2023 via AD 93\, landing on numerous EOTY lists. She followed up wit
+ h another single\, trip-hop gem\, ‘Blinkmoth (July Mix)\,’ which has g
+ arnered similar attention\, landing at number 2 on Resident Advisor’s 
+ ‘Best Tracks of 2024\,’ and numerous other EOY lists\, the former publ
+ ication naming her producer of the year. K has been a resident on NTS\, wi
+ th her show\, ‘Trip Lick\,’ since 2019\, and she has provided mix’s 
+ for series such as Dekmantel\, Crack and Fact. She is sought after for her
+  signature magnetic vocals\, lyricism and production and\, through collabo
+ rations\, has created critically acclaimed music with artists such as Moin
+ \, Fergus Jones + Huerco S.\, Priori\, Special Guest DJ\, Yves Tumor\, Dre
+ w McDowall\, LEYA\, and many others. She produces music that makes tempora
+ ry haven for indomitable lyrics – and these are in constant flux. You ca
+ n check what they are here: [917 908-1173]. It’s only a part of her fair
+ ly detailed world. A world that she abandons and then builds upon. \n\n\n\
+ n𝒮𝑜𝓂𝑒𝓉𝒾𝓂𝑒𝓈 𝓎𝑜𝓊 𝒸𝒶𝓃’𝓉 
+ 𝒽𝑒𝒶𝓇 𝓉𝒽𝑒 𝓌𝑜𝓇𝒹𝓈……𝓈𝒾𝓃𝒸
+ 𝑒 𝒶𝓃𝓎𝓉𝒽𝒾𝓃𝑔 𝒷𝑒𝓎𝑜𝓃𝒹 𝑒𝓋
+ 𝑒𝓇𝓎𝓉𝒽𝒾𝓃𝑔 𝓈𝒽𝑒 𝓌𝒶𝓃𝓉𝓈 𝓉
+ 𝑜 𝑔𝒾𝓋𝑒 𝓎𝑜𝓊 𝒶 𝒽𝒾𝓃𝓉……𝒾𝓉
+ ’𝓈 𝓃𝑜𝓉 𝓅𝓇𝑒𝓉𝓉𝓎 (𝒷𝓊𝓉 𝒾𝓉
+ ’𝓈 𝓅𝓇𝑒𝓉𝓉𝓎). \n\n\n\nTake a sip of water before you
+ r memory error blinks. Dial to K. Listen to the disfragmented territory an
+ d the cast of it she’s making. It might not be what you will have though
+ t tomorrow. \n\n\n\nAlias Error  \n\n\n\nAlias Error\, is a singer\, song
+ writer and DJ currently based in Berlin. As the lead singer and principal 
+ songwriter of the duo a.s.o.\, Alia released an eponymous debut album in 2
+ 023 to critical acclaim.  \n\n\n\nIn 2024\, Alias Error kicked off the ye
+ ar collaborating with alt-indie stalwart RIP Swirl\, lending her signature
+  hypnotic vocals to the single “I Found You Out” from his sophomore al
+ bum Perfectly Blue. Anchored by Alia’s unique voice\, her words speak of
+  restraint and release\, moving fluidly from the elegiac to the euphoric a
+ nd further cementing Alias Error’s position as an uncompromising rising 
+ star in the electronic and alt-pop scene. Most recently\, she featured on 
+ JASSS’s Eager Buyers EP\, released to high acclaim in September. The tra
+ ck “It’s A Hole” gestures toward the dark\, atmospheric and cerebral
+  world she will fully inhabit in the coming year. \n\n\n\nAlias Error is n
+ ow gearing up for her first solo record that will be released in 2026\, Th
+ e record looks to mould all of Alia’s influences into a singular express
+ ion – at once powerful and nimble\, and unlike anything else. Spanning e
+ ffortlessly between ethereal dream-pop to the more moodier corners of elec
+ tronic spaces\, Alias Error will be collaborating with acclaimed producers
+  Sepehr\, Priori\, Ben Bondy\, to name a few.  \n\n\n\nE-Fishpool \n\n\n\
+ nE Fishpool is a boundary-pushing live performer\, by  many accounts Eora
+ ’s best kept secret. They craft a unique live/hybrid set\, introducing 
+ something different each time they perform. E Fishpool was one of the firs
+ t electronic acts we had a Gang Gang (many years ago now)\, so we are stok
+ ed to host them again.  \n\n\n\nMicah Heathwood x Umki \n\n\n\nMicah Heat
+ hwood and Umki are two of Canberra’s most loved and unique artists. Mica
+ h Heathwood\, through his solo project\, notably toured earlier this year 
+ with Kamasi Washington\, while Umki has recently returned from their own i
+ nternational tour in 2025. Both artists are forward-thinking and firmly es
+ tablished within their respective worlds. \n\n\n\nMicah and Umki have perf
+ ormed a small selection of special live shows in the past\, most recently 
+ in 2023 alongside YL Hooi. Their collaborations are rare\, making them a m
+ ust see.  \n\n\n\nGang Gang is committed to an inclusive and safe experi
+ ence for all. Gang Gang Cafe is wheelchair accessible with accessible rest
+ rooms. We have zero tolerance for harassment and have support measures in 
+ place to ensure everyone’s safety. For specific accessibility needs or a
+ ssistance\, please contact us in advance. We aim to make our events enjoy
+ able for everyone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal peopl
+ e\, the Traditional Custodians of the land where our events take place. W
+ e pay our respects to their Elders past\, present\, and emerging\, and rec
+ ognise their enduring connection to this land\, waters\, and culture. We a
+ re grateful to celebrate music and dance on Ngunnawal Country. \n\n\n\nWe 
+ offer equity tickets (low cost) to those who need\, and free tickets to al
+ l First Nations\, we request please send an email to gigs@ganggangcafe.co
+ m.au to purchase/ receive either ticket.
+LAST-MODIFIED:20251221T002442Z
+URL:https://ganggangcafe.com.au/event/james-k-with-alias-error-friends/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:L.O.W x Human Condition SCHC Showdown
+DTSTART:20260114T073000
+DTEND:20260114T083000
+UID:dissent-6936653eb1ac13cb414a86c9
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Faulty Electronic presents... Lucas Abela
+DTSTART:20260117T193000
+DTEND:20260117T203000
+UID:dissent-69031d5a6dd88539e4506e24
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DYGL (Japan)\, GRMLN (USA)\, Olivia's World\, Vanishing Sound
+DTSTART:20260122T193000
+DTEND:20260122T203000
+UID:dissent-68e34b79ea5af87919f424db
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:STS Presents "Shared Frequency Vol 1"
+DTSTART:20260124T193000
+DTEND:20260124T203000
+UID:dissent-695624aa6a07ed44963dccb7
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PRIVATE WIVES - THREE OF SWORDS Album Tour
+DTSTART:20260130T193000
+DTEND:20260130T203000
+UID:dissent-6924cf3b106df5d826fbec3a
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Engine - One Big Bark Tour
+DTSTART:20260131T193000
+DTEND:20260131T203000
+UID:dissent-692fe12153d8176dac3a76ca
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ALL DAY BREAKFAST "Life's a Mess" Single Launch
+DTSTART:20260206T193000
+DTEND:20260206T203000
+UID:dissent-694600b20dececa107d373c4
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Great Australian Bank
+DTSTART:20260214T193000
+DTEND:20260214T203000
+UID:dissent-694b835a058aba57ac423700
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Many Mangy Mongrels And The Mighty Men Aboard The Monday Expre
+ ss Tour
+DTSTART:20260220T190000
+DTEND:20260220T200000
+UID:dissent-693a578d942b415ccab5f5f1
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Salonistas
+DTSTART:20260221T190000
+DTEND:20260221T200000
+UID:dissent-69571a03c3236dfdb2beace2
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FOREVER MOURNING  (East Coast Tour)
+DTSTART:20260227T190000
+DTEND:20260227T200000
+UID:dissent-695622bc33f2e45e86dd55d5
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Destinezia
+DTSTART:20260228T193000
+DTEND:20260228T203000
+UID:dissent-691d908c898c34147ecb58cb
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
