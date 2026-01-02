@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/checkout@v4
@@ -28,7 +30,7 @@ jobs:
           pip install -r requirements.txt
           python main.py
           mv events.ics pages/events.ics
-      - uses: emilymclean/git-auto-commit-action@master
+      - uses: stefanzweifel/git-auto-commit-action@v7
         with:
           repository: ./pages
           commit_message: "Update Calendar"
