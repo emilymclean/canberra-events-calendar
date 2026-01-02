@@ -1,15 +1,12 @@
 from icalendar import Event, Component
 
-from scraper.base import ICalScraper
+from scraper.base import ICalScraper, HumanitixScraper
 
 
-class GangGangScraper(ICalScraper):
+class DissentScraper(HumanitixScraper):
 
     def id(self) -> str:
-        return "ganggang"
+        return "dissent"
 
     def url(self) -> str:
-        return "https://ganggangcafe.com.au/events/?ical=1"
-
-    def _modify(self, event: Event) -> Event:
-        return event
+        return "https://collections.humanitix.com/dissent-gigs"
