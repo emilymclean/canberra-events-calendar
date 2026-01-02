@@ -4,8 +4,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260107T023000Z
 DTEND:20260107T033000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-38a456fabf45cfcacf83776093bab650
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-6cd8a11e7db84e55a5e79c90373370e4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/89814/f__29146_scribblers2.jpg
 CREATED:20250111T114358Z
@@ -21,8 +21,8 @@ BEGIN:VEVENT
 SUMMARY:Crafternoons at Smith's
 DTSTART:20260107T023000Z
 DTEND:20260107T040000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-542de3dd116058d53e6c527024d27712
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-c0dd793998ce2da1a43fb95d521c877e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/74920/f__28214_crafternoon.jpg
 CREATED:20220104T091258Z
@@ -38,8 +38,8 @@ BEGIN:VEVENT
 SUMMARY:Old Timey Wednesday
 DTSTART:20260107T060000Z
 DTEND:20260107T080000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-13a9133b5e7b334ecee240c87a126efd
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-81bfbf6b148c87bda0a0e034e30c1bce
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/69082/f__2084_old.time.jam.picture.jpg
 CREATED:20200626T034201Z
@@ -54,8 +54,8 @@ BEGIN:VEVENT
 SUMMARY:Matilda Lorenz Quintet
 DTSTART:20260107T090000Z
 DTEND:20260107T110000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-40cf9488b1491def069842fd29002870
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-62906ab90c2b4c7fe178bc16627afa1d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94729/f__32850_mlq.jpg
 CREATED:20251220T003137Z
@@ -71,8 +71,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260108T023000Z
 DTEND:20260108T040000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-da76787b3eae73022887899eb06c0b28
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-ae73b28422da73d5f6206eadf92d1eae
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/73943/f__29146_scribblers2.jpg
 CREATED:20211015T061550Z
@@ -87,8 +87,8 @@ BEGIN:VEVENT
 SUMMARY:Pop-Folk-Rock Jam
 DTSTART:20260108T060000Z
 DTEND:20260108T080000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-18d08d2eb1ceaa938d62deca7ac847e6
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-6c4f31160c8cbfd1d3ac478d3a2dc97a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/79790/f__29021_pfr.jpg
 CREATED:20230116T144129Z
@@ -103,8 +103,8 @@ BEGIN:VEVENT
 SUMMARY:Chameleon
 DTSTART:20260108T093000Z
 DTEND:20260108T113000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-7fcd7fcd5c46ab78463f9fcfa2196841
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-a46397693f9ba4069c38d8a5a6fca830
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94566/f__32819_cham.jpg
 CREATED:20251209T111926Z
@@ -119,8 +119,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers
 DTSTART:20260109T023000Z
 DTEND:20260109T040000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-456c7690e82fbbf2e410692978eae6ec
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-64074b1bcff510f606342b677e28daeb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/82645/f__29146_scribblers2.jpg
 CREATED:20230819T120435Z
@@ -135,8 +135,8 @@ BEGIN:VEVENT
 SUMMARY:CRAP MUSIC RAVE PARTY
 DTSTART:20260109T110000Z
 DTEND:20260109T130000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-d2e68b4249110a1d3455f407e5ebe6b4
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-bcba7b52493e71957d2ff59f1636781b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94644/f__32841_crap.jpg
 CREATED:20251216T071557Z
@@ -151,8 +151,8 @@ BEGIN:VEVENT
 SUMMARY:Woody Campfire
 DTSTART:20260110T090000Z
 DTEND:20260110T110000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-c5943e5cc8876b3c3b28003863610e8a
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-878bf2fd277e0662583fcaa2809e0a87
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94649/f__32842_woody.jpg
 CREATED:20251216T093019Z
@@ -169,8 +169,8 @@ BEGIN:VEVENT
 SUMMARY:Alex Lloyd - January
 DTSTART:20260110T110000Z
 DTEND:20260110T130000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-f0d2371f993522c6a52cd304953e2c33
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-30b6ae01f92b2508e1f569289f375100
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93151/f__32346_alexl.jpg
 CREATED:20250903T073133Z
@@ -185,8 +185,8 @@ BEGIN:VEVENT
 SUMMARY:Legs Fest '26
 DTSTART:20260111T050000Z
 DTEND:20260111T090000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-bc7642ae53b4a4ef30d95206d532da24
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-d37d6eb201e6950f6f8a5822fe9fa9e1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94764/f__32860_legs.jpg
 CREATED:20251221T070236Z
@@ -201,8 +201,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Open Mic Comedy
 DTSTART:20260111T090000Z
 DTEND:20260111T110000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-0efded381a0141e6bbbf1598a717c84e
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-7c4d1666588f575b4d76839416584500
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94751/f__32859_sopmic.jpg
 CREATED:20251220T050739Z
@@ -218,8 +218,8 @@ BEGIN:VEVENT
 SUMMARY:Lunchulele
 DTSTART:20260112T023000Z
 DTEND:20260112T040000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-2d139c0190b359889c34cab083dcb16a
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-58fd73afd33b980ca6a1a9b569c137fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/74838/f__27309_lunchulele2.jpg
 CREATED:20211213T142806Z
@@ -234,8 +234,8 @@ BEGIN:VEVENT
 SUMMARY:Canberra Eurosession
 DTSTART:20260112T060000Z
 DTEND:20260112T080000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-c722935c57f820b8751eee79a64bba04
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-4c23bb8e0292b8f020ed51bfd9aaa120
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/82011/f__29575_canbeuro.jpg
 CREATED:20230711T124056Z
@@ -251,8 +251,8 @@ BEGIN:VEVENT
 SUMMARY:Smith's Jazz Jam
 DTSTART:20260113T083000Z
 DTEND:20260113T113000Z
-DTSTAMP:20260102T091648Z
-UID:smiths-alternative-482ad3219f4cea70cf4552203ff3cf86
+DTSTAMP:20260102T092416Z
+UID:smiths-alternative-e3150c00bb98557ef1a0176ae36a4e7b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93807/f__32637_sjjj.jpg
 CREATED:20251014T023614Z
@@ -268,7 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260102T190000
 DTEND;TZID=Australia/Sydney:20260102T220000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10000485-1767380400-1767391200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -277,6 +277,7 @@ CREATED:20240219T000235Z
 DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
  s get loose live every Friday. Pssst – it’s free.
 LAST-MODIFIED:20240219T000732Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-01
  -02/
 END:VEVENT
@@ -284,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260108T183000
 DTEND;TZID=Australia/Sydney:20260108T210000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10000759-1767897000-1767906000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -295,13 +296,14 @@ DESCRIPTION:Trivia at Gang Gang.  \n\n\n\nEvery Thursday night Quiz Meiste
   for everyone!    Call us up to book a table inside if you’re keen to ge
  t quizzy. Otherwise you can enjoy regular service outside.
 LAST-MODIFIED:20240516T021518Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/trivia-2/2026-01-08/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -338,13 +340,14 @@ DESCRIPTION:When we first started Gang Gang\, it was during COVID\, we wer
  nise their enduring connection to this land\, waters\, and culture. We are
   grateful to celebrate music and dance on Ngunnawal Country.
 LAST-MODIFIED:20251201T224321Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/tops/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -384,13 +387,14 @@ DESCRIPTION:Annahstasia arrives in Australia for the first time this Febru
  nise their enduring connection to this land\, waters\, and culture. We are
   grateful to celebrate music and dance on Ngunnawal Country.
 LAST-MODIFIED:20251221T002204Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/annahstasia/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hannah Cohen + Sam Evian
 DTSTART;TZID=Australia/Sydney:20260304T180000
 DTEND;TZID=Australia/Sydney:20260304T230000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10001200-1772647200-1772665200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.47.31-am.png
@@ -434,13 +438,14 @@ DESCRIPTION:Two artists that have been on high rotation at the cafe and an
  onnection to this land\, waters\, and culture. We are grateful to celebrat
  e music and dance on Ngunnawal Country.
 LAST-MODIFIED:20251201T224848Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/hannah-cohen-sam-evian/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260102T191649
+DTSTAMP:20260102T192417
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -532,6 +537,7 @@ DESCRIPTION:This is a really special one for us. James K\, E Fishpool\, Mi
  l First Nations\, we request please send an email to gigs@ganggangcafe.co
  m.au to purchase/ receive either ticket.
 LAST-MODIFIED:20251221T002442Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/james-k-with-alias-error-friends/
 END:VEVENT
 BEGIN:VEVENT
