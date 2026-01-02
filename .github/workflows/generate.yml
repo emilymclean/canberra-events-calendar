@@ -27,6 +27,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
           python main.py
+          mv events.ics pages/events.ics
       - uses: emilymclean/git-auto-commit-action@master
         with:
           repository: ./pages
