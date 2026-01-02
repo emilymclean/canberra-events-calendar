@@ -15,5 +15,6 @@ class SmithsAlternativeScraper(ICalScraper):
 
     def _modify(self, event: Event) -> Event:
         event.uid = f'{self.id()}-{hashlib.md5(f"{event.name}{event.DTSTART}{event.DTEND}{event.DTSTAMP}".encode()).hexdigest()}'
+        event.pop("location")
         event.add("location", "Smiths Alternative, 76 Alinga St, Canberra ACT 2601")
         return event
