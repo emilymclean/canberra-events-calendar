@@ -34,3 +34,10 @@ jobs:
         with:
           repository: ./pages
           commit_message: "Update Calendar"
+  keep-alive:
+    permissions:
+      actions: write
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1
