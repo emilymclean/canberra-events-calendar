@@ -1,42 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Michelle Nicolle
-DTSTART:20260116T083000Z
-DTEND:20260116T103000Z
-DTSTAMP:20260116T025021Z
-UID:smiths-alternative-51c4d45e5ba0f84adcb983c4c8376f94
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94582/f__32824_mn.jpg
-CREATED:20251210T093540Z
-DESCRIPTION:Australia's most celebrated Jazz vocalist
-LAST-MODIFIED:20251210T104736Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/michelle-nicolle-94582
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Messiah
-DTSTART:20260116T113000Z
-DTEND:20260116T135500Z
-DTSTAMP:20260116T025021Z
-UID:smiths-alternative-95df839c6a201b656d95bb1c1bf70f89
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94606/f__32831_bm.jpg
-CREATED:20251212T035829Z
-DESCRIPTION:Hosted by Evan Teece
-LAST-MODIFIED:20251212T042505Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/black-messiah-94606
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Brodie Bunch
 DTSTART:20260117T050000Z
 DTEND:20260117T090000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-dbeb3abc29b070b106ef755ef4c92e68
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94777/f__32862_brodiebuttons.jpg
@@ -52,14 +20,14 @@ BEGIN:VEVENT
 SUMMARY:Queen of Hearts
 DTSTART:20260117T070000Z
 DTEND:20260117T090000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-eaeb21cd87bc0f5ceef6d7ae1f61cfc7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94841/f__32894_qoh.jpg
 CREATED:20260104T182542Z
 DESCRIPTION:Queen of Hearts is a dynamic fusion project blending mariachi\
  , Latin soul\, and folkloric traditions with contemporary arrangements.
-LAST-MODIFIED:20260109T050318Z
+LAST-MODIFIED:20260116T032035Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
@@ -69,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Black Cypress
 DTSTART:20260117T100000Z
 DTEND:20260117T123000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-1fb769a058ef63caf0f3fe12107c7ae1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94893/f__32898_bc.jpg
@@ -86,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:OC/DC
 DTSTART:20260118T090000Z
 DTEND:20260118T110000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-e45a1ec259d098ee9a56882b6984f2ba
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94782/f__32864_ocdc.jpg
@@ -102,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing Big Open Mic
 DTSTART:20260119T090000Z
 DTEND:20260119T110000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-0260562b090395bd0f9d51cad5ec85a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94788/f__32866_tpt190126.jpg
@@ -118,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260120T083000Z
 DTEND:20260120T110000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-907005fdf57757b1240e8689739f33b2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94697/f__32298_ssad.jpg
@@ -135,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260120T083000Z
 DTEND:20260120T120000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-d2532249ff4de61a5e695cec39d956fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94963/f__30321_bigbangbeng.jpg
@@ -153,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260121T090000Z
 DTEND:20260121T110000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-a92003d6c0ba00e6d36039e107dd1be1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94794/f__2157_classicalcapers.jpg
@@ -170,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Josefina Paulson
 DTSTART:20260122T083000Z
 DTEND:20260122T103000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-d52bc398b875df9221e190f4b5f750a3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94116/f__32722_josefina.jpg
@@ -186,7 +154,7 @@ BEGIN:VEVENT
 SUMMARY:The Ocelots
 DTSTART:20260123T083000Z
 DTEND:20260123T103000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-aff91b67881b6e7520e8e203b071afc5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94141/f__32728_the_ocelots.jpg
@@ -202,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Mic Knight Trio
 DTSTART:20260123T103000Z
 DTEND:20260123T133000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-dd431eb2dabc46f57145a4b34bc8a642
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94339/f__32705_mickk.jpg
@@ -220,7 +188,7 @@ BEGIN:VEVENT
 SUMMARY:Riff Raff
 DTSTART:20260125T010000Z
 DTEND:20260125T030000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-dcaaac7a3ea59d1f5de4553c23265748
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/81348/f__29397_riff.jpg
@@ -237,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Ahlan wa'Sahlan
 DTSTART:20260125T030000Z
 DTEND:20260125T050000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-48c805e164880fde7935ccdfb06dbc28
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/81337/f__27774_ahlan_feat.jpg
@@ -254,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Rise Up Reggae Vibez
 DTSTART:20260125T050000Z
 DTEND:20260125T090000Z
-DTSTAMP:20260116T025021Z
+DTSTAMP:20260117T024418Z
 UID:smiths-alternative-65c70b372b7c7ca240d324e317e102d0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94740/f__32854_rise.jpg
@@ -267,27 +235,42 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/rise-up-reggae-vibez-94740
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Jazz - Free Entry
-DTSTART;TZID=Australia/Sydney:20260116T190000
-DTEND;TZID=Australia/Sydney:20260116T220000
-DTSTAMP:20260116T125022
-UID:ganggang-10000487-1768590000-1768600800@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
- 024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
- jpg
-CREATED:20240219T000235Z
-DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
- s get loose live every Friday. Pssst – it’s free.
-LAST-MODIFIED:20240219T000732Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-01
- -16/
+SUMMARY:Musical Singalong
+DTSTART:20260125T060000Z
+DTEND:20260125T080000Z
+DTSTAMP:20260117T024418Z
+UID:smiths-alternative-9a750542508be843a3f28a9477c4805d
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94824/f__32829_singalong.jpg
+CREATED:20260102T065337Z
+DESCRIPTION:Like Karaoke\, but (loosely) confined to songs from musicals.
+LAST-MODIFIED:20260102T070255Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/musical-singalong-94824
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Poetry Thing Big Open Mic
+DTSTART:20260126T090000Z
+DTEND:20260126T110000Z
+DTSTAMP:20260117T024418Z
+UID:smiths-alternative-e263974e3aa7219dd469cb71acb7ecc1
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94799/f__32868_tpt260126.jpg
+CREATED:20251231T083515Z
+DESCRIPTION:
+LAST-MODIFIED:20251231T083850Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/that-poetry-thing-94799
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Bonnie Tangey
 DTSTART;TZID=Australia/Sydney:20260121T193000
 DTEND;TZID=Australia/Sydney:20260121T213000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10001214-1769023800-1769031000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/01/Screenshot-2026-01-08-at-11.18.58-am.png
@@ -315,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260122T183000
 DTEND;TZID=Australia/Sydney:20260122T210000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10000761-1769106600-1769115600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -330,10 +313,27 @@ LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/trivia-2/2026-01-22/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday Night Jazz - Free Entry
+DTSTART;TZID=Australia/Sydney:20260123T190000
+DTEND;TZID=Australia/Sydney:20260123T220000
+DTSTAMP:20260117T124419
+UID:ganggang-10000488-1769194800-1769205600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
+ 024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
+ jpg
+CREATED:20240219T000235Z
+DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
+ s get loose live every Friday. Pssst – it’s free.
+LAST-MODIFIED:20240219T000732Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-01
+ -23/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -424,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Hannah Cohen + Sam Evian
 DTSTART;TZID=Australia/Sydney:20260304T180000
 DTEND;TZID=Australia/Sydney:20260304T230000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10001200-1772647200-1772665200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.47.31-am.png
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260116T125022
+DTSTAMP:20260117T124419
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
