@@ -5,9 +5,9 @@ from abc import ABC, abstractmethod
 from typing import List
 from urllib.request import urlopen, Request
 import json
+from zoneinfo import ZoneInfo
 
 import dateutil.parser
-import dirtyjson
 import icalendar
 import urllib3
 from bs4 import BeautifulSoup
@@ -131,7 +131,8 @@ class HumanitixScraper(WebScraper, ABC):
         events = []
 
         for event in events_json[0]["result"]["data"]["events"]:
-            dt = dateutil.parser.isoparse(event["dates"]["timeTagDate"])
+            dt = (dateutil.parser.isoparse(event["dates"]["timeTagDate"])
+                  .astimezone(ZoneInfo('Australia/Sydney')))
 
             out = icalendar.Event()
             out.add("uid", f"{self.id()}-{event["id"]}")
