@@ -1,42 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Crafternight
-DTSTART:20260202T080000Z
-DTEND:20260202T103000Z
-DTSTAMP:20260202T032227Z
-UID:smiths-alternative-33ae76e5cf6ac83e3dedaf67b555c648
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94984/f__32918_craft.jpg
-CREATED:20260114T071834Z
-DESCRIPTION:
-LAST-MODIFIED:20260114T072800Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/crafternight-94984
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geoff's That Poetry Thing
-DTSTART:20260202T090000Z
-DTEND:20260202T110000Z
-DTSTAMP:20260202T032227Z
-UID:smiths-alternative-a948af11923c73823f05d4bb960d7192
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95077/f__32942_tpt020226.jpg
-CREATED:20260122T042543Z
-DESCRIPTION:David Brooks and Deborah Dawkings
-LAST-MODIFIED:20260122T043122Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/that-poetry-thing-95077
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260203T083000Z
 DTEND:20260203T110000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-4106483fd435177444236ef64c5d74a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94702/f__32298_ssad.jpg
@@ -53,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Dale Barlow-Andrew Dickeson 4tet
 DTSTART:20260204T090000Z
 DTEND:20260204T110000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-4d0b13fdb52d43d8d90e83af28a11952
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94852/f__32882_dale.jpg
@@ -71,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Chuckle Force Comedy #10
 DTSTART:20260205T093000Z
 DTEND:20260205T113000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-c2d84d42318e4f57030cd8e7e949efac
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95081/f__32943_chuckfeb26.jpg
@@ -87,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Flora Falls
 DTSTART:20260206T100000Z
 DTEND:20260206T130000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-a8faf6f6cffd2547ef98a53cf49539ad
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94901/f__32901_ff.jpg
@@ -103,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Wax Lyrical
 DTSTART:20260207T020000Z
 DTEND:20260207T043000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-24fdb70eb6ccb1173580eef6e57cec50
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93539/f__32848_waxy.jpg
@@ -119,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Byron & Kon
 DTSTART:20260207T060000Z
 DTEND:20260207T080000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-c04adbed7a2b972a7ccca1febdead505
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95089/f__32946_byron__.jpg
@@ -136,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:26 on top
 DTSTART:20260207T100000Z
 DTEND:20260207T130000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-93c61d7e89cd90ef9df308670f31feff
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94875/f__32890_26.jpg
@@ -152,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Afro Moses
 DTSTART:20260207T110000Z
 DTEND:20260207T130000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-3e53a7802e735154bf6a9a5327a1f4f4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95141/f__32955_afro.jpg
@@ -169,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Dan Walsh banjo workshop
 DTSTART:20260208T050000Z
 DTEND:20260208T063000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-73459091071bf13afe89013ec40ce9b2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93465/f__32564_dan_walsh.jpg
@@ -185,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Dan Walsh
 DTSTART:20260208T090000Z
 DTEND:20260208T110000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-75dfc81b667b68575f50b8bcb8cf92e0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93462/f__32564_dan_walsh.jpg
@@ -201,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260209T090000Z
 DTEND:20260209T110000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-ab281bfd8e2d6d697c87f1f99f7326c6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95002/f__32921_tpt090226.jpg
@@ -217,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260210T083000Z
 DTEND:20260210T110000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-95ab141b97e2f7642d3a5413b8f5f308
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95056/f__32298_ssad.jpg
@@ -234,7 +202,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260210T083000Z
 DTEND:20260210T120000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-d0ee8ef41e0dec2fd1be866f93e4d638
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95158/f__30321_bigbangbeng.jpg
@@ -252,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Rental Funk
 DTSTART:20260211T093000Z
 DTEND:20260211T113000Z
-DTSTAMP:20260202T032227Z
+DTSTAMP:20260203T031216Z
 UID:smiths-alternative-220ed20ac9167e831ec4359bf17b6e58
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95197/f__32967_rental_funk.jpg
@@ -265,10 +233,42 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/rental-funk-95197
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:FLESH February Sess
+DTSTART:20260212T083000Z
+DTEND:20260212T110000Z
+DTSTAMP:20260203T031216Z
+UID:smiths-alternative-fa22ad309f845537aa95ed3f1c5a23eb
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95136/f__32954_feb_flesh.jpg
+CREATED:20260124T081112Z
+DESCRIPTION:
+LAST-MODIFIED:20260127T093233Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/flesh-95136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enda Kenny
+DTSTART:20260213T090000Z
+DTEND:20260213T110000Z
+DTSTAMP:20260203T031216Z
+UID:smiths-alternative-93112395d464d8102cc5b4b7007aa829
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95255/f__32981_enda.jpg
+CREATED:20260131T022437Z
+DESCRIPTION:"The finest Irish songwriter living overseas" - Colum Sands
+LAST-MODIFIED:20260131T022724Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/enda-kenny-95255
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260205T183000
 DTEND;TZID=Australia/Sydney:20260205T210000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10000763-1770316200-1770325200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260206T190000
 DTEND;TZID=Australia/Sydney:20260206T220000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10000490-1770404400-1770415200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -303,7 +303,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Alex Hudson
 DTSTART;TZID=Australia/Sydney:20260211T193000
 DTEND;TZID=Australia/Sydney:20260211T200000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001227-1770838200-1770840000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.05.43-pm.png
@@ -335,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Day 10
 DTSTART;TZID=Australia/Sydney:20260214T150000
 DTEND;TZID=Australia/Sydney:20260214T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001219-1771081200-1771110000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/01/Screenshot-2026-01-20-at-12.51.19-pm.png
@@ -388,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 SUMMARY:Day 11
 DTSTART;TZID=Australia/Sydney:20260228T160000
 DTEND;TZID=Australia/Sydney:20260228T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001228-1772294400-1772319600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.09.04-pm.png
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -511,7 +511,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -610,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -672,7 +672,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260202T132228
+DTSTAMP:20260203T131217
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
