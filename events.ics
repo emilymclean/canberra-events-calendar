@@ -1,44 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:What She's Having
-DTSTART:20260214T050000Z
-DTEND:20260214T070000Z
-DTSTAMP:20260214T030641Z
-UID:smiths-alternative-8325cc1cfcf0e54e6ae7854b3f338b78
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95027/f__32933_val.jpg
-CREATED:20260116T024534Z
-DESCRIPTION:Join us for an afternoon of anti-Valentine's Day mayhem and fr
- ivolity.
-LAST-MODIFIED:20260116T025423Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/what-she-s-having-95027
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Band Beng Bing Bong Bung
-DTSTART:20260214T090000Z
-DTEND:20260214T120000Z
-DTSTAMP:20260214T030641Z
-UID:smiths-alternative-cb9cb363e866d0f8ec9285f1ba2bdc0a
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95353/f__27083_bandbeng.jpg
-CREATED:20260211T021843Z
-DESCRIPTION:Forty minute sets from local bands. Appearing: MANOREXIC\, Mag
- pie Hill
-LAST-MODIFIED:20260211T081736Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/band-beng-bing-bong-bung-95353
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kim Yang
 DTSTART:20260215T060000Z
 DTEND:20260215T080000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-d544a8d59c8875dfd397b556b7578f51
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95084/f__32944_kimyang.jpg
@@ -54,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260216T090000Z
 DTEND:20260216T110000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-edd5e420bf8b719e7fd0ef42be487955
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95132/f__32953_tpt160226.jpg
@@ -70,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260217T083000Z
 DTEND:20260217T110000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-7a934147841686c25346f78a9c5681ef
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95057/f__32298_ssad.jpg
@@ -87,14 +53,14 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260217T083000Z
 DTEND:20260217T120000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-d4840665c29c5de156bd9f8abf788529
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95214/f__30321_bigbangbeng.jpg
 CREATED:20260129T031255Z
 DESCRIPTION:Smith's version of the open-mic\, only BIGGER. The Big BBBBB i
  s five songs each from up to eight singer-songwriters.
-LAST-MODIFIED:20260213T091806Z
+LAST-MODIFIED:20260214T063025Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
@@ -105,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260218T090000Z
 DTEND:20260218T110000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-65f40aea18b51c261d2b40e32b374538
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95200/f__2157_classicalcapers.jpg
@@ -122,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:The Lounge Club
 DTSTART:20260219T083000Z
 DTEND:20260219T103000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-6f17ae9733e3154f750c1c86afd952f8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95360/f__33003_walla.jpg
@@ -138,14 +104,14 @@ BEGIN:VEVENT
 SUMMARY:Smith's Varietal #206
 DTSTART:20260219T090000Z
 DTEND:20260219T120000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-80fb2d9420c4972bb9157f45ef3462d8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95419/f__33017_ruby.jpg
 CREATED:20260213T035933Z
 DESCRIPTION:Another night of exploring the unexpected further reaches of C
  anberra's performing arts community.
-LAST-MODIFIED:20260213T043743Z
+LAST-MODIFIED:20260214T040814Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
@@ -155,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:The Johnnys
 DTSTART:20260220T100000Z
 DTEND:20260220T130000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-3312d6ad4486c35d18170193b676d0f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94812/f__32873_bbb.jpg
@@ -171,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Hecate's Daughters
 DTSTART:20260221T040000Z
 DTEND:20260221T070000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-a8743030df58b8fcf5236edff137f4e3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94950/f__32912_hec.jpg
@@ -187,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Band Beng Bing Bong Bung
 DTSTART:20260221T090000Z
 DTEND:20260221T130000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-ffdc0c27db98d0ec0a73a4427dc7b9a6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95367/f__27083_bandbeng.jpg
@@ -204,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Singalong
 DTSTART:20260222T050000Z
 DTEND:20260222T070000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-b6cdc10b725df80644d4c8535f26c2fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95204/f__32829_singalong.jpg
@@ -220,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Lisa Richards and Evan Buckley
 DTSTART:20260222T060000Z
 DTEND:20260222T080000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-2bb9b4b9ca94886cffdfa1bbee725b17
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95297/f__32995_lr.jpg
@@ -237,7 +203,7 @@ BEGIN:VEVENT
 SUMMARY:The Ned Branchi Band
 DTSTART:20260222T090000Z
 DTEND:20260222T110000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-69eb45943dabfd0eadc2c30322f5a175
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95273/f__32988_nedbb.jpg
@@ -253,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Harp Revolution with Adriano Sangineto and Jacopo Dessi
 DTSTART:20260223T083000Z
 DTEND:20260223T100000Z
-DTSTAMP:20260214T030641Z
+DTSTAMP:20260215T032508Z
 UID:smiths-alternative-2ec61335ab65eb395b759037fe527c43
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94856/f__32888_harprev1.jpg
@@ -266,63 +232,42 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/harp-revolution-94856
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Day 10
-DTSTART;TZID=Australia/Sydney:20260214T150000
-DTEND;TZID=Australia/Sydney:20260214T230000
-DTSTAMP:20260214T130642
-UID:ganggang-10001219-1771081200-1771110000@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/01/Screenshot-2026-01-20-at-12.51.19-pm.png
-CREATED:20260120T015238Z
-DESCRIPTION:Day 10\n\n\n\n \n\n\n\n\n\nDay 10 – RONA. / Alfred Czital & 
- Ayū / Helhur / Trae Bashford / Eldest \n\n\n\nAnd just like that\, we’r
- e at number 10! \n\n\n\nThis will be a special one\, if you were lucky eno
- ugh to catch RONA’s set at Meredith\, you’ll know why \n\n\n\nJoining 
- the bill all the way from Berlin with a live set is Alfred Czital and Ayū
-  along with some of our favourite locals \n\n\n\nRONA. \n\n\n\nRONA. is a 
- Kaytetye producer and DJ whose sound is deeply grounded in the vast desert
-  landscapes of her home\, Mparntwein central ‘Australia’. \n\n\n\nBlen
- ding the rhythms and landscapes of desert Country with the pulse of club c
- ulture\, she crafts immersive sonic experiences that are driven from her l
- ife moving between many worlds. Since her breakout 2022 release\, Closure\
- , RONA. has emerged as a force in electronic music\, building a catalogue 
- that channels the deep storylines she’s connected to. Her Ancestors soun
- dtracked the first sunrise and she continues their legacy\, exploring rhyt
- hm\, sovereignty in sound\, and oral storytelling in evolving ways. A soni
- c and visual storyteller\, RONA. layers synths with the textures of Countr
- y\, creating journeys that resonate with the soul and move dance floors. \
- n\n\n\nHer latest releases\, Raise It and Burn It\, push sonic boundaries 
- in her practice while amplifying movements for First Nations justice and l
- iberation. With a growing presence alongside beloved electronic artists li
- ke Four Tet and Overmono\, RONA. has left her mark on major festivals\, in
- cluding Laneway\, Pitch Music & Arts\, Strawberry Fields\, and Splendour i
- n the Grass. RONA. is an artist creating music that centres connections to
-  Country\, self\, and place across generations. \n\n\n\nAlfred Czital & Ay
- ū \n\n\n\nBerlin-based producers Alfred Czital and Ayū joined forces in 
- 2023 to create a distinctive live project under the umbrella of Harmony Re
- c. Known for their wide-ranging explorations of trance\, their performance
- s blend deep atmospheres with driving grooves\, crafting an experience tha
- t balances intensity with subtle detail. Each set is designed as a journey
- - immersive\, evolving\, and firmly rooted in the dancefloor. \n\n\n\n\n\n
- \n\nGang Gang is committed to an inclusive and safe experience for all. Ga
- ng Gang Cafe is wheelchair accessible with accessible restrooms. We have z
- ero tolerance for harassment and have support measures in place to ensure 
- everyone’s safety. For specific accessibility needs or assistance\, plea
- se contact us in advance. We aim to make our events enjoyable for everyone
- . \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal and Ngambri people\, t
- he Traditional Custodians of the land where our events take place. We pay 
- our respects to their Elders past\, present\, and emerging\, and recognise
-  their enduring connection to this land\, waters\, and culture. We are gra
- teful to celebrate music and dance on Ngunnawal Country.
-LAST-MODIFIED:20260120T015650Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/3133/
+SUMMARY:That Poetry Thing
+DTSTART:20260223T090000Z
+DTEND:20260223T110000Z
+DTSTAMP:20260215T032508Z
+UID:smiths-alternative-5325160318adf73b69f1999effdb23bf
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95131/f__32966_tpt230226.jpg
+CREATED:20260124T072121Z
+DESCRIPTION:Heather Taylor Johnson and Quite a Big Open Mic
+LAST-MODIFIED:20260128T080518Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/that-poetry-thing-95131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Get in the Groove: Exploring Italian Folk Rhythms on the Harp
+DTSTART:20260224T030000Z
+DTEND:20260224T060000Z
+DTSTAMP:20260215T032508Z
+UID:smiths-alternative-e9a908bf7cbc71f3e7b8349f59447ec9
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94866/f__32889_harprev1.jpg
+CREATED:20260105T111256Z
+DESCRIPTION:Harp workshop with Adriano Sangineto
+LAST-MODIFIED:20260108T042152Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/get-in-the-groove-94866
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260219T183000
 DTEND;TZID=Australia/Sydney:20260219T210000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10000765-1771525800-1771534800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -340,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260220T190000
 DTEND;TZID=Australia/Sydney:20260220T220000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10000492-1771614000-1771624800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -357,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -401,7 +346,7 @@ BEGIN:VEVENT
 SUMMARY:Day 11
 DTSTART;TZID=Australia/Sydney:20260228T160000
 DTEND;TZID=Australia/Sydney:20260228T230000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001228-1772294400-1772319600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.09.04-pm.png
@@ -433,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -480,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -579,7 +524,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -641,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260214T130642
+DTSTAMP:20260215T132509
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
@@ -669,15 +614,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Australian Bank
-DTSTART;TZID=Australia/Sydney:20260214T183000
-DTEND;TZID=Australia/Sydney:20260214T193000
-UID:dissent-694b835a058aba57ac423700
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -769,6 +705,15 @@ SUMMARY:Destinezia
 DTSTART;TZID=Australia/Sydney:20260228T193000
 DTEND;TZID=Australia/Sydney:20260228T203000
 UID:dissent-691d908c898c34147ecb58cb
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday Reggae
+DTSTART;TZID=Australia/Sydney:20260301T150000
+DTEND;TZID=Australia/Sydney:20260301T160000
+UID:dissent-697d6fbba1422e03548c1783
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
