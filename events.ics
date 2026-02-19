@@ -1,27 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Classical Capers
-DTSTART:20260218T090000Z
-DTEND:20260218T110000Z
-DTSTAMP:20260218T032201Z
-UID:smiths-alternative-65f40aea18b51c261d2b40e32b374538
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95200/f__2157_classicalcapers.jpg
-CREATED:20260128T104833Z
-DESCRIPTION:Opera star Tobias Cole hosts an entertaining evening for class
- ically trained (and untrained) musicians and enthusiasts.
-LAST-MODIFIED:20260128T105150Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/classical-capers-95200
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Lounge Club
 DTSTART:20260219T083000Z
 DTEND:20260219T103000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-6f17ae9733e3154f750c1c86afd952f8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95360/f__33003_walla.jpg
@@ -37,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Varietal #206
 DTSTART:20260219T090000Z
 DTEND:20260219T120000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-80fb2d9420c4972bb9157f45ef3462d8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95419/f__33017_ruby.jpg
@@ -54,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:The Johnnys
 DTSTART:20260220T100000Z
 DTEND:20260220T130000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-3312d6ad4486c35d18170193b676d0f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94812/f__32873_bbb.jpg
@@ -70,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Hecate's Daughters
 DTSTART:20260221T040000Z
 DTEND:20260221T070000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-a8743030df58b8fcf5236edff137f4e3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94950/f__32912_hec.jpg
@@ -86,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Band Beng Bing Bong Bung
 DTSTART:20260221T090000Z
 DTEND:20260221T130000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-ffdc0c27db98d0ec0a73a4427dc7b9a6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95367/f__27083_bandbeng.jpg
@@ -103,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Singalong
 DTSTART:20260222T050000Z
 DTEND:20260222T070000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-b6cdc10b725df80644d4c8535f26c2fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95204/f__32829_singalong.jpg
@@ -119,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Lisa Richards and Evan Buckley
 DTSTART:20260222T060000Z
 DTEND:20260222T080000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-2bb9b4b9ca94886cffdfa1bbee725b17
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95297/f__32995_lr.jpg
@@ -136,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:The Ned Branchi Band
 DTSTART:20260222T090000Z
 DTEND:20260222T110000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-69eb45943dabfd0eadc2c30322f5a175
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95273/f__32988_nedbb.jpg
@@ -152,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Harp Revolution with Adriano Sangineto and Jacopo Dessi
 DTSTART:20260223T083000Z
 DTEND:20260223T100000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-2ec61335ab65eb395b759037fe527c43
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94856/f__32888_harprev1.jpg
@@ -168,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260223T090000Z
 DTEND:20260223T110000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-5325160318adf73b69f1999effdb23bf
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95131/f__32966_tpt230226.jpg
@@ -184,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Get in the Groove: Exploring Italian Folk Rhythms on the Harp
 DTSTART:20260224T030000Z
 DTEND:20260224T060000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-e9a908bf7cbc71f3e7b8349f59447ec9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94866/f__32889_harprev1.jpg
@@ -200,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260224T083000Z
 DTEND:20260224T110000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-8e4ddd723a6577a1ffa49e79d16e6eea
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95058/f__32298_ssad.jpg
@@ -217,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260225T090000Z
 DTEND:20260225T103000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-c0f1ff776d01722f85f6b5d5be7d06f0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95310/f__32997_serenade-2026.jpg
@@ -233,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Miscellaneous
 DTSTART:20260226T090000Z
 DTEND:20260226T110000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-010ee168ee11c4086805f6cd53a69b73
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95261/f__32983_miscc.jpg
@@ -249,7 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Northern Resonance
 DTSTART:20260226T093000Z
 DTEND:20260226T113000Z
-DTSTAMP:20260218T032201Z
+DTSTAMP:20260219T031306Z
 UID:smiths-alternative-3a3d2a8aa1e5b5db339f3786edf262ec
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94923/f__32906_northres.jpg
@@ -262,10 +245,28 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/northern-resonance-94923
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jordie Lane
+DTSTART:20260227T083000Z
+DTEND:20260227T103000Z
+DTSTAMP:20260219T031306Z
+UID:smiths-alternative-6dbabcd88c5314587406b51362d9200a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95373/f__33005_jl.jpg
+CREATED:20260211T052812Z
+DESCRIPTION:Born to a comedian and a clown\, Nashville-based\, Melbourne b
+ orn folk artist Jordie Lane\, makes a triumphant return with his acclaimed
+  album 'Tropical Depression'.
+LAST-MODIFIED:20260212T045203Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/jordie-lane-95373
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260219T183000
 DTEND;TZID=Australia/Sydney:20260219T210000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10000765-1771525800-1771534800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -283,7 +284,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260220T190000
 DTEND;TZID=Australia/Sydney:20260220T220000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10000492-1771614000-1771624800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -300,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:TOPS
 DTSTART;TZID=Australia/Sydney:20260221T190000
 DTEND;TZID=Australia/Sydney:20260221T230000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001198-1771700400-1771714800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-02-at-9.41.41-am.png
@@ -344,7 +345,7 @@ BEGIN:VEVENT
 SUMMARY:Day 11
 DTSTART;TZID=Australia/Sydney:20260228T160000
 DTEND;TZID=Australia/Sydney:20260228T230000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001228-1772294400-1772319600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.09.04-pm.png
@@ -376,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -423,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Nick Starkey
 DTSTART;TZID=Australia/Sydney:20260304T193000
 DTEND;TZID=Australia/Sydney:20260304T213000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001233-1772652600-1772659800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-16-at-11.24.22-am.png
@@ -445,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -544,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -606,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260218T132203
+DTSTAMP:20260219T131307
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
@@ -634,16 +635,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:kisses (Narrm/Melb - Album Launch) with special guests Sia & Luci 
- play ’Songs’\, plus Lily Morris
-DTSTART;TZID=Australia/Sydney:20260218T193000
-DTEND;TZID=Australia/Sydney:20260218T203000
-UID:dissent-69706817c5eed27ed8c063fb
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -734,6 +725,15 @@ SUMMARY:Sunday Reggae
 DTSTART;TZID=Australia/Sydney:20260301T150000
 DTEND;TZID=Australia/Sydney:20260301T160000
 UID:dissent-697d6fbba1422e03548c1783
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Condor (FRA/USA)
+DTSTART;TZID=Australia/Sydney:20260304T193000
+DTEND;TZID=Australia/Sydney:20260304T203000
+UID:dissent-697ac2bf062438e64d8ae046
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
