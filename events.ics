@@ -1,43 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Get in the Groove: Exploring Italian Folk Rhythms on the Harp
-DTSTART:20260224T030000Z
-DTEND:20260224T060000Z
-DTSTAMP:20260224T031110Z
-UID:smiths-alternative-e9a908bf7cbc71f3e7b8349f59447ec9
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94866/f__32889_harprev1.jpg
-CREATED:20260105T111256Z
-DESCRIPTION:Harp workshop with Adriano Sangineto
-LAST-MODIFIED:20260108T042152Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/get-in-the-groove-94866
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smith's Scribblers After Dark
-DTSTART:20260224T083000Z
-DTEND:20260224T110000Z
-DTSTAMP:20260224T031110Z
-UID:smiths-alternative-8e4ddd723a6577a1ffa49e79d16e6eea
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95058/f__32298_ssad.jpg
-CREATED:20260121T031625Z
-DESCRIPTION:Spend Tuesday night creating something splendid.
-LAST-MODIFIED:20260121T042457Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
- 95058
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260225T090000Z
 DTEND:20260225T103000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-c0f1ff776d01722f85f6b5d5be7d06f0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95310/f__32997_serenade-2026.jpg
@@ -53,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Miscellaneous
 DTSTART:20260226T090000Z
 DTEND:20260226T110000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-010ee168ee11c4086805f6cd53a69b73
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95261/f__32983_miscc.jpg
@@ -69,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Northern Resonance
 DTSTART:20260226T093000Z
 DTEND:20260226T113000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-3a3d2a8aa1e5b5db339f3786edf262ec
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94923/f__32906_northres.jpg
@@ -85,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Guitar\, Guitar
 DTSTART:20260227T093000Z
 DTEND:20260227T113000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-d72cdb3f5d7c2cbfe992ca3fb928e8eb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95408/f__33013_gitgit.jpg
@@ -101,13 +68,13 @@ BEGIN:VEVENT
 SUMMARY:Alias Cabaret
 DTSTART:20260227T113000Z
 DTEND:20260227T123000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-3420324908baa18f5e0505f2f5e6a7bd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95342/f__33000_acab.jpg
+ s/images/66/95342/f__33115_alias1.jpg
 CREATED:20260209T223049Z
 DESCRIPTION:
-LAST-MODIFIED:20260210T034308Z
+LAST-MODIFIED:20260225T030023Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
@@ -117,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Fall in Love with Writing Romance
 DTSTART:20260228T020000Z
 DTEND:20260228T060000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-71059b2bc21eddd7256df8ed17acc777
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95511/f__33041_marion.jpg
@@ -135,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Pete & Sue McMahon
 DTSTART:20260228T060000Z
 DTEND:20260228T080000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-3c414b5c7d436acf355f5a2c76981904
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95209/f__28134_pete.jpg
@@ -151,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Dean Abbott
 DTSTART:20260228T083000Z
 DTEND:20260228T103000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-b19c55ade12fbadb52231e809257f8bf
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94959/f__32915_deanabbott.jpg
@@ -167,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Handlebars of Happiness
 DTSTART:20260301T020000Z
 DTEND:20260301T030000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-f9d86c89e1d178632e9b9670053a5d27
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95350/f__32057_cyc.jpg
@@ -183,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260301T040000Z
 DTEND:20260301T053000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-6e3e2e65136f363957142415b74e9a7a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95305/f__32997_serenade-2026.jpg
@@ -199,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:Svavar Knutur
 DTSTART:20260301T090000Z
 DTEND:20260301T110000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-d086347c2c70d15a53253b58f2e9e4c7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93919/f__32665_svavar.jpg
@@ -215,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:Local Gold #11
 DTSTART:20260302T090000Z
 DTEND:20260302T110000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-41055e0f4141b0f4df414250cbc508c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95435/f__32726_logold.jpg
@@ -232,7 +199,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's That Poetry Thing
 DTSTART:20260302T090000Z
 DTEND:20260302T110000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-41055e0f4141b0f4df414250cbc508c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95571/f__33092_tpt020326.jpg
@@ -249,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260303T083000Z
 DTEND:20260303T110000Z
-DTSTAMP:20260224T031110Z
+DTSTAMP:20260225T031227Z
 UID:smiths-alternative-6a801cd6085df7fa536bf8102235e7b0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95066/f__32298_ssad.jpg
@@ -263,10 +230,42 @@ URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
  95066
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El Pony Pisador
+DTSTART:20260303T090000Z
+DTEND:20260303T110000Z
+DTSTAMP:20260225T031227Z
+UID:smiths-alternative-725a7f5328a608690b6919a02e2adf33
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95242/f__32977_pony.jpg
+CREATED:20260130T035737Z
+DESCRIPTION:
+LAST-MODIFIED:20260130T074930Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/el-pony-pisador-95242
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FLESH March Sess
+DTSTART:20260304T083000Z
+DTEND:20260304T110000Z
+DTSTAMP:20260225T031227Z
+UID:smiths-alternative-63a415e2b3adb292bb9db4c2afa4a933
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95164/f__32963_mar.jpg
+CREATED:20260127T091826Z
+DESCRIPTION:
+LAST-MODIFIED:20260127T094146Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/flesh-march-sess-95164
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260226T183000
 DTEND;TZID=Australia/Sydney:20260226T210000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10000766-1772130600-1772139600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -284,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260227T190000
 DTEND;TZID=Australia/Sydney:20260227T220000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10000493-1772218800-1772229600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -301,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Day 11
 DTSTART;TZID=Australia/Sydney:20260228T160000
 DTEND;TZID=Australia/Sydney:20260228T230000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001228-1772294400-1772319600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.09.04-pm.png
@@ -333,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -380,7 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Nick Starkey
 DTSTART;TZID=Australia/Sydney:20260304T193000
 DTEND;TZID=Australia/Sydney:20260304T213000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001233-1772652600-1772659800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-16-at-11.24.22-am.png
@@ -402,7 +401,7 @@ BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -501,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -560,10 +559,79 @@ LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/ruby-gill-mimi-gilbert-poetry/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ranagri (England) at Gang Gang
+DTSTART;TZID=Australia/Sydney:20260318T183000
+DTEND;TZID=Australia/Sydney:20260318T213000
+DTSTAMP:20260225T131229
+UID:ganggang-10001236-1773858600-1773869400@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/02/Screenshot-2026-02-25-at-9.40.16-am.png
+CREATED:20260224T224123Z
+DESCRIPTION:Peace Run Records is proud to present Ranagri (England) at Gan
+ g Gang Cafe on Wednesday 11 March. With doors at 6.30pm and show start 7pm
+ \, tickets are $35 entry presale and $40 on the door. Ranagri are coming o
+ ut to Australia for the first time and we are so excited to be bringing th
+ is incredible contemporary folk band to Canberra as a Blue Mountains Music
+  Festival sideshow. Supported by Australian/Fijian Folk-soul singer Andrea
+  Kirwin\, this concert will feature a variety of instruments including cig
+ ar box guitar\, acoustic guitar\, flute\, harp\, percussion and more. \n\n
+ \n\nRanagri is an award winning folk band from Ireland and England. With a
+  unique blend of instruments that includes voices\, guitar\, bouzouki\, fl
+ utes\, whistles\, harp/electric harp\, and bodhrán/drums\, they create a 
+ sound that is both mesmerising and unforgettable. \n\n\n\nThe band has rec
+ orded five studio albums to date\, with their latest release\, ‘Traditio
+ n II\,’ receiving critical acclaim upon its release in July 2022. Folk R
+ adio UK placed the album in their top 10 albums of 2022\, cementing the ba
+ nd’s status as one of the most exciting and innovative folk bands in the
+  UK today. \n\n\n\nPrevious critically acclaimed albums\, ‘Playing For L
+ uck\,’ ‘Fort of the Hare\,’ and ‘The Great Irish Songbook’ (with
+  pop legend Tony Christie)\, were recorded at the Grammy Award- winning St
+ ockfisch Records label. The band’s third album\, ‘VOICES\,’ was reco
+ rded at Peter Gabriel’s Real World Studios and along with the album ‘T
+ radition’ were both released on GoatsKin Records. \n\n\n\nRanagri has es
+ tablished themselves as a standout act\, drawing in crowds from around the
+  world with their captivating live performances and exceptional musiciansh
+ ip. They have performed at some of the most prestigious venues & festivals
+  across the UK and Europe including Cambridge Folk Festival\, Bloom festiv
+ al (Dublin)\, Montelago festival (Italy)\,Towersey Festival\, a headline s
+ lot at Costa Festival Ibiza 2023\, Birmingham Symphony Hall\, The Union Ch
+ apel\, Kings Place London along with regular tours of Scotland and Europe.
+  \n\n\n\nRanagri are Dónal Rogers\, a prolific songwriter and producer\, 
+ who has joined forces with the exceptional skills of renowned flautist Eli
+ za Marshall\, harpist Eleanor Dunsdon and percussionist Jordan Murray. Tog
+ ether\, Ranagri establish a fresh and modern sonic landscape within the fo
+ lk genre\, captivating audiences both domestically and internationally\, a
+ n energetic festival band yet equally at home with their more intimate wri
+ ting and thought provoking lyrics. They are as happy to make you dance as 
+ they are to make you smile or shed a tear\, passionately delving into curr
+ ent world topics\, playing with politics\, and creating uplifting music to
+  lyrics with great depth. \n\n\n\nAndrea Kirwin \n\n\n\nFor 20 years Austr
+ alian/Fijian singer-songwriter Andrea Kirwin has been performing on the Au
+ stralian Folk Festival scene and has built a career through her live shows
+ \, her knack for storytelling and her love for her music community. Andrea
+ ’s style is laid back\, giving space for her songs – and voice – to 
+ really shine. Performing on Vocals\, Guitar\, Cigar box guitar and Stomp\,
+  Andrea’s original songs are written in a range of genres including Folk
+ \, Soul\, Blues and Roots and World music. \n\n\n\n\n\n\n\nGang Gang is co
+ mmitted to an inclusive and safe experience for all. Gang Gang Cafe is whe
+ elchair accessible with accessible restrooms. We have zero tolerance for h
+ arassment and have support measures in place to ensure everyone’s safety
+ . For specific accessibility needs or assistance\, please contact us in ad
+ vance. We aim to make our events enjoyable for everyone. \n\n\n\nGang Gang
+  Cafe acknowledges the Ngunnawal and Ngambri people\, the Traditional Cust
+ odians of the land where our events take place. We pay our respects to the
+ ir Elders past\, present\, and emerging\, and recognise their enduring con
+ nection to this land\, waters\, and culture. We are grateful to celebrate 
+ music and dance on Ngunnawal Country.
+LAST-MODIFIED:20260224T224124Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/ranagri-england-at-gang-gang/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260224T131111
+DTSTAMP:20260225T131229
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
