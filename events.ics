@@ -1,42 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Smith's Miscellaneous
-DTSTART:20260226T090000Z
-DTEND:20260226T110000Z
-DTSTAMP:20260226T030829Z
-UID:smiths-alternative-010ee168ee11c4086805f6cd53a69b73
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95261/f__32983_miscc.jpg
-CREATED:20260201T093513Z
-DESCRIPTION:Canberra's Crash-Hot Comedy Cabaret!
-LAST-MODIFIED:20260201T094009Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-miscellaneous-95261
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Northern Resonance
-DTSTART:20260226T093000Z
-DTEND:20260226T113000Z
-DTSTAMP:20260226T030829Z
-UID:smiths-alternative-3a3d2a8aa1e5b5db339f3786edf262ec
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94923/f__32906_northres.jpg
-CREATED:20260109T064410Z
-DESCRIPTION:
-LAST-MODIFIED:20260109T065151Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/northern-resonance-94923
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Guitar\, Guitar
 DTSTART:20260227T093000Z
 DTEND:20260227T113000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-d72cdb3f5d7c2cbfe992ca3fb928e8eb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95408/f__33013_gitgit.jpg
@@ -52,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Alias Cabaret
 DTSTART:20260227T113000Z
 DTEND:20260227T123000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-3420324908baa18f5e0505f2f5e6a7bd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95342/f__33115_alias1.jpg
@@ -68,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Fall in Love with Writing Romance
 DTSTART:20260228T020000Z
 DTEND:20260228T060000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-71059b2bc21eddd7256df8ed17acc777
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95511/f__33041_marion.jpg
@@ -86,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Pete & Sue McMahon
 DTSTART:20260228T060000Z
 DTEND:20260228T080000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-3c414b5c7d436acf355f5a2c76981904
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95209/f__28134_pete.jpg
@@ -102,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Dean Abbott
 DTSTART:20260228T083000Z
 DTEND:20260228T103000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-b19c55ade12fbadb52231e809257f8bf
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94959/f__32915_deanabbott.jpg
@@ -118,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Handlebars of Happiness
 DTSTART:20260301T020000Z
 DTEND:20260301T030000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-f9d86c89e1d178632e9b9670053a5d27
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95350/f__32057_cyc.jpg
@@ -134,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260301T040000Z
 DTEND:20260301T053000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-6e3e2e65136f363957142415b74e9a7a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95305/f__32997_serenade-2026.jpg
@@ -150,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:Svavar Knutur
 DTSTART:20260301T090000Z
 DTEND:20260301T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-d086347c2c70d15a53253b58f2e9e4c7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93919/f__32665_svavar.jpg
@@ -166,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:Local Gold #11
 DTSTART:20260302T090000Z
 DTEND:20260302T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-41055e0f4141b0f4df414250cbc508c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95435/f__32726_logold.jpg
@@ -183,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's That Poetry Thing
 DTSTART:20260302T090000Z
 DTEND:20260302T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-41055e0f4141b0f4df414250cbc508c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95571/f__33092_tpt020326.jpg
@@ -200,7 +168,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260303T083000Z
 DTEND:20260303T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-6a801cd6085df7fa536bf8102235e7b0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95066/f__32298_ssad.jpg
@@ -217,7 +185,7 @@ BEGIN:VEVENT
 SUMMARY:El Pony Pisador
 DTSTART:20260303T090000Z
 DTEND:20260303T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-725a7f5328a608690b6919a02e2adf33
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95242/f__32977_pony.jpg
@@ -233,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:FLESH March Sess
 DTSTART:20260304T083000Z
 DTEND:20260304T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-63a415e2b3adb292bb9db4c2afa4a933
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95164/f__32963_mar.jpg
@@ -249,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's Jazz: Mark Ginsburg
 DTSTART:20260304T090000Z
 DTEND:20260304T110000Z
-DTSTAMP:20260226T030829Z
+DTSTAMP:20260227T030732Z
 UID:smiths-alternative-c92ad2624f7b73f26047ad3936ba31f7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95378/f__33008_mginsburg.jpg
@@ -262,28 +230,42 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/geoffs-jazz-95378
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Trivia
-DTSTART;TZID=Australia/Sydney:20260226T183000
-DTEND;TZID=Australia/Sydney:20260226T210000
-DTSTAMP:20260226T130830
-UID:ganggang-10000766-1772130600-1772139600@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
- 023/06/Trivia-Banner-03-scaled.jpg
-CREATED:20231120T234024Z
-DESCRIPTION:Trivia at Gang Gang.  \n\n\n\nEvery Thursday night Quiz Meiste
- rs come and host a trivia night for us. We’re talking pop culture\, poli
- tics\, geography\, musical clues\, movie clues\, cryptic clues\, something
-  for everyone!    Call us up to book a table inside if you’re keen to ge
- t quizzy. Otherwise you can enjoy regular service outside.
-LAST-MODIFIED:20240516T021518Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/trivia-2/2026-02-26/
+SUMMARY:The Powerful Feminine
+DTSTART:20260305T080000Z
+DTEND:20260305T090000Z
+DTSTAMP:20260227T030732Z
+UID:smiths-alternative-94070aa310dd11955802bcd1d6dc9ac6
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95231/f__32973_power.jpg
+CREATED:20260129T063946Z
+DESCRIPTION:
+LAST-MODIFIED:20260129T083716Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-powerful-feminine-95231
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chuckle Force Comedy #11
+DTSTART:20260305T093000Z
+DTEND:20260305T113000Z
+DTSTAMP:20260227T030732Z
+UID:smiths-alternative-4b2d3cdb51396c7b02cbc8a194a7da66
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95487/f__33035_cfc11.jpg
+CREATED:20260217T011830Z
+DESCRIPTION:Canberra's line-up comedy show at Smith's Alternative
+LAST-MODIFIED:20260217T012234Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/chuckle-force-comedy-11-95487
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260227T190000
 DTEND;TZID=Australia/Sydney:20260227T220000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10000493-1772218800-1772229600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -300,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Day 11
 DTSTART;TZID=Australia/Sydney:20260228T160000
 DTEND;TZID=Australia/Sydney:20260228T230000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001228-1772294400-1772319600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.09.04-pm.png
@@ -332,7 +314,7 @@ BEGIN:VEVENT
 SUMMARY:Annahstasia
 DTSTART;TZID=Australia/Sydney:20260301T180000
 DTEND;TZID=Australia/Sydney:20260301T220000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001206-1772388000-1772402400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.19.47-am.png
@@ -379,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Nick Starkey
 DTSTART;TZID=Australia/Sydney:20260304T193000
 DTEND;TZID=Australia/Sydney:20260304T213000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001233-1772652600-1772659800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-16-at-11.24.22-am.png
@@ -398,10 +380,28 @@ LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/gang-gang-comedy-nick-starkey/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Trivia
+DTSTART;TZID=Australia/Sydney:20260305T183000
+DTEND;TZID=Australia/Sydney:20260305T210000
+DTSTAMP:20260227T130732
+UID:ganggang-10000767-1772735400-1772744400@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
+ 023/06/Trivia-Banner-03-scaled.jpg
+CREATED:20231120T234024Z
+DESCRIPTION:Trivia at Gang Gang.  \n\n\n\nEvery Thursday night Quiz Meiste
+ rs come and host a trivia night for us. We’re talking pop culture\, poli
+ tics\, geography\, musical clues\, movie clues\, cryptic clues\, something
+  for everyone!    Call us up to book a table inside if you’re keen to ge
+ t quizzy. Otherwise you can enjoy regular service outside.
+LAST-MODIFIED:20240516T021518Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/trivia-2/2026-03-05/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:James K with Alias Error & friends
 DTSTART;TZID=Australia/Sydney:20260306T190000
 DTEND;TZID=Australia/Sydney:20260306T230000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001207-1772823600-1772838000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  25/12/Screenshot-2025-12-21-at-11.23.05-am.png
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -562,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Ranagri (England) at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260318T183000
 DTEND;TZID=Australia/Sydney:20260318T213000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001236-1773858600-1773869400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-25-at-9.40.16-am.png
@@ -631,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260226T130830
+DTSTAMP:20260227T130732
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
@@ -659,15 +659,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Marlten and friends
-DTSTART;TZID=Australia/Sydney:20260226T193000
-DTEND;TZID=Australia/Sydney:20260226T203000
-UID:dissent-6982cd383da6571ab756db17
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -757,6 +748,15 @@ SUMMARY:Val Moogz\, The Burley Griffin & The Chordroys
 DTSTART;TZID=Australia/Sydney:20260308T190000
 DTEND;TZID=Australia/Sydney:20260308T200000
 UID:dissent-696037d72c1a0ae94f391761
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Lure Tour
+DTSTART;TZID=Australia/Sydney:20260313T193000
+DTEND;TZID=Australia/Sydney:20260313T203000
+UID:dissent-6944affd74fc2dd68d2dfa85
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
