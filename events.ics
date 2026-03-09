@@ -1,60 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Pat Powell
-DTSTART:20260308T090000Z
-DTEND:20260308T110000Z
-DTSTAMP:20260308T031108Z
-UID:smiths-alternative-358ee55396ed92ad8f20e99d3e32c890
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95451/f__33025_pp.jpg
-CREATED:20260214T102924Z
-DESCRIPTION:with Damien Slingsby\, Nick Hoorweg and Col Hoorweg
-LAST-MODIFIED:20260214T104508Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/pat-powell-95451
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smith's Open Mic Comedy
-DTSTART:20260308T090000Z
-DTEND:20260308T110000Z
-DTSTAMP:20260308T031108Z
-UID:smiths-alternative-358ee55396ed92ad8f20e99d3e32c890
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95466/f__33029_smoc.jpg
-CREATED:20260215T062228Z
-DESCRIPTION:Comedy Open Mic at Smith's - First (or sometimes second) Sunda
- y of the month
-LAST-MODIFIED:20260215T062723Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-95466
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:INSPIRED TUNES
-DTSTART:20260308T090000Z
-DTEND:20260308T110000Z
-DTSTAMP:20260308T031108Z
-UID:smiths-alternative-358ee55396ed92ad8f20e99d3e32c890
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95662/f__33105_insp.jpg
-CREATED:20260221T115712Z
-DESCRIPTION:Punko Regarto Productions presents: Inspired Tunes\, a night o
- f music & improvised theatre featuring musical guest Liz Caddy
-LAST-MODIFIED:20260303T125933Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/inspired-tunes-95662
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260309T084500Z
 DTEND:20260309T110000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-87f99b738be638038b5462c35aaf9be4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95656/f__33104_poepy.jpg
@@ -72,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260310T083000Z
 DTEND:20260310T110000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-21afd574f25d0f95bbd151219ceb6389
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95598/f__32298_ssad.jpg
@@ -89,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260310T083000Z
 DTEND:20260310T120000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-097cfde941ba31c1df09ab0fb9b63bb3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95671/f__30321_bigbangbeng.jpg
@@ -107,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Dan Webster and Emily Lawler
 DTSTART:20260311T090000Z
 DTEND:20260311T110000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-568692249583b140b5eb82270788d7e7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94463/f__31443_websterlawler.jpg
@@ -123,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Luca Ciarla (ITA)
 DTSTART:20260312T083000Z
 DTEND:20260312T103000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-717e376d183251c28452c5c661f0b7b5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95046/f__32938_luca.jpg
@@ -139,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:David McCredie
 DTSTART:20260312T093000Z
 DTEND:20260312T113000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-22abd717f65f96a2701cac6bc51b7457
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93928/f__32733_dmc.jpg
@@ -155,7 +105,7 @@ BEGIN:VEVENT
 SUMMARY:Jack Carty
 DTSTART:20260313T083000Z
 DTEND:20260313T103000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-77504673d94798107cd26c04e6de0b57
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93436/f__32554_jackc.jpg
@@ -171,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:Mikelangelo & the Long Lost Friends
 DTSTART:20260313T113000Z
 DTEND:20260313T133000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-44bffd6fe77a8e65b5bd25f5ec5a31a4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95678/f__33107_mik.jpg
@@ -187,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Julian James & Beci Kate
 DTSTART:20260314T050000Z
 DTEND:20260314T070000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-ff6d177f2f18bf91c14830a31ba1d146
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94945/f__32910_jjinst.jpg
@@ -203,7 +153,7 @@ BEGIN:VEVENT
 SUMMARY:Lockie Bennett Trio (NZ)
 DTSTART:20260314T060000Z
 DTEND:20260314T080000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-6e7d3ff71a40611ea5845d7480dfd1fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94831/f__32875_lbt.jpg
@@ -221,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Rob Snarski and Lindy Morrison
 DTSTART:20260314T080000Z
 DTEND:20260314T100000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-e6a0c78ccf1ac496ffe94f5c3d2ad750
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94992/f__32919_sna.jpg
@@ -239,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Nadira and Friends
 DTSTART:20260314T090000Z
 DTEND:20260314T110000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-4ddcb116ea72f33d9a6cb20eea0109e7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94670/f__32845_nadira.jpg
@@ -255,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Voices from the Music Room
 DTSTART:20260315T033000Z
 DTEND:20260315T053000Z
-DTSTAMP:20260308T031108Z
+DTSTAMP:20260309T031221Z
 UID:smiths-alternative-b2f7e56cfc504dc7fbd8e40114f1a15b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95504/f__33039_voices.jpg
@@ -269,10 +219,59 @@ URL:http://www.smithsalternative.com/events/voices-from-the-music-room-955
  04
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Coolibah Coolective and The Lonely Fates
+DTSTART:20260315T060000Z
+DTEND:20260315T080000Z
+DTSTAMP:20260309T031221Z
+UID:smiths-alternative-d4d1c9b901242de3a445defc421e242b
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95238/f__32975_coollonely.jpg
+CREATED:20260129T083232Z
+DESCRIPTION:
+LAST-MODIFIED:20260129T083731Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-coolibah-coolective-and-th
+ e-lonely-fates-95238
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4 Eyed Water Boy
+DTSTART:20260315T090000Z
+DTEND:20260315T110000Z
+DTSTAMP:20260309T031221Z
+UID:smiths-alternative-3dc5c977e8e8b453de37f017d473190d
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95493/f__33139_4eye.jpg
+CREATED:20260217T014203Z
+DESCRIPTION:
+LAST-MODIFIED:20260303T055959Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/4-eyed-water-boy-95493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grainne Hunt
+DTSTART:20260316T083000Z
+DTEND:20260316T103000Z
+DTSTAMP:20260309T031221Z
+UID:smiths-alternative-52d6a671c4ef729b811cc0963a0618a3
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95007/f__32922_grainne.jpg
+CREATED:20260115T054118Z
+DESCRIPTION:Bi-Continental Queer Folk Duo
+LAST-MODIFIED:20260115T070533Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/grainne-hunt-95007
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260312T183000
 DTEND;TZID=Australia/Sydney:20260312T210000
-DTSTAMP:20260308T131109
+DTSTAMP:20260309T131223
 UID:ganggang-10000768-1773340200-1773349200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -290,7 +289,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260313T190000
 DTEND;TZID=Australia/Sydney:20260313T220000
-DTSTAMP:20260308T131109
+DTSTAMP:20260309T131223
 UID:ganggang-10000495-1773428400-1773439200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -307,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Ruby Gill + Mimi Gilbert (Poetry)
 DTSTART;TZID=Australia/Sydney:20260315T180000
 DTEND;TZID=Australia/Sydney:20260315T230000
-DTSTAMP:20260308T131110
+DTSTAMP:20260309T131223
 UID:ganggang-10001226-1773597600-1773615600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-02-at-12.01.20-pm.png
@@ -369,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:Ranagri (Ireland/England) at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260318T183000
 DTEND;TZID=Australia/Sydney:20260318T213000
-DTSTAMP:20260308T131110
+DTSTAMP:20260309T131223
 UID:ganggang-10001236-1773858600-1773869400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-25-at-9.40.16-am.png
@@ -438,7 +437,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260308T131110
+DTSTAMP:20260309T131223
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
@@ -465,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Butter Sessions 15th Anniversary Party
 DTSTART;TZID=Australia/Sydney:20260404T160000
 DTEND;TZID=Australia/Sydney:20260404T230000
-DTSTAMP:20260308T131110
+DTSTAMP:20260309T131223
 UID:ganggang-10001238-1775318400-1775343600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-27-at-1.51.32-pm.png
@@ -498,15 +497,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Val Moogz\, The Burley Griffin & The Chordroys
-DTSTART;TZID=Australia/Sydney:20260308T190000
-DTEND;TZID=Australia/Sydney:20260308T200000
-UID:dissent-696037d72c1a0ae94f391761
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -597,6 +587,15 @@ SUMMARY:Glitch Bill Madness
 DTSTART;TZID=Australia/Sydney:20260419T190000
 DTEND;TZID=Australia/Sydney:20260419T200000
 UID:dissent-69a8b72620b4b1d95087030c
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREEDY RICH BOYS TOUR 2026
+DTSTART;TZID=Australia/Sydney:20260424T193000
+DTEND;TZID=Australia/Sydney:20260424T203000
+UID:dissent-69891abf2d70029ea69a9d46
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
