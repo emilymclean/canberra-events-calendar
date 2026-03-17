@@ -1,42 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Grainne Hunt
-DTSTART:20260316T083000Z
-DTEND:20260316T103000Z
-DTSTAMP:20260316T033219Z
-UID:smiths-alternative-52d6a671c4ef729b811cc0963a0618a3
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95007/f__32922_grainne.jpg
-CREATED:20260115T054118Z
-DESCRIPTION:Bi-Continental Queer Folk Duo
-LAST-MODIFIED:20260115T070533Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/grainne-hunt-95007
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That Poetry Thing
-DTSTART:20260316T090000Z
-DTEND:20260316T110000Z
-DTSTAMP:20260316T033219Z
-UID:smiths-alternative-cc480918b819f326ca238f1a934ce58d
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95534/f__33048_tpt160326.jpg
-CREATED:20260218T083619Z
-DESCRIPTION:Jen Crawford and David Stavanger
-LAST-MODIFIED:20260218T084705Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/that-poetry-thing-95534
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260317T083000Z
 DTEND:20260317T110000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-9d197e63cce302fb2e85627631f6b892
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95599/f__32298_ssad.jpg
@@ -53,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260317T083000Z
 DTEND:20260317T120000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-c528ea3d475a48ac85ef306c53830878
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95804/f__30321_bigbangbeng.jpg
@@ -71,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260318T090000Z
 DTEND:20260318T110000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-3a43a2ec56d7c682e054c44105fd45c9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95708/f__2157_classicalcapers.jpg
@@ -88,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Dept of Rock 'n' ROFL
 DTSTART:20260319T083000Z
 DTEND:20260319T103000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-bd0ff00c336a9731ae786f8d1596a632
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94359/f__32935_dept_of_rock_n_rofl_ccf_2026_tile_copy.jpg
@@ -107,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:BYWAYS
 DTSTART:20260319T093000Z
 DTEND:20260319T113000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-7547ba775d97a37bb4fad30f4c28ad75
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95650/f__33102_by.jpg
@@ -123,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Anna Weatherup & Amy Vee:
 DTSTART:20260320T083000Z
 DTEND:20260320T103000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-c8a647699a90ad474d09eb48488bdeed
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94443/f__32789_delu.jpg
@@ -139,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Fragments
 DTSTART:20260320T110000Z
 DTEND:20260320T120000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-ff31963eee296a3ba634e904d5b83015
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95790/f__33143_frag.jpg
@@ -155,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Queen Porter Stomp
 DTSTART:20260320T113000Z
 DTEND:20260320T133000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-82100e3bf06b63fe68f738670ad10c4a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95278/f__32990_qps.jpg
@@ -171,7 +139,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Tim & the Fuzzy Elbows
 DTSTART:20260321T010000Z
 DTEND:20260321T030000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-b085ad86f73b3bf3c37f78c802a4afcb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95457/f__33028_mrt.jpg
@@ -187,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:IRONY DONE HERE
 DTSTART:20260321T050000Z
 DTEND:20260321T070000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-5800ff9f6bd4161da99133790beceb5d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95094/f__32947_satmat.jpg
@@ -204,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:IRONY DONE HERE
 DTSTART:20260321T080000Z
 DTEND:20260321T100000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-91da19654d2c65a1da25b5f542a02506
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95105/f__32950_sateve.jpg
@@ -221,7 +189,7 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260322T040000Z
 DTEND:20260322T053000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-7316567ee0e52470780f6da5dad5de33
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95308/f__32997_serenade-2026.jpg
@@ -237,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:IRONY DONE HERE
 DTSTART:20260322T050000Z
 DTEND:20260322T070000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-9cf65cbb5903039433a5ab13998822c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95103/f__32951_sunmat.jpg
@@ -254,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Musical Singalong
 DTSTART:20260322T050000Z
 DTEND:20260322T070000Z
-DTSTAMP:20260316T033219Z
+DTSTAMP:20260317T031056Z
 UID:smiths-alternative-9cf65cbb5903039433a5ab13998822c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95846/f__32829_singalong.jpg
@@ -267,10 +235,43 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/musical-singalong-95846
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:IRONY DONE HERE
+DTSTART:20260322T080000Z
+DTEND:20260322T100000Z
+DTSTAMP:20260317T031056Z
+UID:smiths-alternative-c6ee59cd68f0f9c1fe3d8faf71c72937
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95100/f__32952_suneve.jpg
+CREATED:20260123T113544Z
+DESCRIPTION:Canberra's leading musical satirists\, Shortis & Simpson prese
+ nt IRONY DONE HERE
+LAST-MODIFIED:20260123T143521Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/irony-done-here-95100
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Poetry Thing
+DTSTART:20260323T090000Z
+DTEND:20260323T110000Z
+DTSTAMP:20260317T031056Z
+UID:smiths-alternative-789157e2ee0f8937717536ac8df3bafb
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95740/f__33128_tpt230326.jpg
+CREATED:20260226T054809Z
+DESCRIPTION:
+LAST-MODIFIED:20260226T055133Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/that-poetry-thing-95740
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ranagri (Ireland/England) at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260318T183000
 DTEND;TZID=Australia/Sydney:20260318T213000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10001236-1773858600-1773869400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-25-at-9.40.16-am.png
@@ -339,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260319T183000
 DTEND;TZID=Australia/Sydney:20260319T210000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10000769-1773945000-1773954000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -357,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260320T190000
 DTEND;TZID=Australia/Sydney:20260320T220000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10000496-1774033200-1774044000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -374,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Skeleten - Dumbhead - Discoslave
 DTSTART;TZID=Australia/Sydney:20260321T190000
 DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  026/01/Poster-tour-2_1-scaled.jpg
@@ -401,7 +402,7 @@ BEGIN:VEVENT
 SUMMARY:effulgent v: extracelestial
 DTSTART;TZID=Australia/Sydney:20260328T160000
 DTEND;TZID=Australia/Sydney:20260328T230000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10001241-1774713600-1774738800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-11-at-3.32.43-pm.png
@@ -437,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:Butter Sessions 15th Anniversary Party
 DTSTART;TZID=Australia/Sydney:20260404T160000
 DTEND;TZID=Australia/Sydney:20260404T230000
-DTSTAMP:20260316T133221
+DTSTAMP:20260317T131057
 UID:ganggang-10001238-1775318400-1775343600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/02/Screenshot-2026-02-27-at-1.51.32-pm.png
@@ -464,6 +465,56 @@ LAST-MODIFIED:20260227T025303Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/butter-sessions-15th-anniversary-par
  ty/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
+DTSTART;TZID=Australia/Sydney:20260609T190000
+DTEND;TZID=Australia/Sydney:20260609T220000
+DTSTAMP:20260317T131057
+UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/03/Screenshot-2026-03-17-at-11.30.21-am.png
+CREATED:20260317T003144Z
+DESCRIPTION:Transmitter is Max Clarke’s fourth full length record as C
+ ut Worms\, due out March 13th via JagJaguwar. Produced by Jeff Tweedy at W
+ ilco’s Loft studio\, Transmitter marks a deepening of Clarke’s abili
+ ties and the convergence of two artists whose work searches for grace amid
+  dislocation. Together\, they conjure the ecstatic spirits of power pop an
+ d alt rock\, expanding Cut Worms’ vintage palette while reaffirming his 
+ gift for timeless songwriting. \n\n\n\nWhile Clarke’s voice and writing 
+ formed the framework\, Tweedy’s guitar and bass lines sketched the rooms
+  the songs inhabit. Tweedy’s presence as a producer revealed itself not 
+ in heavy-handed choices but in how he coloured spaces and continually offe
+ red new textures. Between them\, their like-minded sensibilities bridged a
+  generational gap to create something more nuanced than either might have 
+ made alone. \n\n\n\nNow several albums into his career\, Clarke stands ful
+ ly in command of his craft\, resonating at his own frequency. What began a
+ s a passion for bygone pop has matured into a study of endurance itself\, 
+ confirming him as a singer-songwriter of lasting depth. Transmitter finds 
+ Clarke in full stride\, writing with the conviction of someone who’s mad
+ e peace with uncertainty. These songs reckon with the cost of comfort and 
+ return to the idea that beauty\, connection\, and love are not luxuries bu
+ t necessities for survival. \n\n\n\nJohn Andrews has spent the past few ye
+ ars tucked away in Red Hook\, Brooklyn – a neighborhood that sits just b
+ eyond the natural drift of the city. Once shaped by maritime industry and 
+ later a haven for artists in search of vast warehouse space\, its history 
+ and isolation give it a quiet magnetism. Streetsweeper\, the fifth album
+  by John Andrews & The Yawns\, reflects that vantage point-tranquil\, self
+ -contained\, and curious about the movements most people overlook. \n\n\n\
+ n\n\n\n\nGang Gang is committed to an inclusive and safe experience for al
+ l. Gang Gang Cafe is wheelchair accessible with accessible restrooms. We h
+ ave zero tolerance for harassment and have support measures in place to en
+ sure everyone’s safety. For specific accessibility needs or assistance\,
+  please contact us in advance. We aim to make our events enjoyable for eve
+ ryone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal and Ngambri peopl
+ e\, the Traditional Custodians of the land where our events take place. We
+  pay our respects to their Elders past\, present\, and emerging\, and reco
+ gnise their enduring connection to this land\, waters\, and culture. We ar
+ e grateful to celebrate music and dance on Ngunnawal Country.
+LAST-MODIFIED:20260317T003146Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/cut-worms-usa-with-special-guest-joh
+ n-andrews-usa/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dissent Open Mic
@@ -529,6 +580,15 @@ LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:A Little Loveless Affair - Single Launch
+DTSTART;TZID=Australia/Sydney:20260402T193000
+DTEND;TZID=Australia/Sydney:20260402T203000
+UID:dissent-69b7a2905a50d5fa29ac25db
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Out in the Cold - Single Launch
 DTSTART;TZID=Australia/Sydney:20260410T193000
 DTEND;TZID=Australia/Sydney:20260410T203000
@@ -560,15 +620,6 @@ SUMMARY:anna dine x cate guirguis
 DTSTART;TZID=Australia/Sydney:20260412T190000
 DTEND;TZID=Australia/Sydney:20260412T200000
 UID:dissent-6984228e15431d674d785bdc
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Lover]
-DTSTART;TZID=Australia/Sydney:20260417T193000
-DTEND;TZID=Australia/Sydney:20260417T203000
-UID:dissent-699558d9f6fa28f560e25fbd
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
