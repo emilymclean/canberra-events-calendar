@@ -1,345 +1,273 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Classical Capers
-DTSTART:20260318T090000Z
-DTEND:20260318T110000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-3a43a2ec56d7c682e054c44105fd45c9
+SUMMARY:Geoff's That Poetry Thing
+DTSTART:20260406T090000Z
+DTEND:20260406T110000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-7a2d42f466f6359e2ffb3ead9c2a1de8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95708/f__2157_classicalcapers.jpg
-CREATED:20260225T083617Z
-DESCRIPTION:Opera star Tobias Cole hosts an entertaining evening for class
- ically trained (and untrained) musicians and enthusiasts.
-LAST-MODIFIED:20260225T083827Z
+ s/images/66/96046/f__33203_gp-apr26.jpg
+CREATED:20260318T115440Z
+DESCRIPTION:Jennifer Mackenzie and Mark O'Connor
+LAST-MODIFIED:20260318T115805Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/classical-capers-95708
+URL:http://www.smithsalternative.com/events/geoff-s-that-poetry-thing-9604
+ 6
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Dept of Rock 'n' ROFL
-DTSTART:20260319T083000Z
-DTEND:20260319T103000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-bd0ff00c336a9731ae786f8d1596a632
+SUMMARY:Bedtime Tales
+DTSTART:20260407T080000Z
+DTEND:20260407T100000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-e8027c97b3cc9c2dfa73d9281a95a1fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94359/f__32935_dept_of_rock_n_rofl_ccf_2026_tile_copy.jpg
-CREATED:20251120T025709Z
-DESCRIPTION:For one night only\, Dept of Rock 'n' ROFL will power up their
-  amps to give us another hilarious and high-voltage show that puts Canberr
- a's favourite love child 'the public service' under the spotlight. It's th
- e Performance Review we had to have
-LAST-MODIFIED:20260119T123510Z
+ s/images/66/95399/f__33011_bed.jpg
+CREATED:20260211T110828Z
+DESCRIPTION:Sex workers in the ACT want to entertain and seduce you.
+LAST-MODIFIED:20260319T140621Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/dept-of-rock-n-rofl-94359
+URL:http://www.smithsalternative.com/events/bedtime-tales-95399
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:BYWAYS
-DTSTART:20260319T093000Z
-DTEND:20260319T113000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-7547ba775d97a37bb4fad30f4c28ad75
+SUMMARY:JOURNEY exhibition opening
+DTSTART:20260407T080000Z
+DTEND:20260407T090000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-d5d99face2bc0138414b8e4780c10576
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95650/f__33102_by.jpg
-CREATED:20260221T044328Z
-DESCRIPTION:
-LAST-MODIFIED:20260221T045628Z
+ s/images/66/96214/f__33245_annetassie.jpg
+CREATED:20260331T131957Z
+DESCRIPTION:An exhibition of coastal wanderings and musings through time
+LAST-MODIFIED:20260331T135227Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/byways-95650
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Anna Weatherup & Amy Vee:
-DTSTART:20260320T083000Z
-DTEND:20260320T103000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-c8a647699a90ad474d09eb48488bdeed
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94443/f__32789_delu.jpg
-CREATED:20251130T050001Z
-DESCRIPTION:
-LAST-MODIFIED:20251130T062411Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/anna-weatherup-amy-vee-94443
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fragments
-DTSTART:20260320T110000Z
-DTEND:20260320T120000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-ff31963eee296a3ba634e904d5b83015
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95790/f__33143_frag.jpg
-CREATED:20260302T104312Z
-DESCRIPTION:
-LAST-MODIFIED:20260302T105213Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/fragments-95790
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Queen Porter Stomp
-DTSTART:20260320T113000Z
-DTEND:20260320T133000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-82100e3bf06b63fe68f738670ad10c4a
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95278/f__32990_qps.jpg
-CREATED:20260203T092215Z
-DESCRIPTION:"Beat of my Kind" Album launch Tour
-LAST-MODIFIED:20260204T023530Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/queen-porter-stomp-95278
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mr Tim & the Fuzzy Elbows
-DTSTART:20260321T010000Z
-DTEND:20260321T030000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-b085ad86f73b3bf3c37f78c802a4afcb
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95457/f__33028_mrt.jpg
-CREATED:20260214T114339Z
-DESCRIPTION:
-LAST-MODIFIED:20260214T120050Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/mr-tim-the-fuzzy-elbows-95457
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRONY DONE HERE
-DTSTART:20260321T050000Z
-DTEND:20260321T070000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-5800ff9f6bd4161da99133790beceb5d
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95094/f__32947_satmat.jpg
-CREATED:20260123T112213Z
-DESCRIPTION:Canberra's leading musical satirists\, Shortis & Simpson prese
- nt IRONY DONE HERE
-LAST-MODIFIED:20260123T143750Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/irony-done-here-95094
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRONY DONE HERE
-DTSTART:20260321T080000Z
-DTEND:20260321T100000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-91da19654d2c65a1da25b5f542a02506
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95105/f__32950_sateve.jpg
-CREATED:20260123T113648Z
-DESCRIPTION:Canberra's leading musical satirists\, Shortis & Simpson prese
- nt IRONY DONE HERE
-LAST-MODIFIED:20260123T115013Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/irony-done-here-95105
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serenade
-DTSTART:20260322T040000Z
-DTEND:20260322T053000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-7316567ee0e52470780f6da5dad5de33
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95308/f__32997_serenade-2026.jpg
-CREATED:20260204T131602Z
-DESCRIPTION:with Tobias Cole
-LAST-MODIFIED:20260205T032646Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/serenade-95308
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRONY DONE HERE
-DTSTART:20260322T050000Z
-DTEND:20260322T070000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-9cf65cbb5903039433a5ab13998822c3
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95103/f__32951_sunmat.jpg
-CREATED:20260123T113620Z
-DESCRIPTION:Canberra's leading musical satirists\, Shortis & Simpson prese
- nt IRONY DONE HERE
-LAST-MODIFIED:20260123T143542Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/irony-done-here-95103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Musical Singalong
-DTSTART:20260322T050000Z
-DTEND:20260322T070000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-9cf65cbb5903039433a5ab13998822c3
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95846/f__32829_singalong.jpg
-CREATED:20260310T025150Z
-DESCRIPTION:Like Karaoke\, but (loosely) confined to songs from musicals.
-LAST-MODIFIED:20260310T025426Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/musical-singalong-95846
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:IRONY DONE HERE
-DTSTART:20260322T080000Z
-DTEND:20260322T100000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-c6ee59cd68f0f9c1fe3d8faf71c72937
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95100/f__32952_suneve.jpg
-CREATED:20260123T113544Z
-DESCRIPTION:Canberra's leading musical satirists\, Shortis & Simpson prese
- nt IRONY DONE HERE
-LAST-MODIFIED:20260123T143521Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/irony-done-here-95100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That Poetry Thing
-DTSTART:20260323T090000Z
-DTEND:20260323T110000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-789157e2ee0f8937717536ac8df3bafb
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95740/f__33128_tpt230326.jpg
-CREATED:20260226T054809Z
-DESCRIPTION:
-LAST-MODIFIED:20260226T055133Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/that-poetry-thing-95740
+URL:http://www.smithsalternative.com/events/journey-exhibition-opening-962
+ 14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
-DTSTART:20260324T083000Z
-DTEND:20260324T110000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-89f5dd4ade32d39cb4d79b56155637a0
+DTSTART:20260407T083000Z
+DTEND:20260407T110000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-d0e2e38c74e3d290c677406e6c3ef7e7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95600/f__32298_ssad.jpg
-CREATED:20260220T030045Z
+ s/images/66/96271/f__32298_ssad.jpg
+CREATED:20260402T140417Z
 DESCRIPTION:Spend Tuesday night creating something splendid.
-LAST-MODIFIED:20260220T030838Z
+LAST-MODIFIED:20260402T140714Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
- 95600
+ 96271
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Winter Wilson
-DTSTART:20260325T090000Z
-DTEND:20260325T110000Z
-DTSTAMP:20260318T032306Z
-UID:smiths-alternative-655224762d9e1a7b25e6b9d57af56d22
+SUMMARY:Ding Dilemmas - Dandyman
+DTSTART:20260408T003000Z
+DTEND:20260408T013000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-1e3333ed015991295879c64e29b6f45b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95392/f__33009_winterwilson.jpg
-CREATED:20260211T104940Z
+ s/images/66/95971/f__33190_dandyman_ding.jpg
+CREATED:20260316T141743Z
 DESCRIPTION:
-LAST-MODIFIED:20260226T102317Z
+LAST-MODIFIED:20260317T030632Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/winter-wilson-95392
+URL:http://www.smithsalternative.com/events/ding-dilemmas-95971
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ranagri (Ireland/England) at Gang Gang
-DTSTART;TZID=Australia/Sydney:20260318T183000
-DTEND;TZID=Australia/Sydney:20260318T213000
-DTSTAMP:20260318T132307
-UID:ganggang-10001236-1773858600-1773869400@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/02/Screenshot-2026-02-25-at-9.40.16-am.png
-CREATED:20260224T224123Z
-DESCRIPTION:Peace Run Records is proud to present Ranagri (England) at Gan
- g Gang Cafe on Wednesday 11 March. With doors at 6.30pm and show start 7pm
- \, tickets are $35 entry presale and $40 on the door. Ranagri are coming o
- ut to Australia for the first time and we are so excited to be bringing th
- is incredible contemporary folk band to Canberra as a Blue Mountains Music
-  Festival sideshow. Supported by Australian/Fijian Folk-soul singer Andrea
-  Kirwin\, this concert will feature a variety of instruments including cig
- ar box guitar\, acoustic guitar\, flute\, harp\, percussion and more. \n\n
- \n\nRanagri is an award winning folk band from Ireland and England. With a
-  unique blend of instruments that includes voices\, guitar\, bouzouki\, fl
- utes\, whistles\, harp/electric harp\, and bodhrán/drums\, they create a 
- sound that is both mesmerising and unforgettable. \n\n\n\nThe band has rec
- orded five studio albums to date\, with their latest release\, ‘Traditio
- n II\,’ receiving critical acclaim upon its release in July 2022. Folk R
- adio UK placed the album in their top 10 albums of 2022\, cementing the ba
- nd’s status as one of the most exciting and innovative folk bands in the
-  UK today. \n\n\n\nPrevious critically acclaimed albums\, ‘Playing For L
- uck\,’ ‘Fort of the Hare\,’ and ‘The Great Irish Songbook’ (with
-  pop legend Tony Christie)\, were recorded at the Grammy Award- winning St
- ockfisch Records label. The band’s third album\, ‘VOICES\,’ was reco
- rded at Peter Gabriel’s Real World Studios and along with the album ‘T
- radition’ were both released on GoatsKin Records. \n\n\n\nRanagri has es
- tablished themselves as a standout act\, drawing in crowds from around the
-  world with their captivating live performances and exceptional musiciansh
- ip. They have performed at some of the most prestigious venues & festivals
-  across the UK and Europe including Cambridge Folk Festival\, Bloom festiv
- al (Dublin)\, Montelago festival (Italy)\,Towersey Festival\, a headline s
- lot at Costa Festival Ibiza 2023\, Birmingham Symphony Hall\, The Union Ch
- apel\, Kings Place London along with regular tours of Scotland and Europe.
-  \n\n\n\nRanagri are Dónal Rogers\, a prolific songwriter and producer\, 
- who has joined forces with the exceptional skills of renowned flautist Eli
- za Marshall\, harpist Eleanor Dunsdon and percussionist Jordan Murray. Tog
- ether\, Ranagri establish a fresh and modern sonic landscape within the fo
- lk genre\, captivating audiences both domestically and internationally\, a
- n energetic festival band yet equally at home with their more intimate wri
- ting and thought provoking lyrics. They are as happy to make you dance as 
- they are to make you smile or shed a tear\, passionately delving into curr
- ent world topics\, playing with politics\, and creating uplifting music to
-  lyrics with great depth. \n\n\n\nAndrea Kirwin \n\n\n\nFor 20 years Austr
- alian/Fijian singer-songwriter Andrea Kirwin has been performing on the Au
- stralian Folk Festival scene and has built a career through her live shows
- \, her knack for storytelling and her love for her music community. Andrea
- ’s style is laid back\, giving space for her songs – and voice – to 
- really shine. Performing on Vocals\, Guitar\, Cigar box guitar and Stomp\,
-  Andrea’s original songs are written in a range of genres including Folk
- \, Soul\, Blues and Roots and World music. \n\n\n\n\n\n\n\nGang Gang is co
- mmitted to an inclusive and safe experience for all. Gang Gang Cafe is whe
- elchair accessible with accessible restrooms. We have zero tolerance for h
- arassment and have support measures in place to ensure everyone’s safety
- . For specific accessibility needs or assistance\, please contact us in ad
- vance. We aim to make our events enjoyable for everyone. \n\n\n\nGang Gang
-  Cafe acknowledges the Ngunnawal and Ngambri people\, the Traditional Cust
- odians of the land where our events take place. We pay our respects to the
- ir Elders past\, present\, and emerging\, and recognise their enduring con
- nection to this land\, waters\, and culture. We are grateful to celebrate 
- music and dance on Ngunnawal Country.
-LAST-MODIFIED:20260227T024835Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/ranagri-england-at-gang-gang/
+SUMMARY:Mal Webb and Kylie Morrigan presents Notey and Noisy: A Sound Scie
+ nce Mathemusical
+DTSTART:20260408T040000Z
+DTEND:20260408T050000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-ce404d4a7ccdfcf48410440447ae505e
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95966/f__33188_notey_and_noisey.jpg
+CREATED:20260316T141402Z
+DESCRIPTION:
+LAST-MODIFIED:20260317T031024Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/notey-noisey-95966
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electro-Magnetism - Miles Brown
+DTSTART:20260409T003000Z
+DTEND:20260409T013000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-898a6aa3f908601d688bb28fe9bf8734
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95973/f__33191_electromagnetism.jpg
+CREATED:20260316T141920Z
+DESCRIPTION:
+LAST-MODIFIED:20260402T052635Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/electro-magnetism-95973
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alias the Faerie's Bubble Show
+DTSTART:20260409T040000Z
+DTEND:20260409T050000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-e66638e4184058d71a086867c606e608
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95977/f__33192_alias_the_faerie.jpg
+CREATED:20260316T142439Z
+DESCRIPTION:
+LAST-MODIFIED:20260317T030816Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/alias-the-faerie-95977
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Saxedonia
+DTSTART:20260409T090000Z
+DTEND:20260409T110000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-97bb8933b99d8971fd640ab2ff952795
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95865/f__33164_sax.jpg
+CREATED:20260310T105015Z
+DESCRIPTION:
+LAST-MODIFIED:20260310T113018Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/saxedonia-95865
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Alias the Faerie's Bubble Show
+DTSTART:20260410T003000Z
+DTEND:20260410T013000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-5c0d62775f680d3e1ac6d41983d541b8
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95980/f__33192_alias_the_faerie.jpg
+CREATED:20260316T142718Z
+DESCRIPTION:
+LAST-MODIFIED:20260317T030848Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/alias-the-faerie-95980
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Electro-Magnetism - Miles Brown
+DTSTART:20260410T040000Z
+DTEND:20260410T050000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-5a44b4aaf92ab8cfb9ce9d5fa7aa5b28
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95975/f__33191_electromagnetism.jpg
+CREATED:20260316T142210Z
+DESCRIPTION:
+LAST-MODIFIED:20260402T052945Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/electro-magnetism-95975
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tim Rogers early show - SOLD OUT
+DTSTART:20260410T083000Z
+DTEND:20260410T103000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-365f6ab2ce5bb6a03bab07cbf7d95d4d
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94467/f__32793_timrogers25.jpg
+CREATED:20251204T030034Z
+DESCRIPTION:
+LAST-MODIFIED:20260214T050102Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/tim-rogers-94467
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tim Rogers late show
+DTSTART:20260410T113000Z
+DTEND:20260410T133000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-d385655153e60fbf8a221efe8e3a1929
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94471/f__33023_tr.jpg
+CREATED:20251204T043300Z
+DESCRIPTION:
+LAST-MODIFIED:20260214T051731Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/tim-rogers-94471
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Cabaret Cabal
+DTSTART:20260411T040000Z
+DTEND:20260412T110000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-b14681878f5309b547e85271f583ee71
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95947/f__33183_cabcabal.jpg
+CREATED:20260314T102513Z
+DESCRIPTION:A Weekend of Saucy Secrets\, Ingenious Intrigues & Cleverly Co
+ ntrived Confabulations
+LAST-MODIFIED:20260325T105423Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-cabaret-cabal-95947
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ASA Song Circle SHOWCASE CONCERT
+DTSTART:20260411T040000Z
+DTEND:20260411T063000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-ab9106cacaf2f6ee555a5090bbc1b961
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96221/f__33249_asa-showcase-11-april.jpg
+CREATED:20260401T021914Z
+DESCRIPTION:
+LAST-MODIFIED:20260401T024708Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/song-circle-96221
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Queer Variety Show
+DTSTART:20260411T050000Z
+DTEND:20260411T063000Z
+DTSTAMP:20260406T023634Z
+UID:smiths-alternative-98f0c32a17a64fd8509fabecd7d6c510
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95916/f__33176_qv.jpg
+CREATED:20260313T030900Z
+DESCRIPTION:The Queer Variety Show is back for 2026. Now being held on the
+  weekends.  We love a good matinee. 
+LAST-MODIFIED:20260324T143546Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-queer-variety-show-95916
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia
-DTSTART;TZID=Australia/Sydney:20260319T183000
-DTEND;TZID=Australia/Sydney:20260319T210000
-DTSTAMP:20260318T132307
-UID:ganggang-10000769-1773945000-1773954000@ganggangcafe.com.au
+DTSTART;TZID=Australia/Sydney:20260409T183000
+DTEND;TZID=Australia/Sydney:20260409T210000
+DTSTAMP:20260406T123635
+UID:ganggang-10000772-1775759400-1775768400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
 CREATED:20231120T234024Z
@@ -350,14 +278,14 @@ DESCRIPTION:Trivia at Gang Gang.  \n\n\n\nEvery Thursday night Quiz Meiste
  t quizzy. Otherwise you can enjoy regular service outside.
 LAST-MODIFIED:20240516T021518Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/trivia-2/2026-03-19/
+URL:https://ganggangcafe.com.au/event/trivia-2/2026-04-09/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
-DTSTART;TZID=Australia/Sydney:20260320T190000
-DTEND;TZID=Australia/Sydney:20260320T220000
-DTSTAMP:20260318T132307
-UID:ganggang-10000496-1774033200-1774044000@ganggangcafe.com.au
+DTSTART;TZID=Australia/Sydney:20260410T190000
+DTEND;TZID=Australia/Sydney:20260410T220000
+DTSTAMP:20260406T123635
+UID:ganggang-10000499-1775847600-1775858400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
  jpg
@@ -366,109 +294,87 @@ DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
  s get loose live every Friday. Pssst – it’s free.
 LAST-MODIFIED:20240219T000732Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-03
- -20/
+URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-04
+ -10/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Skeleten - Dumbhead - Discoslave
-DTSTART;TZID=Australia/Sydney:20260321T190000
-DTEND;TZID=Australia/Sydney:20260321T230000
-DTSTAMP:20260318T132307
-UID:ganggang-10001223-1774119600-1774134000@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
- 026/01/Poster-tour-2_1-scaled.jpg
-CREATED:20260129T221643Z
-DESCRIPTION:We’ve been trying to get Skeleten down to GG for a while now
- \, so we’re stoked to be hosting them. Jumping on the bill all the way f
- rom Naarm we also have Dumbhead and local label heads Discoslave \n\n\n\nS
- keleten \n\n\n\nDeeply rooted in Sydney’s tight-knit creative community\
- , Skeleten is a producer\, writer\, singer\, multi-instrumentalist\, DJ\, 
- creative director and visual artist. On his new album Mentalized\, industr
- ial and nu-metal textures underpin dreamlike vocals and abstracted pop arr
- angements\, \n\n\n\nwhile fuzzed-out guitar\, harking back to 2000s indie\
- , punctuates deep house and trip-hop rhythms. Underlying it all is an inna
- te inclination towards the dance music world that Skeleten comes from. \n\
- n\n\nDumbhead \n\n\n\nDumbhead are a three piece from Naarm/Melbourne\, kn
- own for their genre-bending sound. Dumbhead create bass-heavy music built 
- for late-night movement\, drawing from experimental electronica\, triphop\
- , and live beat-making. Their shows are immersive and unpredictable.
-LAST-MODIFIED:20260217T232459Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/3193/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:effulgent v: extracelestial
-DTSTART;TZID=Australia/Sydney:20260328T160000
-DTEND;TZID=Australia/Sydney:20260328T230000
-DTSTAMP:20260318T132307
-UID:ganggang-10001241-1774713600-1774738800@ganggangcafe.com.au
+SUMMARY:Gang Gang Comedy - Annie Boyle
+DTSTART;TZID=Australia/Sydney:20260422T193000
+DTEND;TZID=Australia/Sydney:20260422T220000
+DTSTAMP:20260406T123635
+UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/03/Screenshot-2026-03-11-at-3.32.43-pm.png
-CREATED:20260311T043927Z
-DESCRIPTION:Effulgent V takes place on the stolen land of the Ngunnawal an
- d Ngambri people. We pay our respects to Elders past and present. Sovereig
- nty was never ceded and this was\, and always will be Aboriginal land. \n\
- n\n\n𝚐𝚛𝚘𝚞𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚘𝚕 𝚝𝚘 𝚖
- 𝚊𝚓𝚘𝚛 𝚐𝚊𝚐 – 𝚊 𝚗𝚎𝚠 𝚎𝚏𝚏𝚞𝚕
- 𝚐𝚎𝚗𝚝 𝚒𝚜 𝚊𝚋𝚘𝚞𝚝 𝚝𝚘 𝚕𝚊𝚗𝚍
- … \n\n\n\nAfter Earth was struck by a ten-mile Gang Gang sized asteroid\
- , an alien nation was born. The first thing they demanded was a party to s
- hed their old skin and see what this unknown planet has to offer… \n\n\n
- \nYou’re not lost in space right now… Effulgent V is ready for take of
- f! \n\n\n\nThis party will be a fundraiser for our gorgeous friends Rav an
- d Maya for top surgery! Ticket sales will all be going towards them both\,
-  if you want to directly donate to them >>> \n\n\n\nRav – https://gofun
- d.me/d9652e9a5Maya – https://tinyurl.com/mayasurgery \n\n\n\nRaffle: \n
- \n\n\nThis time we are also running a raffle to raise some extra cash – 
- if you can’t make the evening you can still be in the running to win som
- e excellent prizes from local legends – prizes TBA! \n\n\n\nAccessibili
- ty: \n\n\n\nEffulgent V is a wheelchair accessible event. \n\n\n\nSmoke ma
- chines will NOT be used. \n\n\n\nStrobing will NOT be used. \n\n\n\nPlease
-  bring earplugs if you are sensitive to loud noise\, outdoor space will be
-  available. \n\n\n\nFull accessibility and safer spaces policy >>> https
- ://docs.google.com/document/d/1ZPDHZ0gk3ID-5ZztnO5MYsv7Fn2j4q6OAWgbxhmNbdg
- /edit?usp=sharing
-LAST-MODIFIED:20260311T043928Z
+ 26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
+CREATED:20260325T015822Z
+DESCRIPTION:Gang Gang Comedy brings you the best comedians from around the
+  country. April is the hilarious Annie Boyle. Local supports will be the w
+ onderful Anneli Cole\, funny Fateh Singh and Gang Gang Comedy favourite Su
+ ma Iyer. MC for the night will be the charismatic and hilarious Cameron Ri
+ bbons. \n\n\n\nAnnie Boyle is one of Australia’s most exciting rising c
+ omedy voices. A RAW Comedy State Finalist and 2023 Comedy Zone performer a
+ t the Melbourne International Comedy Festival\, she’s toured sold-out so
+ lo shows across Australia and the UK. Trained at the National Institute of
+  Dramatic Art (NIDA)\, Annie appears in Colin From Accounts (Binge) and 
+ the upcoming Stan Original series The F Word. \n\n\n\n★★★★ “
+ …crowds will be flocking to see her in the future for sure” — TD9  
+ \n\n\n\n★★★★ “Her seemingly poker-faced presentation sprinkles 
+ her show with comedic gold dust” — The Recs \n\n\n\nDoors at 7pm for a
+  7:30pm show start. \n\n\n\nTix $22 online Humanitix\, $25 at the door.
+LAST-MODIFIED:20260325T015823Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/effulgent-v-extracelestial/
+URL:https://ganggangcafe.com.au/event/gang-gang-comedy-annie-boyle/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Butter Sessions 15th Anniversary Party
-DTSTART;TZID=Australia/Sydney:20260404T160000
-DTEND;TZID=Australia/Sydney:20260404T230000
-DTSTAMP:20260318T132307
-UID:ganggang-10001238-1775318400-1775343600@ganggangcafe.com.au
+SUMMARY:R.M.F.C Live at Gang Gang
+DTSTART;TZID=Australia/Sydney:20260425T190000
+DTEND;TZID=Australia/Sydney:20260425T220000
+DTSTAMP:20260406T123635
+UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/02/Screenshot-2026-02-27-at-1.51.32-pm.png
-CREATED:20260227T025302Z
-DESCRIPTION:Butter Sessions teams up with Gang Gang to bring you BSRXV Ca
- nberra edition. Clocking 15 years in the game with a trilogy of parties ac
- ross Eastern Australia. \n\n\n\nButter Sessions are bringing a very rare a
- nd heavy line up that Gang Gang has never seen\, and will most likely not 
- see again. Grab a ticket before they are gone. \n\n\n\nLine up: \n\n\n\nSl
- eep D (live) \n\n\n\nKuniyuki (live) (JAP) \n\n\n\nGonno (JAP) \n\n\n\nEmm
- ie \n\n\n\nDana \n\n\n\nGang Gang is committed to an inclusive and safe ex
- perience for all. Gang Gang Cafe is wheelchair accessible with accessible 
- restrooms. We have zero tolerance for harassment and have support measures
-  in place to ensure everyone’s safety. For specific accessibility needs 
- or assistance\, please contact us in advance. We aim to make our events en
- joyable for everyone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal an
- d Ngambri people\, the Traditional Custodians of the land where our events
-  take place. We pay our respects to their Elders past\, present\, and emer
- ging\, and recognise their enduring connection to this land\, waters\, and
-  culture. We are grateful to celebrate music and dance on Ngunnawal Countr
- y. Free tickets to all First Nations and Torres Straight Islanders peoples
- \, we just request you contact us for this ticket prior to event.
-LAST-MODIFIED:20260227T025303Z
+ 26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
+CREATED:20260320T020027Z
+DESCRIPTION:They say Canberra is our nation’s capital. R.M.F.C are visit
+ ing Canberra to play their music there joined by New Age Group & Assassins
+ . \n\n\n\n\n\n\n\nGang Gang is committed to an inclusive and safe experien
+ ce for all. Gang Gang Cafe is wheelchair accessible with accessible restro
+ oms. We have zero tolerance for harassment and have support measures in pl
+ ace to ensure everyone’s safety. For specific accessibility needs or ass
+ istance\, please contact us in advance. We aim to make our events enjoyabl
+ e for everyone. \n\n\n\nGang Gang Cafe acknowledges the Ngunnawal and Ngam
+ bri people\, the Traditional Custodians of the land where our events take 
+ place. We pay our respects to their Elders past\, present\, and emerging\,
+  and recognise their enduring connection to this land\, waters\, and cultu
+ re. We are grateful to celebrate music and dance on Ngunnawal Country.
+LAST-MODIFIED:20260320T021418Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/butter-sessions-15th-anniversary-par
- ty/
+URL:https://ganggangcafe.com.au/event/r-m-f-c-live-at-gang-gang/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
+DTSTART;TZID=Australia/Sydney:20260426T180000
+DTEND;TZID=Australia/Sydney:20260426T210000
+DTSTAMP:20260406T123635
+UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
+CREATED:20260325T020104Z
+DESCRIPTION:Damon Mudge heads out on tour for the first time to celebrate 
+ the release of his debut album\, Country Living City Benefits. Bringing hi
+ s band\, the Replacement Buses\, and his unmistakable yellow piano along f
+ or the ride\, Mudge delivers a punchy mix of piano-driven rock\, psychedel
+ ic textures\, and sharp\, melodic songwriting. \n\n\n\nRaw\, energetic\, a
+ nd a little unpredictable\, these shows mark the first chance to hear Coun
+ try Living City Benefits brought to life on stage.
+LAST-MODIFIED:20260325T020107Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/damon-mudge-the-replacement-buses-co
+ untry-living-city-benefits/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260318T132307
+DTSTAMP:20260406T123635
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -524,73 +430,10 @@ LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Very Pleased to Jive You
-DTSTART;TZID=Australia/Sydney:20260319T193000
-DTEND;TZID=Australia/Sydney:20260319T203000
-UID:dissent-69af5443cc64510466f2ba7b
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Music ACT presents Upstaging
-DTSTART;TZID=Australia/Sydney:20260320T193000
-DTEND;TZID=Australia/Sydney:20260320T203000
-UID:dissent-69af52de6421a2138263e91d
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DSM6 E.P Launch
-DTSTART;TZID=Australia/Sydney:20260321T193000
-DTEND;TZID=Australia/Sydney:20260321T203000
-UID:dissent-6961c411a3868c5f0e0424b1
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Billy Cart
-DTSTART;TZID=Australia/Sydney:20260326T193000
-DTEND;TZID=Australia/Sydney:20260326T203000
-UID:dissent-69b13c43500d6e9a038133c5
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Figures - ‘Figure It Out!’ EP Launch
-DTSTART;TZID=Australia/Sydney:20260327T193000
-DTEND;TZID=Australia/Sydney:20260327T203000
-UID:dissent-6971a05bd5a90972e82e7d4b
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sally's Sewing Machine
-DTSTART;TZID=Australia/Sydney:20260328T193000
-DTEND;TZID=Australia/Sydney:20260328T203000
-UID:dissent-69b91ee57e1e26e7832d31b0
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black and White single launch
-DTSTART;TZID=Australia/Sydney:20260329T190000
-DTEND;TZID=Australia/Sydney:20260329T200000
-UID:dissent-69a553bc7eeae0315ea16a2c
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:A Little Loveless Affair - Single Launch
-DTSTART;TZID=Australia/Sydney:20260402T193000
-DTEND;TZID=Australia/Sydney:20260402T203000
-UID:dissent-69b7a2905a50d5fa29ac25db
+SUMMARY:The Wonderful Battle of the Bands
+DTSTART;TZID=Australia/Sydney:20260407T190000
+DTEND;TZID=Australia/Sydney:20260407T200000
+UID:dissent-69ba46423e5ae4ec85d23127
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -618,6 +461,69 @@ SUMMARY:Pixies & Nirvana Tribute @ Dissent
 DTSTART;TZID=Australia/Sydney:20260412T150000
 DTEND;TZID=Australia/Sydney:20260412T160000
 UID:dissent-69b4e7728a1bd519369b95d1
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:anna dine x cate guirguis
+DTSTART;TZID=Australia/Sydney:20260412T190000
+DTEND;TZID=Australia/Sydney:20260412T200000
+UID:dissent-6984228e15431d674d785bdc
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Lover]
+DTSTART;TZID=Australia/Sydney:20260417T193000
+DTEND;TZID=Australia/Sydney:20260417T203000
+UID:dissent-699558d9f6fa28f560e25fbd
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elias Bartholomeo
+DTSTART;TZID=Australia/Sydney:20260419T150000
+DTEND;TZID=Australia/Sydney:20260419T160000
+UID:dissent-6981c3039b177f855aeb012f
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Glitch Bill Madness
+DTSTART;TZID=Australia/Sydney:20260419T190000
+DTEND;TZID=Australia/Sydney:20260419T200000
+UID:dissent-69a8b72620b4b1d95087030c
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:GREEDY RICH BOYS TOUR 2026
+DTSTART;TZID=Australia/Sydney:20260424T193000
+DTEND;TZID=Australia/Sydney:20260424T203000
+UID:dissent-69891abf2d70029ea69a9d46
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cornershop Agency presents…  Loose Content
+DTSTART;TZID=Australia/Sydney:20260425T193000
+DTEND;TZID=Australia/Sydney:20260425T203000
+UID:dissent-69b289a840ac8024c66b954d
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Elestial - “Guiness” Release Show
+DTSTART;TZID=Australia/Sydney:20260426T190000
+DTEND;TZID=Australia/Sydney:20260426T200000
+UID:dissent-699ed16775e771339fa2d5ce
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
