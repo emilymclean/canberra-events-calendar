@@ -1,27 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Geoff's That Poetry Thing
-DTSTART:20260406T090000Z
-DTEND:20260406T110000Z
-DTSTAMP:20260406T023634Z
-UID:smiths-alternative-7a2d42f466f6359e2ffb3ead9c2a1de8
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96046/f__33203_gp-apr26.jpg
-CREATED:20260318T115440Z
-DESCRIPTION:Jennifer Mackenzie and Mark O'Connor
-LAST-MODIFIED:20260318T115805Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/geoff-s-that-poetry-thing-9604
- 6
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bedtime Tales
 DTSTART:20260407T080000Z
 DTEND:20260407T100000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023126Z
 UID:smiths-alternative-e8027c97b3cc9c2dfa73d9281a95a1fd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95399/f__33011_bed.jpg
@@ -37,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:JOURNEY exhibition opening
 DTSTART:20260407T080000Z
 DTEND:20260407T090000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023126Z
 UID:smiths-alternative-d5d99face2bc0138414b8e4780c10576
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96214/f__33245_annetassie.jpg
@@ -54,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260407T083000Z
 DTEND:20260407T110000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-d0e2e38c74e3d290c677406e6c3ef7e7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96271/f__32298_ssad.jpg
@@ -71,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Ding Dilemmas - Dandyman
 DTSTART:20260408T003000Z
 DTEND:20260408T013000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-1e3333ed015991295879c64e29b6f45b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95971/f__33190_dandyman_ding.jpg
@@ -88,7 +71,7 @@ SUMMARY:Mal Webb and Kylie Morrigan presents Notey and Noisy: A Sound Scie
  nce Mathemusical
 DTSTART:20260408T040000Z
 DTEND:20260408T050000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-ce404d4a7ccdfcf48410440447ae505e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95966/f__33188_notey_and_noisey.jpg
@@ -104,7 +87,7 @@ BEGIN:VEVENT
 SUMMARY:Electro-Magnetism - Miles Brown
 DTSTART:20260409T003000Z
 DTEND:20260409T013000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-898a6aa3f908601d688bb28fe9bf8734
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95973/f__33191_electromagnetism.jpg
@@ -120,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY:Alias the Faerie's Bubble Show
 DTSTART:20260409T040000Z
 DTEND:20260409T050000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-e66638e4184058d71a086867c606e608
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95977/f__33192_alias_the_faerie.jpg
@@ -136,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Saxedonia
 DTSTART:20260409T090000Z
 DTEND:20260409T110000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-97bb8933b99d8971fd640ab2ff952795
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95865/f__33164_sax.jpg
@@ -152,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Alias the Faerie's Bubble Show
 DTSTART:20260410T003000Z
 DTEND:20260410T013000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-5c0d62775f680d3e1ac6d41983d541b8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95980/f__33192_alias_the_faerie.jpg
@@ -168,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Electro-Magnetism - Miles Brown
 DTSTART:20260410T040000Z
 DTEND:20260410T050000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-5a44b4aaf92ab8cfb9ce9d5fa7aa5b28
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95975/f__33191_electromagnetism.jpg
@@ -184,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Rogers early show - SOLD OUT
 DTSTART:20260410T083000Z
 DTEND:20260410T103000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-365f6ab2ce5bb6a03bab07cbf7d95d4d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94467/f__32793_timrogers25.jpg
@@ -200,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Rogers late show
 DTSTART:20260410T113000Z
 DTEND:20260410T133000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-d385655153e60fbf8a221efe8e3a1929
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94471/f__33023_tr.jpg
@@ -213,27 +196,10 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/tim-rogers-94471
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Smith's Cabaret Cabal
-DTSTART:20260411T040000Z
-DTEND:20260412T110000Z
-DTSTAMP:20260406T023634Z
-UID:smiths-alternative-b14681878f5309b547e85271f583ee71
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95947/f__33183_cabcabal.jpg
-CREATED:20260314T102513Z
-DESCRIPTION:A Weekend of Saucy Secrets\, Ingenious Intrigues & Cleverly Co
- ntrived Confabulations
-LAST-MODIFIED:20260325T105423Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-cabaret-cabal-95947
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASA Song Circle SHOWCASE CONCERT
 DTSTART:20260411T040000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-ab9106cacaf2f6ee555a5090bbc1b961
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96221/f__33249_asa-showcase-11-april.jpg
@@ -246,10 +212,27 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/song-circle-96221
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Smith's Cabaret Cabal
+DTSTART:20260411T040000Z
+DTEND:20260412T110000Z
+DTSTAMP:20260407T023127Z
+UID:smiths-alternative-b14681878f5309b547e85271f583ee71
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95947/f__33183_cabcabal.jpg
+CREATED:20260314T102513Z
+DESCRIPTION:A Weekend of Saucy Secrets\, Ingenious Intrigues & Cleverly Co
+ ntrived Confabulations
+LAST-MODIFIED:20260407T022516Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-cabaret-cabal-95947
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Queer Variety Show
 DTSTART:20260411T050000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260406T023634Z
+DTSTAMP:20260407T023127Z
 UID:smiths-alternative-98f0c32a17a64fd8509fabecd7d6c510
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95916/f__33176_qv.jpg
@@ -263,10 +246,26 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/the-queer-variety-show-95916
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Honey Boom
+DTSTART:20260411T070000Z
+DTEND:20260411T080000Z
+DTSTAMP:20260407T023127Z
+UID:smiths-alternative-2197a96c71a5425106ee93c4480198f5
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96018/f__33194_honey.jpg
+CREATED:20260317T053313Z
+DESCRIPTION:EP launch party
+LAST-MODIFIED:20260324T143509Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/honey-boom-96018
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260409T183000
 DTEND;TZID=Australia/Sydney:20260409T210000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10000772-1775759400-1775768400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -284,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260410T190000
 DTEND;TZID=Australia/Sydney:20260410T220000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10000499-1775847600-1775858400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -301,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Annie Boyle
 DTSTART;TZID=Australia/Sydney:20260422T193000
 DTEND;TZID=Australia/Sydney:20260422T220000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
@@ -328,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:R.M.F.C Live at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260425T190000
 DTEND;TZID=Australia/Sydney:20260425T220000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
@@ -353,7 +352,7 @@ BEGIN:VEVENT
 SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
 DTSTART;TZID=Australia/Sydney:20260426T180000
 DTEND;TZID=Australia/Sydney:20260426T210000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
@@ -374,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260406T123635
+DTSTAMP:20260407T123129
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
