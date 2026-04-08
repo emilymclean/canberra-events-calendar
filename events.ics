@@ -1,77 +1,11 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Bedtime Tales
-DTSTART:20260407T080000Z
-DTEND:20260407T100000Z
-DTSTAMP:20260407T023126Z
-UID:smiths-alternative-e8027c97b3cc9c2dfa73d9281a95a1fd
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95399/f__33011_bed.jpg
-CREATED:20260211T110828Z
-DESCRIPTION:Sex workers in the ACT want to entertain and seduce you.
-LAST-MODIFIED:20260319T140621Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/bedtime-tales-95399
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:JOURNEY exhibition opening
-DTSTART:20260407T080000Z
-DTEND:20260407T090000Z
-DTSTAMP:20260407T023126Z
-UID:smiths-alternative-d5d99face2bc0138414b8e4780c10576
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96214/f__33245_annetassie.jpg
-CREATED:20260331T131957Z
-DESCRIPTION:An exhibition of coastal wanderings and musings through time
-LAST-MODIFIED:20260331T135227Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/journey-exhibition-opening-962
- 14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smith's Scribblers After Dark
-DTSTART:20260407T083000Z
-DTEND:20260407T110000Z
-DTSTAMP:20260407T023127Z
-UID:smiths-alternative-d0e2e38c74e3d290c677406e6c3ef7e7
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96271/f__32298_ssad.jpg
-CREATED:20260402T140417Z
-DESCRIPTION:Spend Tuesday night creating something splendid.
-LAST-MODIFIED:20260402T140714Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
- 96271
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ding Dilemmas - Dandyman
-DTSTART:20260408T003000Z
-DTEND:20260408T013000Z
-DTSTAMP:20260407T023127Z
-UID:smiths-alternative-1e3333ed015991295879c64e29b6f45b
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95971/f__33190_dandyman_ding.jpg
-CREATED:20260316T141743Z
-DESCRIPTION:
-LAST-MODIFIED:20260317T030632Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/ding-dilemmas-95971
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mal Webb and Kylie Morrigan presents Notey and Noisy: A Sound Scie
  nce Mathemusical
 DTSTART:20260408T040000Z
 DTEND:20260408T050000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-ce404d4a7ccdfcf48410440447ae505e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95966/f__33188_notey_and_noisey.jpg
@@ -87,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Electro-Magnetism - Miles Brown
 DTSTART:20260409T003000Z
 DTEND:20260409T013000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-898a6aa3f908601d688bb28fe9bf8734
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95973/f__33191_electromagnetism.jpg
@@ -103,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:Alias the Faerie's Bubble Show
 DTSTART:20260409T040000Z
 DTEND:20260409T050000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-e66638e4184058d71a086867c606e608
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95977/f__33192_alias_the_faerie.jpg
@@ -119,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Saxedonia
 DTSTART:20260409T090000Z
 DTEND:20260409T110000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-97bb8933b99d8971fd640ab2ff952795
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95865/f__33164_sax.jpg
@@ -135,7 +69,7 @@ BEGIN:VEVENT
 SUMMARY:Alias the Faerie's Bubble Show
 DTSTART:20260410T003000Z
 DTEND:20260410T013000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-5c0d62775f680d3e1ac6d41983d541b8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95980/f__33192_alias_the_faerie.jpg
@@ -151,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Electro-Magnetism - Miles Brown
 DTSTART:20260410T040000Z
 DTEND:20260410T050000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-5a44b4aaf92ab8cfb9ce9d5fa7aa5b28
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95975/f__33191_electromagnetism.jpg
@@ -167,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Rogers early show - SOLD OUT
 DTSTART:20260410T083000Z
 DTEND:20260410T103000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023209Z
 UID:smiths-alternative-365f6ab2ce5bb6a03bab07cbf7d95d4d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94467/f__32793_timrogers25.jpg
@@ -183,7 +117,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Rogers late show
 DTSTART:20260410T113000Z
 DTEND:20260410T133000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023210Z
 UID:smiths-alternative-d385655153e60fbf8a221efe8e3a1929
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94471/f__33023_tr.jpg
@@ -199,7 +133,7 @@ BEGIN:VEVENT
 SUMMARY:ASA Song Circle SHOWCASE CONCERT
 DTSTART:20260411T040000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023210Z
 UID:smiths-alternative-ab9106cacaf2f6ee555a5090bbc1b961
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96221/f__33249_asa-showcase-11-april.jpg
@@ -215,14 +149,14 @@ BEGIN:VEVENT
 SUMMARY:Smith's Cabaret Cabal
 DTSTART:20260411T040000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023210Z
 UID:smiths-alternative-b14681878f5309b547e85271f583ee71
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95947/f__33183_cabcabal.jpg
 CREATED:20260314T102513Z
 DESCRIPTION:A Weekend of Saucy Secrets\, Ingenious Intrigues & Cleverly Co
  ntrived Confabulations
-LAST-MODIFIED:20260407T022516Z
+LAST-MODIFIED:20260407T133039Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 STATUS:CONFIRMED
@@ -232,7 +166,7 @@ BEGIN:VEVENT
 SUMMARY:The Queer Variety Show
 DTSTART:20260411T050000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023210Z
 UID:smiths-alternative-98f0c32a17a64fd8509fabecd7d6c510
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95916/f__33176_qv.jpg
@@ -249,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Honey Boom
 DTSTART:20260411T070000Z
 DTEND:20260411T080000Z
-DTSTAMP:20260407T023127Z
+DTSTAMP:20260408T023210Z
 UID:smiths-alternative-2197a96c71a5425106ee93c4480198f5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96018/f__33194_honey.jpg
@@ -262,10 +196,80 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/honey-boom-96018
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:ANUSHKA in the WOODS with MIKELANGELO
+DTSTART:20260411T080000Z
+DTEND:20260411T093000Z
+DTSTAMP:20260408T023210Z
+UID:smiths-alternative-9bcced128243da19d2c711b0cf5f5a20
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96116/f__33218_anushka.jpg
+CREATED:20260324T144108Z
+DESCRIPTION:
+LAST-MODIFIED:20260324T204355Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/anushka-with-mikelangelo-96116
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Evening with Amy Bodossian
+DTSTART:20260411T090000Z
+DTEND:20260411T100000Z
+DTSTAMP:20260408T023210Z
+UID:smiths-alternative-3e5635982d843732c0b2e7d119882e43
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95929/f__33179_amy.jpg
+CREATED:20260313T100634Z
+DESCRIPTION:Acclaimed cabaret icon Amy Bodossian is in town for ONE NIGHT 
+ ONLY!
+LAST-MODIFIED:20260324T143349Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/an-evening-with-amy-bodossian-
+ 95929
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amita and Anita Presents
+DTSTART:20260411T110000Z
+DTEND:20260411T130000Z
+DTSTAMP:20260408T023210Z
+UID:smiths-alternative-6712cdbba49a476466fa8ee4063e042a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95951/f__33187_aa2.jpg
+CREATED:20260315T094925Z
+DESCRIPTION:Amita Hachidori and Anita Douche proudly present 2 hours of th
+ e finest cabaret and variety the you're ever likely to lay your peepers on
+ .
+LAST-MODIFIED:20260315T105947Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/amita-and-anita-presents-95951
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Woody Campfire
+DTSTART:20260412T070000Z
+DTEND:20260412T080000Z
+DTSTAMP:20260408T023210Z
+UID:smiths-alternative-c4d4d82c51bee1854f282556f5f3b76a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96125/f__33223_woodd.jpg
+CREATED:20260324T173936Z
+DESCRIPTION:Pull up a camp chair and settle in with Woody Campfire - a sin
+ ging bushman with a guitar\, a roaring (fake\, indoor) campfire and a dang
+ erously good line in Australian folk storytelling.
+LAST-MODIFIED:20260324T194910Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/woody-campfire-96125
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260409T183000
 DTEND;TZID=Australia/Sydney:20260409T210000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10000772-1775759400-1775768400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -283,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260410T190000
 DTEND;TZID=Australia/Sydney:20260410T220000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10000499-1775847600-1775858400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -300,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Annie Boyle
 DTSTART;TZID=Australia/Sydney:20260422T193000
 DTEND;TZID=Australia/Sydney:20260422T220000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
@@ -327,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:R.M.F.C Live at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260425T190000
 DTEND;TZID=Australia/Sydney:20260425T220000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
@@ -352,7 +356,7 @@ BEGIN:VEVENT
 SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
 DTSTART;TZID=Australia/Sydney:20260426T180000
 DTEND;TZID=Australia/Sydney:20260426T210000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
@@ -373,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260407T123129
+DTSTAMP:20260408T123210
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
