@@ -1,59 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Mal Webb and Kylie Morrigan presents Notey and Noisy: A Sound Scie
- nce Mathemusical
-DTSTART:20260408T040000Z
-DTEND:20260408T050000Z
-DTSTAMP:20260408T023209Z
-UID:smiths-alternative-ce404d4a7ccdfcf48410440447ae505e
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95966/f__33188_notey_and_noisey.jpg
-CREATED:20260316T141402Z
-DESCRIPTION:
-LAST-MODIFIED:20260317T031024Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/notey-noisey-95966
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Electro-Magnetism - Miles Brown
-DTSTART:20260409T003000Z
-DTEND:20260409T013000Z
-DTSTAMP:20260408T023209Z
-UID:smiths-alternative-898a6aa3f908601d688bb28fe9bf8734
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95973/f__33191_electromagnetism.jpg
-CREATED:20260316T141920Z
-DESCRIPTION:
-LAST-MODIFIED:20260402T052635Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/electro-magnetism-95973
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Alias the Faerie's Bubble Show
-DTSTART:20260409T040000Z
-DTEND:20260409T050000Z
-DTSTAMP:20260408T023209Z
-UID:smiths-alternative-e66638e4184058d71a086867c606e608
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95977/f__33192_alias_the_faerie.jpg
-CREATED:20260316T142439Z
-DESCRIPTION:
-LAST-MODIFIED:20260317T030816Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/alias-the-faerie-95977
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Saxedonia
 DTSTART:20260409T090000Z
 DTEND:20260409T110000Z
-DTSTAMP:20260408T023209Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-97bb8933b99d8971fd640ab2ff952795
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95865/f__33164_sax.jpg
@@ -66,42 +17,10 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/saxedonia-95865
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Alias the Faerie's Bubble Show
-DTSTART:20260410T003000Z
-DTEND:20260410T013000Z
-DTSTAMP:20260408T023209Z
-UID:smiths-alternative-5c0d62775f680d3e1ac6d41983d541b8
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95980/f__33192_alias_the_faerie.jpg
-CREATED:20260316T142718Z
-DESCRIPTION:
-LAST-MODIFIED:20260317T030848Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/alias-the-faerie-95980
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Electro-Magnetism - Miles Brown
-DTSTART:20260410T040000Z
-DTEND:20260410T050000Z
-DTSTAMP:20260408T023209Z
-UID:smiths-alternative-5a44b4aaf92ab8cfb9ce9d5fa7aa5b28
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95975/f__33191_electromagnetism.jpg
-CREATED:20260316T142210Z
-DESCRIPTION:
-LAST-MODIFIED:20260402T052945Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/electro-magnetism-95975
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tim Rogers early show - SOLD OUT
 DTSTART:20260410T083000Z
 DTEND:20260410T103000Z
-DTSTAMP:20260408T023209Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-365f6ab2ce5bb6a03bab07cbf7d95d4d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94467/f__32793_timrogers25.jpg
@@ -117,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY:Tim Rogers late show
 DTSTART:20260410T113000Z
 DTEND:20260410T133000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-d385655153e60fbf8a221efe8e3a1929
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/94471/f__33023_tr.jpg
@@ -133,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:ASA Song Circle SHOWCASE CONCERT
 DTSTART:20260411T040000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-ab9106cacaf2f6ee555a5090bbc1b961
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96221/f__33249_asa-showcase-11-april.jpg
@@ -149,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Cabaret Cabal
 DTSTART:20260411T040000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-b14681878f5309b547e85271f583ee71
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95947/f__33183_cabcabal.jpg
@@ -166,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:The Queer Variety Show
 DTSTART:20260411T050000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-98f0c32a17a64fd8509fabecd7d6c510
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95916/f__33176_qv.jpg
@@ -183,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:Honey Boom
 DTSTART:20260411T070000Z
 DTEND:20260411T080000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-2197a96c71a5425106ee93c4480198f5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96018/f__33194_honey.jpg
@@ -199,7 +118,7 @@ BEGIN:VEVENT
 SUMMARY:ANUSHKA in the WOODS with MIKELANGELO
 DTSTART:20260411T080000Z
 DTEND:20260411T093000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-9bcced128243da19d2c711b0cf5f5a20
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96116/f__33218_anushka.jpg
@@ -215,7 +134,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Amy Bodossian
 DTSTART:20260411T090000Z
 DTEND:20260411T100000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-3e5635982d843732c0b2e7d119882e43
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95929/f__33179_amy.jpg
@@ -233,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Amita and Anita Presents
 DTSTART:20260411T110000Z
 DTEND:20260411T130000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-6712cdbba49a476466fa8ee4063e042a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95951/f__33187_aa2.jpg
@@ -251,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Woody Campfire
 DTSTART:20260412T070000Z
 DTEND:20260412T080000Z
-DTSTAMP:20260408T023210Z
+DTSTAMP:20260409T022720Z
 UID:smiths-alternative-c4d4d82c51bee1854f282556f5f3b76a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96125/f__33223_woodd.jpg
@@ -266,10 +185,96 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/woody-campfire-96125
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:They Come To Watch Me Die
+DTSTART:20260412T080000Z
+DTEND:20260412T090000Z
+DTSTAMP:20260409T022720Z
+UID:smiths-alternative-a50df44a44d9917c13050b82df9f80fb
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96245/f__33255_humph.jpg
+CREATED:20260401T131228Z
+DESCRIPTION:
+LAST-MODIFIED:20260408T041836Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/they-come-to-watch-me-die-9624
+ 5
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Open Mic Comedy
+DTSTART:20260412T090000Z
+DTEND:20260412T110000Z
+DTSTAMP:20260409T022720Z
+UID:smiths-alternative-1ce7a48089f29dfdfc4484abbd75f985
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96013/f__33193_somc.jpg
+CREATED:20260317T045755Z
+DESCRIPTION:Comedy Open Mic at Smith's - First Sunday (or sometimes second
+ ) of the month
+LAST-MODIFIED:20260405T102932Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-96013
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Amita Hachidori & Kentaro Tamura
+DTSTART:20260412T100000Z
+DTEND:20260412T110000Z
+DTSTAMP:20260409T022720Z
+UID:smiths-alternative-2fcbe62edbbadccda80864a16dded8f6
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95942/f__33181_ak.jpg
+CREATED:20260314T061838Z
+DESCRIPTION:After an amazing show with Buddhadatta in 2025\, Amita Hachido
+ ri and Kentaro Tamura return to Smiths for another captivating show of dar
+ k chanson singing accompanied by accordion.
+LAST-MODIFIED:20260402T115826Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/amita-hachidori-kentaro-tamura
+ -95942
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Poetry Thing
+DTSTART:20260413T090000Z
+DTEND:20260413T110000Z
+DTSTAMP:20260409T022720Z
+UID:smiths-alternative-181f812d492dc1c7bc110f0ed3f5c9d5
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96049/f__33233_tpt130426new.jpg
+CREATED:20260318T121318Z
+DESCRIPTION:Nigel Featherstone and Julie McElhone
+LAST-MODIFIED:20260326T075700Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/that-poetry-thing-96049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Scribblers After Dark
+DTSTART:20260414T083000Z
+DTEND:20260414T110000Z
+DTSTAMP:20260409T022720Z
+UID:smiths-alternative-219f643849b15c7ec7bd3e01187c853a
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96274/f__32298_ssad.jpg
+CREATED:20260402T140438Z
+DESCRIPTION:Spend Tuesday night creating something splendid.
+LAST-MODIFIED:20260402T142127Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
+ 96274
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260409T183000
 DTEND;TZID=Australia/Sydney:20260409T210000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10000772-1775759400-1775768400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -287,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260410T190000
 DTEND;TZID=Australia/Sydney:20260410T220000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10000499-1775847600-1775858400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -301,10 +306,49 @@ URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-04
  -10/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Noisy Futures - 10 Year Anniversary Party
+DTSTART;TZID=Australia/Sydney:20260419T150000
+DTEND;TZID=Australia/Sydney:20260419T210000
+DTSTAMP:20260409T122722
+UID:ganggang-10001255-1776610800-1776632400@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/04/Screenshot-2026-04-08-at-3.40.39-pm.png
+CREATED:20260408T054302Z
+DESCRIPTION:Noisy Futures is turning 10 – and we’re throwing a party t
+ o celebrate! \n\n\n\nJoin us on Sunday 19 April at Gang Gang Café & Bar f
+ or a special anniversary event marking a decade of Noisy Futures. \n\n\n\n
+ For ten years\, we’ve been creating safe and inclusive spaces where youn
+ g people can learn\, create and collaborate through music. This celebratio
+ n brings together the community that has grown alongside us: the young peo
+ ple\, artists\, mentors and scene who have made Noisy Futures what it is t
+ oday. \n\n\n\nCome along for an afternoon of live music from local favour
+ ites and rising stars\, alongside market stalls hosted by our community 
+ partners. There’ll also be hands-on creative activities throughout the d
+ ay\, including including zine workshops and badge-making\, as well as o
+ pportunities to learn about ways you can get involved in your local music 
+ scene. \n\n\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ \n\n\n\nThis is an all-
+ ages\, fully accessible event. Quiet spaces will be available\, and the No
+ isy Futures team will be there to help make sure everyone feels welcome an
+ d supported throughout the day. \n\n\n\nIf the ticket cost is a barrier to
+  attending\, please reach out to us at noisyfutures@gmail.com. We’d lov
+ e to help make it possible for you to join us. \n\n\n\nSouthside Bus: A s
+ huttle bus will be available for people travelling from South Canberra. If
+  you’d like to reserve a seat\, please indicate this when purchasing you
+ r ticket or get in touch with us via email. \n\n\n\nA huge thank you to A
+ rtsACT for their generous support of this event\, and to our partners Ai
+ nslie Arts Centre\, Megalo Print Studio\, and YWCA Canberra. \n\n\n\nThis 
+ event is taking place on the unceded lands of the Ngunnawal & Ngambri peop
+ les. This always was and always will be Aboriginal land.
+LAST-MODIFIED:20260408T054303Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/noisy-futures-10-year-anniversary-pa
+ rty/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Annie Boyle
 DTSTART;TZID=Australia/Sydney:20260422T193000
 DTEND;TZID=Australia/Sydney:20260422T220000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
@@ -331,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:R.M.F.C Live at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260425T190000
 DTEND;TZID=Australia/Sydney:20260425T220000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
@@ -356,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
 DTSTART;TZID=Australia/Sydney:20260426T180000
 DTEND;TZID=Australia/Sydney:20260426T210000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
@@ -374,10 +418,40 @@ URL:https://ganggangcafe.com.au/event/damon-mudge-the-replacement-buses-co
  untry-living-city-benefits/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Spellbound - Readings and Music (Lost Souls/Macabre Dreams)
+DTSTART;TZID=Australia/Sydney:20260507T183000
+DTEND;TZID=Australia/Sydney:20260507T210000
+DTSTAMP:20260409T122722
+UID:ganggang-10001254-1778178600-1778187600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/04/Screenshot-2026-04-08-at-3.18.45-pm.png
+CREATED:20260408T052058Z
+DESCRIPTION:Would you like to try living deliciously? Want to gather with 
+ others venerating the gods of old? \n\n\n\nJoin us for a taste of witchy r
+ eadings and music and to be spellbound at Gang Gang café on THURSDAY 07th
+  MAY 2026. And help us celebrate the release of LOST SOULS Issue 03! \n\n\
+ n\nOur storytellers will share readings inspired by that centuries old co
+ mmunity of practice\, the “coven”. Americo Alvarenga and C. H. Pearce 
+ are to tell stories of benevolent authority and passive resistance\, and t
+ he morbid curiosity in hearing voices of the dead. Megan Cook will reflect
+  on everyday rituals of magic. Imogen Wall will recite poetry inspired by 
+ how we make sense of magic. \n\n\n\nThe writers will be joined by singer a
+ nd songwriter\, Maddie Jiang. She will perform songs inspired by darker\, 
+ country-inspired folk music. \n\n\n\nOur night also aims to help honour th
+ e Samhain (pronounced ‘sah-win’). Traditionally\, Samhain is celebrate
+ d in late April or early May in the Southern Hemisphere (31st October in t
+ he Northern Hemisphere). \n\n\n\nThis is the fifth event in the “Macabre
+  Dreams” series hosted by Lost Souls Magazine.
+LAST-MODIFIED:20260408T052100Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/spellbound-readings-and-music-lost-s
+ ouls-macabre-dreams/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260408T123210
+DTSTAMP:20260409T122722
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
