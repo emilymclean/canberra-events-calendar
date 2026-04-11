@@ -1,42 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Tim Rogers early show - SOLD OUT
-DTSTART:20260410T083000Z
-DTEND:20260410T103000Z
-DTSTAMP:20260410T023836Z
-UID:smiths-alternative-365f6ab2ce5bb6a03bab07cbf7d95d4d
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94467/f__32793_timrogers25.jpg
-CREATED:20251204T030034Z
-DESCRIPTION:
-LAST-MODIFIED:20260214T050102Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/tim-rogers-94467
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tim Rogers late show
-DTSTART:20260410T113000Z
-DTEND:20260410T133000Z
-DTSTAMP:20260410T023836Z
-UID:smiths-alternative-d385655153e60fbf8a221efe8e3a1929
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/94471/f__33023_tr.jpg
-CREATED:20251204T043300Z
-DESCRIPTION:
-LAST-MODIFIED:20260214T051731Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/tim-rogers-94471
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ASA Song Circle SHOWCASE CONCERT
 DTSTART:20260411T040000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-ab9106cacaf2f6ee555a5090bbc1b961
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96221/f__33249_asa-showcase-11-april.jpg
@@ -52,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Cabaret Cabal
 DTSTART:20260411T040000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-b14681878f5309b547e85271f583ee71
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95947/f__33183_cabcabal.jpg
@@ -69,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:The Queer Variety Show
 DTSTART:20260411T050000Z
 DTEND:20260411T063000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-98f0c32a17a64fd8509fabecd7d6c510
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95916/f__33176_qv.jpg
@@ -86,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:Honey Boom
 DTSTART:20260411T070000Z
 DTEND:20260411T080000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-2197a96c71a5425106ee93c4480198f5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96018/f__33194_honey.jpg
@@ -102,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:ANUSHKA in the WOODS with MIKELANGELO
 DTSTART:20260411T080000Z
 DTEND:20260411T093000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-9bcced128243da19d2c711b0cf5f5a20
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96116/f__33218_anushka.jpg
@@ -118,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:An Evening with Amy Bodossian
 DTSTART:20260411T090000Z
 DTEND:20260411T100000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-3e5635982d843732c0b2e7d119882e43
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95929/f__33179_amy.jpg
@@ -136,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Amita and Anita Presents
 DTSTART:20260411T110000Z
 DTEND:20260411T130000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-6712cdbba49a476466fa8ee4063e042a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95951/f__33187_aa2.jpg
@@ -154,7 +122,7 @@ BEGIN:VEVENT
 SUMMARY:Woody Campfire
 DTSTART:20260412T070000Z
 DTEND:20260412T080000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-c4d4d82c51bee1854f282556f5f3b76a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96125/f__33223_woodd.jpg
@@ -172,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:They Come To Watch Me Die
 DTSTART:20260412T080000Z
 DTEND:20260412T090000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-a50df44a44d9917c13050b82df9f80fb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96245/f__33255_humph.jpg
@@ -189,7 +157,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Open Mic Comedy
 DTSTART:20260412T090000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-1ce7a48089f29dfdfc4484abbd75f985
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96013/f__33193_somc.jpg
@@ -206,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Amita Hachidori & Kentaro Tamura
 DTSTART:20260412T100000Z
 DTEND:20260412T110000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-2fcbe62edbbadccda80864a16dded8f6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95942/f__33181_ak.jpg
@@ -225,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260413T090000Z
 DTEND:20260413T110000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-181f812d492dc1c7bc110f0ed3f5c9d5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96049/f__33233_tpt130426new.jpg
@@ -241,7 +209,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260414T083000Z
 DTEND:20260414T110000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-219f643849b15c7ec7bd3e01187c853a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96274/f__32298_ssad.jpg
@@ -258,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260414T083000Z
 DTEND:20260414T120000Z
-DTSTAMP:20260410T023836Z
+DTSTAMP:20260411T022359Z
 UID:smiths-alternative-ef74d36c1e04b89690db666d250aaa85
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96426/f__30321_bigbangbeng.jpg
@@ -273,27 +241,43 @@ URL:http://www.smithsalternative.com/events/the-big-bang!!-beng!!-bing!!-b
  ong!!-bung!!-96426
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Friday Night Jazz - Free Entry
-DTSTART;TZID=Australia/Sydney:20260410T190000
-DTEND;TZID=Australia/Sydney:20260410T220000
-DTSTAMP:20260410T123837
-UID:ganggang-10000499-1775847600-1775858400@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
- 024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
- jpg
-CREATED:20240219T000235Z
-DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
- s get loose live every Friday. Pssst – it’s free.
-LAST-MODIFIED:20240219T000732Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-04
- -10/
+SUMMARY:Within Reach by Russell Erwin
+DTSTART:20260415T073000Z
+DTEND:20260415T090000Z
+DTSTAMP:20260411T022359Z
+UID:smiths-alternative-afda9bd1395572ce068d3592c66b7832
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96060/f__33205_within-reach.jpg
+CREATED:20260319T052244Z
+DESCRIPTION:Book launch
+LAST-MODIFIED:20260319T053907Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/within-reach-96060
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Classical Capers
+DTSTART:20260415T090000Z
+DTEND:20260415T110000Z
+DTSTAMP:20260411T022359Z
+UID:smiths-alternative-c682b70d3beae3bc0d1f3a4c39a67891
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96172/f__2157_classicalcapers.jpg
+CREATED:20260326T091839Z
+DESCRIPTION:Opera star Tobias Cole hosts an entertaining evening for class
+ ically trained (and untrained) musicians and enthusiasts.
+LAST-MODIFIED:20260326T092111Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/classical-capers-96172
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260416T183000
 DTEND;TZID=Australia/Sydney:20260416T210000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10000773-1776364200-1776373200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -308,10 +292,27 @@ LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/trivia-2/2026-04-16/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Friday Night Jazz - Free Entry
+DTSTART;TZID=Australia/Sydney:20260417T190000
+DTEND;TZID=Australia/Sydney:20260417T210000
+DTSTAMP:20260411T122401
+UID:ganggang-10000500-1776452400-1776459600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
+ 024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
+ jpg
+CREATED:20240219T000235Z
+DESCRIPTION:Come see some of Canberra and the country’s best jazz artist
+ s get loose live every Friday. Pssst – it’s free.
+LAST-MODIFIED:20260410T110916Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+URL:https://ganggangcafe.com.au/event/friday-night-jazz-free-entry/2026-04
+ -17/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noisy Futures - 10 Year Anniversary Party
 DTSTART;TZID=Australia/Sydney:20260419T150000
 DTEND;TZID=Australia/Sydney:20260419T210000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001255-1776610800-1776632400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-08-at-3.40.39-pm.png
@@ -350,7 +351,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Annie Boyle
 DTSTART;TZID=Australia/Sydney:20260422T193000
 DTEND;TZID=Australia/Sydney:20260422T220000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
@@ -377,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:R.M.F.C Live at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260425T190000
 DTEND;TZID=Australia/Sydney:20260425T220000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
@@ -402,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
 DTSTART;TZID=Australia/Sydney:20260426T180000
 DTEND;TZID=Australia/Sydney:20260426T210000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
@@ -423,7 +424,7 @@ BEGIN:VEVENT
 SUMMARY:LANTERNS & LINEAGES
 DTSTART;TZID=Australia/Sydney:20260502T193000
 DTEND;TZID=Australia/Sydney:20260502T223000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001256-1777750200-1777761000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-09-at-4.18.58-pm.png
@@ -441,7 +442,7 @@ DESCRIPTION:LANTERNS & LINEAGES – A NIGHT OF CULTURE\, STORIES & QUEER E
  y\, SWers\, and allies \n\n\n\nWe will not tolerate homophobia\, transphob
  ia\, racism\, sexism\, ableism\, or discrimination of any kind during the 
  event
-LAST-MODIFIED:20260409T063231Z
+LAST-MODIFIED:20260410T110530Z
 LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 URL:https://ganggangcafe.com.au/event/lanterns-lineages/
 END:VEVENT
@@ -449,7 +450,7 @@ BEGIN:VEVENT
 SUMMARY:Spellbound - Readings and Music (Lost Souls/Macabre Dreams)
 DTSTART;TZID=Australia/Sydney:20260507T183000
 DTEND;TZID=Australia/Sydney:20260507T210000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001254-1778178600-1778187600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-08-at-3.18.45-pm.png
@@ -479,7 +480,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260410T123837
+DTSTAMP:20260411T122401
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -539,15 +540,6 @@ SUMMARY:The Wonderful Battle of the Bands
 DTSTART;TZID=Australia/Sydney:20260407T190000
 DTEND;TZID=Australia/Sydney:20260407T200000
 UID:dissent-69ba46423e5ae4ec85d23127
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Out in the Cold - Single Launch
-DTSTART;TZID=Australia/Sydney:20260410T193000
-DTEND;TZID=Australia/Sydney:20260410T203000
-UID:dissent-699bd82e12c892146663b0d5
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -620,6 +612,15 @@ SUMMARY:Cornershop Agency presents…  Loose Content
 DTSTART;TZID=Australia/Sydney:20260425T193000
 DTEND;TZID=Australia/Sydney:20260425T203000
 UID:dissent-69b289a840ac8024c66b954d
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:“Guiness” Single Release Show
+DTSTART;TZID=Australia/Sydney:20260426T190000
+DTEND;TZID=Australia/Sydney:20260426T200000
+UID:dissent-69d89c2cc132bb9ff563afc6
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
