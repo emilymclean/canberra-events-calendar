@@ -1,98 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Smith's Cabaret Cabal
-DTSTART:20260411T040000Z
-DTEND:20260412T110000Z
-DTSTAMP:20260412T024059Z
-UID:smiths-alternative-b14681878f5309b547e85271f583ee71
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95947/f__33183_cabcabal.jpg
-CREATED:20260314T102513Z
-DESCRIPTION:A Weekend of Saucy Secrets\, Ingenious Intrigues & Cleverly Co
- ntrived Confabulations
-LAST-MODIFIED:20260407T133039Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-cabaret-cabal-95947
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Woody Campfire
-DTSTART:20260412T070000Z
-DTEND:20260412T080000Z
-DTSTAMP:20260412T024059Z
-UID:smiths-alternative-c4d4d82c51bee1854f282556f5f3b76a
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96125/f__33223_woodd.jpg
-CREATED:20260324T173936Z
-DESCRIPTION:Pull up a camp chair and settle in with Woody Campfire - a sin
- ging bushman with a guitar\, a roaring (fake\, indoor) campfire and a dang
- erously good line in Australian folk storytelling.
-LAST-MODIFIED:20260324T194910Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/woody-campfire-96125
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:They Come To Watch Me Die
-DTSTART:20260412T080000Z
-DTEND:20260412T090000Z
-DTSTAMP:20260412T024059Z
-UID:smiths-alternative-a50df44a44d9917c13050b82df9f80fb
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96245/f__33255_humph.jpg
-CREATED:20260401T131228Z
-DESCRIPTION:
-LAST-MODIFIED:20260408T041836Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/they-come-to-watch-me-die-9624
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Smith's Open Mic Comedy
-DTSTART:20260412T090000Z
-DTEND:20260412T110000Z
-DTSTAMP:20260412T024059Z
-UID:smiths-alternative-1ce7a48089f29dfdfc4484abbd75f985
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96013/f__33193_somc.jpg
-CREATED:20260317T045755Z
-DESCRIPTION:Comedy Open Mic at Smith's - First Sunday (or sometimes second
- ) of the month
-LAST-MODIFIED:20260405T102932Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-96013
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Amita Hachidori & Kentaro Tamura
-DTSTART:20260412T100000Z
-DTEND:20260412T110000Z
-DTSTAMP:20260412T024059Z
-UID:smiths-alternative-2fcbe62edbbadccda80864a16dded8f6
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95942/f__33181_ak.jpg
-CREATED:20260314T061838Z
-DESCRIPTION:After an amazing show with Buddhadatta in 2025\, Amita Hachido
- ri and Kentaro Tamura return to Smiths for another captivating show of dar
- k chanson singing accompanied by accordion.
-LAST-MODIFIED:20260411T063952Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/amita-hachidori-kentaro-tamura
- -95942
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260413T090000Z
 DTEND:20260413T110000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-181f812d492dc1c7bc110f0ed3f5c9d5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96049/f__33233_tpt130426new.jpg
@@ -108,7 +20,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260414T083000Z
 DTEND:20260414T110000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-219f643849b15c7ec7bd3e01187c853a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96274/f__32298_ssad.jpg
@@ -125,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260414T083000Z
 DTEND:20260414T120000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-ef74d36c1e04b89690db666d250aaa85
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96426/f__30321_bigbangbeng.jpg
@@ -143,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:Within Reach by Russell Erwin
 DTSTART:20260415T073000Z
 DTEND:20260415T090000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-afda9bd1395572ce068d3592c66b7832
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96060/f__33205_within-reach.jpg
@@ -159,7 +71,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260415T090000Z
 DTEND:20260415T110000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-c682b70d3beae3bc0d1f3a4c39a67891
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96172/f__2157_classicalcapers.jpg
@@ -176,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Heritage Festival 2026: Skateboarding & the Modernist Movement
 DTSTART:20260416T023000Z
 DTEND:20260416T040000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-fc8a72a24c9032fb353e5f91fcbaac55
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96217/f__33247_heritage-festival-2026.jpg
@@ -192,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:The Lounge Club
 DTSTART:20260416T083000Z
 DTEND:20260416T103000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-ffaa539e3cea7b31010d1af46221fb00
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96259/f__33257_tlc_apr2026.jpg
@@ -208,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Mama Kin Spender
 DTSTART:20260416T090000Z
 DTEND:20260416T110000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-3f6a2f39e6af28ae339ebead155bb23d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95702/f__33146_mamak.jpg
@@ -224,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Chuckle Force Comedy #12
 DTSTART:20260416T093000Z
 DTEND:20260416T113000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-ee5d3d54923b9839f78f00b6a4cc1fd3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96197/f__33241_cf12.jpg
@@ -240,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Mick Thomas
 DTSTART:20260417T083000Z
 DTEND:20260417T103000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-921a2bc6b5049a7a33510c49af6b3cfb
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95326/f__32998_mickt.jpg
@@ -257,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:Sacred Cowboys
 DTSTART:20260417T113000Z
 DTEND:20260417T133000Z
-DTSTAMP:20260412T024059Z
+DTSTAMP:20260413T024628Z
 UID:smiths-alternative-bbd2d70cf9ccdb14f3a2336d98d3d769
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95811/f__33149_sacredcowboys.jpg
@@ -270,10 +182,94 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/sacred-cowboys-95811
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Come Write
+DTSTART:20260418T020000Z
+DTEND:20260418T040000Z
+DTSTAMP:20260413T024628Z
+UID:smiths-alternative-c4730d48911f786c53166bc9b73d9e7c
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95860/f__33162_maz.jpg
+CREATED:20260310T085917Z
+DESCRIPTION:Come Write is a monthly two-hour gathering for writers hosted 
+ by MARION
+LAST-MODIFIED:20260310T090240Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/come-write-95860
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Canb Jazz Fest 2026
+DTSTART:20260418T050000Z
+DTEND:20260419T130000Z
+DTSTAMP:20260413T024628Z
+UID:smiths-alternative-3ce569145c1f4efd6dcfcd5c7bf993e8
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95817/f__33494_cjfest12.jpg
+CREATED:20260305T093905Z
+DESCRIPTION:
+LAST-MODIFIED:20260410T114821Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/canb-jazz-fest-2026-95817
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That Poetry Thing: Recent Work Press
+DTSTART:20260420T090000Z
+DTEND:20260420T110000Z
+DTSTAMP:20260413T024628Z
+UID:smiths-alternative-e599b08688ac143beaf62d5dadbf3863
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96436/f__33481_tpt260420.jpg
+CREATED:20260409T100909Z
+DESCRIPTION:Adrian Caesar and Kate Maxwell
+LAST-MODIFIED:20260409T101204Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/that-poetry-thing-recent-work-
+ press-96436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Scribblers After Dark
+DTSTART:20260421T083000Z
+DTEND:20260421T110000Z
+DTSTAMP:20260413T024628Z
+UID:smiths-alternative-11af1f7364884442ad78a1d9ddb994cd
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96273/f__32298_ssad.jpg
+CREATED:20260402T140432Z
+DESCRIPTION:Spend Tuesday night creating something splendid.
+LAST-MODIFIED:20260402T142709Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
+ 96273
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milo Edwards: Decade
+DTSTART:20260421T090000Z
+DTEND:20260421T110000Z
+DTSTAMP:20260413T024628Z
+UID:smiths-alternative-9bb4ee238f9632b954b60f84e246d388
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94624/f__32835_mil.jpg
+CREATED:20251213T133929Z
+DESCRIPTION:Critically-acclaimed British comedian Milo Edwards is bringing
+  his greatest hits stand-up tour to Canberra!
+LAST-MODIFIED:20251214T014456Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/milo-edwards-decade-94624
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Trivia
 DTSTART;TZID=Australia/Sydney:20260416T183000
 DTEND;TZID=Australia/Sydney:20260416T210000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10000773-1776364200-1776373200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -291,7 +287,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260417T190000
 DTEND;TZID=Australia/Sydney:20260417T210000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10000500-1776452400-1776459600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -308,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Noisy Futures - 10 Year Anniversary Party
 DTSTART;TZID=Australia/Sydney:20260419T150000
 DTEND;TZID=Australia/Sydney:20260419T210000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001255-1776610800-1776632400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-08-at-3.40.39-pm.png
@@ -347,7 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Annie Boyle
 DTSTART;TZID=Australia/Sydney:20260422T193000
 DTEND;TZID=Australia/Sydney:20260422T220000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001248-1776886200-1776895200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-25-at-12.57.11-pm.png
@@ -374,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:R.M.F.C Live at Gang Gang
 DTSTART;TZID=Australia/Sydney:20260425T190000
 DTEND;TZID=Australia/Sydney:20260425T220000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001246-1777143600-1777154400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-20-at-12.55.11-pm.png
@@ -399,7 +395,7 @@ BEGIN:VEVENT
 SUMMARY:Damon Mudge & the Replacement Buses: Country Living City Benefits
 DTSTART;TZID=Australia/Sydney:20260426T180000
 DTEND;TZID=Australia/Sydney:20260426T210000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001249-1777226400-1777237200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-24-at-2.28.49-pm.png
@@ -420,7 +416,7 @@ BEGIN:VEVENT
 SUMMARY:LANTERNS & LINEAGES
 DTSTART;TZID=Australia/Sydney:20260502T193000
 DTEND;TZID=Australia/Sydney:20260502T223000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001256-1777750200-1777761000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-09-at-4.18.58-pm.png
@@ -446,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Spellbound - Readings and Music (Lost Souls/Macabre Dreams)
 DTSTART;TZID=Australia/Sydney:20260507T183000
 DTEND;TZID=Australia/Sydney:20260507T210000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001254-1778178600-1778187600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-08-at-3.18.45-pm.png
@@ -476,7 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260609T190000
 DTEND;TZID=Australia/Sydney:20260609T220000
-DTSTAMP:20260412T124102
+DTSTAMP:20260413T124629
 UID:ganggang-10001243-1781031600-1781042400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -527,24 +523,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pixies & Nirvana Tribute @ Dissent
-DTSTART;TZID=Australia/Sydney:20260412T150000
-DTEND;TZID=Australia/Sydney:20260412T160000
-UID:dissent-69b4e7728a1bd519369b95d1
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:anna dine x cate guirguis
-DTSTART;TZID=Australia/Sydney:20260412T190000
-DTEND;TZID=Australia/Sydney:20260412T200000
-UID:dissent-6984228e15431d674d785bdc
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
@@ -626,6 +604,25 @@ SUMMARY:ARCHIE presents “Together Apart”
 DTSTART;TZID=Australia/Sydney:20260501T193000
 DTEND;TZID=Australia/Sydney:20260501T203000
 UID:dissent-699cc8f5c90f16e33df22458
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Milly McPherson
+DTSTART;TZID=Australia/Sydney:20260502T193000
+DTEND;TZID=Australia/Sydney:20260502T203000
+UID:dissent-69c4d05be44abf9cc533ae9e
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FRIDAY Before The FREEZE: Featuring Pilots of Baalbek\, Slowbeard 
+ and The Strike Outs Inbox
+DTSTART;TZID=Australia/Sydney:20260508T073000
+DTEND;TZID=Australia/Sydney:20260508T083000
+UID:dissent-69d8e44355fa465a7f6cc4de
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 STATUS:CONFIRMED
