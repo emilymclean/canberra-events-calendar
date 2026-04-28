@@ -1,26 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:That Poetry Thing
-DTSTART:20260427T090000Z
-DTEND:20260427T110000Z
-DTSTAMP:20260427T025152Z
-UID:smiths-alternative-00c51cdab4265610b911bb1cb863a441
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96390/f__33468_tpt270426.jpg
-CREATED:20260408T103300Z
-DESCRIPTION:Merri Andrew and Kathy Kituai
-LAST-MODIFIED:20260423T033905Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/that-poetry-thing-96390
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260428T083000Z
 DTEND:20260428T110000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-7f9f7680e5c5903c6fab5e56be1a1e6c
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96272/f__32298_ssad.jpg
@@ -37,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260428T083000Z
 DTEND:20260428T120000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-fc7471ccddfddc03f40be35a2c8d23cf
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96426/f__30321_bigbangbeng.jpg
@@ -55,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:How to be an IT GRRRL
 DTSTART:20260429T090000Z
 DTEND:20260429T110000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-7cd62bd50c71ff5c242661d06c42c6ef
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96083/f__33212_itg.jpg
@@ -72,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Turnip Sundae
 DTSTART:20260430T090000Z
 DTEND:20260430T110000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-cda4518f0d98a1caedd81b87b9decbcc
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95719/f__33122_ts.jpg
@@ -88,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Kate Burke
 DTSTART:20260501T083000Z
 DTEND:20260501T103000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-bbc8390bf6d8037f9cfb6420c31a7608
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96329/f__33267_kateb.jpg
@@ -104,7 +88,7 @@ BEGIN:VEVENT
 SUMMARY:Norwood
 DTSTART:20260501T100000Z
 DTEND:20260501T120000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-ae1e61fba33abd79bc953b313722aefe
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96263/f__33259_norwood.jpg
@@ -117,26 +101,10 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/norwood-96263
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Rootz
-DTSTART:20260501T113000Z
-DTEND:20260501T135500Z
-DTSTAMP:20260427T025152Z
-UID:smiths-alternative-175508e2d340da792f10a0520422a28d
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96579/f__33682_roots.jpg
-CREATED:20260419T045113Z
-DESCRIPTION:
-LAST-MODIFIED:20260423T022153Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/rootz-96579
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:WAX Song Circle
 DTSTART:20260502T020000Z
 DTEND:20260502T043000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-7e062c2ed10363cb072963da3c26e51a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/93539/f__32848_waxy.jpg
@@ -152,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:THE HIGH STREET DRIFTERS
 DTSTART:20260502T050000Z
 DTEND:20260502T070000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-584ff7ef709e2f64d1afa1df04e7991b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96232/f__33251_hiwi.jpg
@@ -168,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:Civic Art Bureau Opening
 DTSTART:20260502T050000Z
 DTEND:20260502T080000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-2c5405275f26a96cb68c496eec36c8ef
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96642/f__33780_harpfrequency.jpg
@@ -184,7 +152,7 @@ BEGIN:VEVENT
 SUMMARY:Uncle Frank Yamma
 DTSTART:20260502T080000Z
 DTEND:20260502T100000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-eff6b29b776615f7ee09aad12321cea0
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95574/f__33093_yam.jpg
@@ -202,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Band Beng Bing Bong Bung
 DTSTART:20260502T110000Z
 DTEND:20260502T135500Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-3ef3f8a62d544f9cbc4798230971a7e7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96605/f__27083_bandbeng.jpg
@@ -219,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:The Canberra English Session
 DTSTART:20260503T020000Z
 DTEND:20260503T040000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-80b57165c6568c32105c0e0668ff9d7d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/83017/f__29322_eng.jpg
@@ -236,7 +204,7 @@ BEGIN:VEVENT
 SUMMARY:Tom Woodward
 DTSTART:20260503T050000Z
 DTEND:20260503T070000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-8b143b719148235c445899903071f35d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96576/f__33680_tomwww.jpg
@@ -252,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Dancing Room Only
 DTSTART:20260503T063000Z
 DTEND:20260503T083000Z
-DTSTAMP:20260427T025152Z
+DTSTAMP:20260428T032045Z
 UID:smiths-alternative-bf8df589a50eb476893a0db71337d1c9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/87963/f__31113_dancingroom.jpg
@@ -266,10 +234,45 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/dancing-room-only-87963
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Smith's Open Mic Comedy
+DTSTART:20260503T090000Z
+DTEND:20260503T110000Z
+DTSTAMP:20260428T032045Z
+UID:smiths-alternative-b67ba2f0da3ea02776ecc32b2c1f11a6
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96154/f__33231_comedymay26.jpg
+CREATED:20260326T032538Z
+DESCRIPTION:Comedy Open Mic at Smith's - First Sunday (or sometimes second
+ ) of the month
+LAST-MODIFIED:20260326T032911Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smith-s-open-mic-comedy-96154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kindred Trees Poetry Reading
+DTSTART:20260504T090000Z
+DTEND:20260504T110000Z
+DTSTAMP:20260428T032045Z
+UID:smiths-alternative-5e150f30fbfc2eda3bebe0479c62a444
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96268/f__33261_kindredtpt.jpg
+CREATED:20260402T132844Z
+DESCRIPTION:An annual poetry reading for Tree Week celebrating Canberra tr
+ ees.
+LAST-MODIFIED:20260402T133120Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/kindred-trees-poetry-reading-9
+ 6268
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:XAPHANIAs goodbye x
 DTSTART;TZID=Australia/Sydney:20260429T170000
 DTEND;TZID=Australia/Sydney:20260429T213000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001262-1777482000-1777498200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-21-at-11.01.17-am.png
@@ -297,7 +300,7 @@ BEGIN:VEVENT
 SUMMARY:Thursday Trivia
 DTSTART;TZID=Australia/Sydney:20260430T183000
 DTEND;TZID=Australia/Sydney:20260430T210000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10000775-1777573800-1777582800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  023/06/Trivia-Banner-03-scaled.jpg
@@ -316,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260501T190000
 DTEND;TZID=Australia/Sydney:20260501T210000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10000502-1777662000-1777669200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -333,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:LANTERNS & LINEAGES
 DTSTART;TZID=Australia/Sydney:20260502T193000
 DTEND;TZID=Australia/Sydney:20260502T223000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001256-1777750200-1777761000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-09-at-4.18.58-pm.png
@@ -359,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Spellbound - Readings and Music (Lost Souls/Macabre Dreams)
 DTSTART;TZID=Australia/Sydney:20260507T183000
 DTEND;TZID=Australia/Sydney:20260507T210000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001254-1778178600-1778187600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-08-at-3.18.45-pm.png
@@ -389,7 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Dreamcastmoe (USA) w/ Samatar and naga raani
 DTSTART;TZID=Australia/Sydney:20260510T190000
 DTEND;TZID=Australia/Sydney:20260510T220000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001263-1778439600-1778450400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-21-at-11.01.27-am.png
@@ -415,7 +418,7 @@ SUMMARY:Cloud Ice 9 (MELB) w/ Olivia's World + edda | Gang Gang Cafe | pre
  s. by SONIC BUSINESS LTD
 DTSTART;TZID=Australia/Sydney:20260516T190000
 DTEND;TZID=Australia/Sydney:20260516T230000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001259-1778958000-1778972400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-4.54.28-pm.png
@@ -455,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -502,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260427T125153
+DTSTAMP:20260428T132047
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
