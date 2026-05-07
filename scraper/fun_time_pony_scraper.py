@@ -1,4 +1,5 @@
 import hashlib
+import math
 from abc import ABC
 from datetime import datetime, time, timedelta
 from typing import Optional
@@ -61,7 +62,8 @@ class FunTimePonyScraper(CsvScraper):
         event.add("dtstart", start_date.replace(tzinfo=ZoneInfo('Australia/Sydney')))
         event.add("dtend", end_date.replace(tzinfo=ZoneInfo('Australia/Sydney')))
         event.add("location", "Fun Time Pony, 2/122 Alinga St, Canberra ACT 2601")
-        event.add("description", row['description'])
+        if isinstance(row['description'], str):
+            event.add("description", row['description'])
         event.add("status", "CONFIRMED")
 
         return event
