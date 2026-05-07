@@ -58,9 +58,9 @@ class FunTimePonyScraper(CsvScraper):
 
         event.uid = f"{self.id()}-{hashlib.md5(f"{row['title']}-{row['start_date']}".encode()).hexdigest()}"
         event.add("summary", row["title"])
-        event.add("dtstart", start_date.astimezone(ZoneInfo('Australia/Sydney')))
-        event.add("dtend", end_date.astimezone(ZoneInfo('Australia/Sydney')))
-        event.add("location", "2/122 Alinga St, Canberra ACT 2601")
+        event.add("dtstart", start_date.replace(tzinfo=ZoneInfo('Australia/Sydney')))
+        event.add("dtend", end_date.replace(tzinfo=ZoneInfo('Australia/Sydney')))
+        event.add("location", "Fun Time Pony, 2/122 Alinga St, Canberra ACT 2601")
         event.add("description", row['description'])
         event.add("status", "CONFIRMED")
 
