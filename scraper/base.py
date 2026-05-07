@@ -2,7 +2,7 @@ import datetime
 import re
 import urllib
 from abc import ABC, abstractmethod
-from typing import List
+from typing import List, Optional
 from urllib.request import urlopen, Request
 import json
 from zoneinfo import ZoneInfo
@@ -12,6 +12,9 @@ import icalendar
 import urllib3
 from bs4 import BeautifulSoup
 from icalendar import Event, Calendar
+
+import pandas as pd
+from io import StringIO
 
 
 class Scraper(ABC):
@@ -79,27 +82,27 @@ class HumanitixScraper(WebScraper, ABC):
         data = re.findall("id:\"([\\w\\d]+)\"", next((x for x in (
             document.find_all('script')[-2].get_text().strip().splitlines()) if x.strip().startswith("data: ")
         )).strip()[len("data: "):], re.DOTALL)
-        print(data)
-        print(urllib.parse.quote(
-                json.dumps({
-                    "0": {
-                        "eventIds": data
-                    },
-                    "skip": 0,
-                    "limit": 100,
-                    "stackRecurring": True,
-                    "showPastEvents": True,
-                    "privacyLevel": "public",
-                    "userTimezone": "UTC",
-                    "tabType": "month",
-                    "tabData": "2026-03",
-                    "searchFilters": {
-                        "hosts": [],
-                        "accessibilityValues": [],
-                        "tags": []
-                    }
-                })
-            ))
+        # print(data)
+        # print(urllib.parse.quote(
+        #         json.dumps({
+        #             "0": {
+        #                 "eventIds": data
+        #             },
+        #             "skip": 0,
+        #             "limit": 100,
+        #             "stackRecurring": True,
+        #             "showPastEvents": True,
+        #             "privacyLevel": "public",
+        #             "userTimezone": "UTC",
+        #             "tabType": "month",
+        #             "tabData": "2026-03",
+        #             "searchFilters": {
+        #                 "hosts": [],
+        #                 "accessibilityValues": [],
+        #                 "tags": []
+        #             }
+        #         })
+        #     ))
 
         events_json = urllib3.request(
             "GET",
@@ -145,3 +148,27 @@ class HumanitixScraper(WebScraper, ABC):
 
         return events
 
+
+class CsvScraper(Scraper, ABC):
+
+    @abstractmethod
+    def url(self) -> str:
+        pass
+
+    @abstractmethod
+    def _parse(self, event: Event, row: pd.Series) -> Optional[Event]:
+        pass
+
+    def _parse_internal(self, event: Event, row: pd.Series) -> Optional[Event]:
+        return self._parse(event, row)
+
+    def scrape(self) -> List[Event]:
+        req = Request(self.url())
+        req.add_header('Accepts', 'text/csv')
+
+        csv_str = urlopen(req).read().decode("utf-8")
+        csv = pd.read_csv(StringIO(csv_str))
+        return list(filter(
+            lambda x: x is not None,
+            [self._parse_internal(icalendar.Event(), r) for i, r in csv.iterrows()]
+        ))
