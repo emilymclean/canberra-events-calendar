@@ -17,4 +17,5 @@ class SmithsAlternativeScraper(ICalScraper):
         event.uid = f'{self.id()}-{hashlib.md5(f"{event.name}{event.DTSTART}{event.DTEND}".encode()).hexdigest()}'
         event.pop("location")
         event.add("location", "Smiths Alternative, 76 Alinga St, Canberra ACT 2601")
+        event.add("organizer", "Smiths Alternative")
         return event

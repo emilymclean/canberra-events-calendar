@@ -10,3 +10,9 @@ class DissentScraper(HumanitixScraper):
 
     def url(self) -> str:
         return "https://collections.humanitix.com/dissent-gigs"
+
+    def _modify(self, event: Event) -> Event:
+        event.add("organizer", "Dissent Cafe and Bar")
+        return event
+
+

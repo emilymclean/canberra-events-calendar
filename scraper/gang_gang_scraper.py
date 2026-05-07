@@ -14,4 +14,5 @@ class GangGangScraper(ICalScraper):
     def _modify(self, event: Event) -> Event:
         event.pop("location")
         event.add("location", "Gang Gang Cafe, Shop 4/2 Frencham Pl, Downer ACT 2602")
+        event.add("organizer", "Gang Gang Cafe")
         return event

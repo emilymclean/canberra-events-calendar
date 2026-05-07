@@ -65,5 +65,8 @@ class FunTimePonyScraper(CsvScraper):
         if isinstance(row['description'], str):
             event.add("description", row['description'])
         event.add("status", "CONFIRMED")
+        if isinstance(row['book_url'], str):
+            event.add("url", row['book_url'])
+        event.add("organizer", "Fun Time Pony")
 
         return event
