@@ -22,6 +22,11 @@ class FunTimePonyScraper(CsvScraper):
         return "https://docs.google.com/spreadsheets/d/e/2PACX-1vTXz9JpgOiz7AAkQI3ad8yxilSdmROEYcT47HmfWpnRZe3sSLEl6ojwp950jFndzcxdHRICl9yYC5E4/pub?gid=260071046&single=true&output=csv"
 
     def _parse(self, event: Event, row: pd.Series) -> Optional[Event]:
+        # They accidentally added a space to "status"
+        if (('status ' in row.keys() and row['status '] != "published") or
+           ('status' in row.keys() and row['status'] != "published")):
+            return None
+
         try:
             start_date = datetime.strptime(row['start_date'], self._date_format).date()
             try:
@@ -65,8 +70,12 @@ class FunTimePonyScraper(CsvScraper):
         if isinstance(row['description'], str):
             event.add("description", row['description'])
         event.add("status", "CONFIRMED")
-        if isinstance(row['book_url'], str):
+        if isinstance(row['readmore_url'], str):
+            event.add("url", row['readmore_url'])
+        elif isinstance(row['book_url'], str):
             event.add("url", row['book_url'])
+        if isinstance(row['image_url'], str):
+            event.add("image", row['image_url'], parameters={'VALUE': 'URI'})
         event.add("organizer", "Fun Time Pony")
 
         return event
