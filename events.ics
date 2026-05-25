@@ -1,61 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Musical Singalong
-DTSTART:20260524T050000Z
-DTEND:20260524T070000Z
-DTSTAMP:20260524T034018Z
-UID:smiths-alternative-3ded4f6f2106263d937af3182cb8fcd0
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/97361/f__32829_singalong.jpg
-CREATED:20260516T130226Z
-DESCRIPTION:Like Karaoke\, but (loosely) confined to songs from musicals.
-LAST-MODIFIED:20260521T102210Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/musical-singalong-97361
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Benedict Moleta
-DTSTART:20260524T060000Z
-DTEND:20260524T080000Z
-DTSTAMP:20260524T034018Z
-UID:smiths-alternative-9686de5209d983c0d507676f1348e36b
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96188/f__33239_benedictmoletajulianbolleter.jpg
-CREATED:20260326T122352Z
-DESCRIPTION:
-LAST-MODIFIED:20260430T110543Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/benedict-moleta-96188
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tom Woodward
-DTSTART:20260524T070000Z
-DTEND:20260524T090000Z
-DTSTAMP:20260524T034018Z
-UID:smiths-alternative-b10a0ff6395b483830a3cfe646add86d
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96590/f__33680_tomwww.jpg
-CREATED:20260419T053028Z
-DESCRIPTION:Special Guest: Evan Buckley
-LAST-MODIFIED:20260423T022120Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/tom-woodward-96590
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260525T090000Z
 DTEND:20260525T110000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-5df2cc71769da77147adb71d718c4fb4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96809/f__33907_tpt250526.jpg
@@ -72,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260526T083000Z
 DTEND:20260526T110000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-87308b03bc191b56546836e0a16fafe1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96751/f__32298_ssad.jpg
@@ -91,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:ANU Musical Theatre Collective
 DTSTART:20260526T090000Z
 DTEND:20260526T110000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-b099887322718d4aa8195e5918dd146d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96718/f__30408_anu_mtc.jpg
@@ -109,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:They Come To Watch Me Die
 DTSTART:20260527T083000Z
 DTEND:20260527T093000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-e7f597b9e0e548b8077a07ef83f7773a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96790/f__33255_humph.jpg
@@ -127,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260527T090000Z
 DTEND:20260527T103000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-c24bca37e951b52ebdd48004bbb53440
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95318/f__32997_serenade-2026.jpg
@@ -144,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Collaborative Practices Salon #10
 DTSTART:20260528T050000Z
 DTEND:20260528T070000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-61dde0e66fd881013e4ff8f445daa588
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95744/f__33129_salon_10_flyer.jpg
@@ -162,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Robert Forster
 DTSTART:20260528T090000Z
 DTEND:20260528T103000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-983b7bc94bdbfa86500fed5960370054
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95729/f__33124_robfor.jpg
@@ -181,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Miscellaneous
 DTSTART:20260528T090000Z
 DTEND:20260528T110000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-17b2a8cbc57fe78af4f2350bfac3862d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96795/f__32983_miscc.jpg
@@ -198,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Bella Groove
 DTSTART:20260529T083000Z
 DTEND:20260529T103000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-4ddcafbfeafb30bfd6a7d0013c44963b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96462/f__33490_bella.jpg
@@ -215,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:DAMIAN WRIGHT flamenco guitar & GARY DALEY piano accordion
 DTSTART:20260529T093000Z
 DTEND:20260529T113000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-827c6a2bb20ee90b1db6c7a6f9d1c5a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96405/f__33473_banda.jpg
@@ -234,7 +183,7 @@ BEGIN:VEVENT
 SUMMARY:Hana and Jessie-Lee's Bad Habits
 DTSTART:20260529T113000Z
 DTEND:20260529T133000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-db47fc6e03089292705517722bcfbe7d
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96349/f__33347_hana.jpg
@@ -252,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Ben van Gelder & Reinier Baas
 DTSTART:20260530T060000Z
 DTEND:20260530T080000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-ba10db50f94c3e570ab9daffc73ef797
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95222/f__32969_benreinier.jpg
@@ -270,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Jef Neve and Teus Nobel
 DTSTART:20260530T090000Z
 DTEND:20260530T110000Z
-DTSTAMP:20260524T034018Z
+DTSTAMP:20260525T035527Z
 UID:smiths-alternative-d9f0a7cbb2af3eaa4f1f61798c3675ff
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95225/f__32971_nevenobel.jpg
@@ -284,37 +233,64 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/jef-neve-and-teus-nobel-95225
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Sex Mask
-DTSTART;TZID=Australia/Sydney:20260524T180000
-DTEND;TZID=Australia/Sydney:20260524T220000
-DTSTAMP:20260524T134019
-UID:ganggang-10002043-1779645600-1779660000@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/04/Screenshot-2026-04-28-at-3.17.30-pm.png
-CREATED:20260428T051752Z
-DESCRIPTION:Freshly returned from a US tour and just announced for the Sle
- aford Mods national tour\, we are stoked to be hosting Sex Mask at GG \n\n
- \n\nVague pop instilled with the ancient genius of your own blood. \n\n\n\
- nSex Mask holds the many trigger words your CIA handler doesn’t want you
-  to know.  \n\n\n\nWe have several testimonials from fans attesting to se
- mi-mystical experiences\,  \n\n\n\nsome claim it to be Deja vu from a gen
- etic memory long dormant and locked\, \n\n\n\nOthers speak of foreshadowed
-  flashes of a past life they are yet to have lived. \n\n\n\nAll of this\, 
- incited after only seconds of exposure to any of our available songs. \n\n
- \n\nIs Sex Mask just another egregious attempt from delusional solipsists 
- at being heard while saying close to nothing? Yes. But we make it look goo
- d. \n\n\n\nPart Taoist riddle\, part lone gun-mans manifesto.  \n\n\n\nWe
-  are also a post punk/alt rock band from Melbourne.
-LAST-MODIFIED:20260428T051753Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-ORGANIZER:Gang Gang Cafe
-URL:https://ganggangcafe.com.au/event/sex-mask/
+SUMMARY:Sam Zito - I'm Happy Either Way
+DTSTART:20260530T090000Z
+DTEND:20260530T110000Z
+DTSTAMP:20260525T035527Z
+UID:smiths-alternative-d9f0a7cbb2af3eaa4f1f61798c3675ff
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/94561/f__32817_zito.jpg
+CREATED:20251209T070641Z
+DESCRIPTION:
+LAST-MODIFIED:20260109T061337Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/sam-zito-i-m-happy-either-way-
+ 94561
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eyrie Improv - Improvised Burlesque
+DTSTART:20260530T113000Z
+DTEND:20260530T133000Z
+DTSTAMP:20260525T035527Z
+UID:smiths-alternative-473dce879d2e801cac97a6db5dfb41a9
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96158/f__33234_impp.jpg
+CREATED:20260326T033956Z
+DESCRIPTION:Choose Your Own Adventure Burlesque.*SPECIAL EDITION starring 
+ Gina Stirling!*
+LAST-MODIFIED:20260326T091915Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/eyrie-improv-improvised-burles
+ que-96158
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Sloane Tapes
+DTSTART:20260531T020000Z
+DTEND:20260531T040000Z
+DTSTAMP:20260525T035527Z
+UID:smiths-alternative-d6efdeeec10d3d009a65a482d049ce22
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96440/f__33561_sloane1.jpg
+CREATED:20260409T103523Z
+DESCRIPTION:
+LAST-MODIFIED:20260423T031641Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-sloane-tapes-96440
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260527T183000
 DTEND;TZID=Australia/Sydney:20260527T210000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10001786-1779906600-1779915600@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -332,7 +308,7 @@ BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Joshua Khoury
 DTSTART;TZID=Australia/Sydney:20260528T193000
 DTEND;TZID=Australia/Sydney:20260528T213000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002048-1779996600-1780003800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-9.53.55-am.png
@@ -360,7 +336,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260529T190000
 DTEND;TZID=Australia/Sydney:20260529T210000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10000506-1780081200-1780088400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -378,7 +354,7 @@ BEGIN:VEVENT
 SUMMARY:Purelink (NYC) w/ Umki and Discobasis
 DTSTART;TZID=Australia/Sydney:20260531T180000
 DTEND;TZID=Australia/Sydney:20260531T220000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002044-1780250400-1780264800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-28-at-3.20.07-pm.png
@@ -409,7 +385,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Disco Kid (JPN)
 DTSTART;TZID=Australia/Sydney:20260607T160000
 DTEND;TZID=Australia/Sydney:20260607T220000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002049-1780848000-1780869600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-9.56.29-am.png
@@ -452,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
 DTSTART;TZID=Australia/Sydney:20260613T190000
 DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
@@ -486,7 +462,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -534,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -585,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -615,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260524T134019
+DTSTAMP:20260525T135528
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -653,16 +629,6 @@ SUMMARY:Dissent Open Mic
 DTSTART;TZID=Australia/Sydney:20260112T190000
 DTEND;TZID=Australia/Sydney:20260112T200000
 UID:dissent-695ee7e3b350b4310f282383
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-ORGANIZER:Dissent Cafe and Bar
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:PACHANGA : Sunday Vibes Fiesta! [LATIN - REGGAE - FUNK - SKA]
-DTSTART;TZID=Australia/Sydney:20260524T150000
-DTEND;TZID=Australia/Sydney:20260524T160000
-UID:dissent-69cc898a86cf072d6ec969d6
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 ORGANIZER:Dissent Cafe and Bar
@@ -768,371 +734,14 @@ ORGANIZER:Dissent Cafe and Bar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Jack Biilmann
-DTSTART;TZID=Australia/Sydney:20260306T200000
-DTEND;TZID=Australia/Sydney:20260307T040000
-UID:fun-time-pony-bb7a985eb306560b8165f0887a75ec4b
-DESCRIPTION:4 Pines Park
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
+SUMMARY:Hot Glue - 'Again\, Again' Album Launch
+DTSTART;TZID=Australia/Sydney:20260613T193000
+DTEND;TZID=Australia/Sydney:20260613T203000
+UID:dissent-69c214c3692125034d0710f5
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+ORGANIZER:Dissent Cafe and Bar
 STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Faker
-DTSTART;TZID=Australia/Sydney:20260307T200000
-DTEND;TZID=Australia/Sydney:20260308T040000
-UID:fun-time-pony-486019719d2c64ceba64b8c96bd6fba4
-DESCRIPTION:Faker return to the stage with the Something Is Happening Tour
- . Fronted by Nathan Hudson\, the band delivers a set that weaves together 
- raw storytelling\, fan-favourite anthems\, and new material. 
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/acc1eb42-1aa8-4bb7-a5a2-a0b8
- e0b1868b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 1
-DTSTART;TZID=Australia/Sydney:20260312T200000
-DTEND;TZID=Australia/Sydney:20260313T040000
-UID:fun-time-pony-a420200ad02184648aff4e668a108e02
-DESCRIPTION:ACT Comedy Festival kicks off at Fun Time Pony with a stacked 
- opening night. Charlotte Kuruc and Caitlin Maggs bring their chaotic Packa
- ge Deal at 6:15pm before John Cruckshank takes over at 8:00pm with LIVE\, 
- an NBA-style stand-up showdown built for big laughs underground.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 2
-DTSTART;TZID=Australia/Sydney:20260313T200000
-DTEND;TZID=Australia/Sydney:20260314T040000
-UID:fun-time-pony-cb26ad004d2cdeff4ad7cf57b902b4e2
-DESCRIPTION:Night two of the ACT Comedy Festival at Fun Time Pony brings a
-  full house of heavy hitters as The B-Team open at 6:00pm with fresh new m
- aterial before the League of Ordinary Gentlemen deliver two riotous shows 
- at 7:30pm and 9:00pm.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 3
-DTSTART;TZID=Australia/Sydney:20260314T200000
-DTEND;TZID=Australia/Sydney:20260315T040000
-UID:fun-time-pony-d69ac790488e9ac72372c496bf393016
-DESCRIPTION:Day three of the ACT Comedy Festival at Fun Time Pony keeps th
- e laughs rolling as The B-Team return at 6:00pm testing brand-new material
-  before Carlo Ritchie takes over at 7:30pm with No Icebergs Round Here\, M
- ate.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 4
-DTSTART;TZID=Australia/Sydney:20260318T200000
-DTEND;TZID=Australia/Sydney:20260319T040000
-UID:fun-time-pony-67d63d5e29ce3578a8bbcb214f9c6b5f
-DESCRIPTION:Day four lands at Fun Time Pony with another double bill of fe
- stival comedy as Charlotte Kuruc and Caitlin Maggs return with Package Dea
- l at 6:15pm before Sean Woodland brings GOAT to the Pony stage at 8:00pm.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 5
-DTSTART;TZID=Australia/Sydney:20260319T200000
-DTEND;TZID=Australia/Sydney:20260320T040000
-UID:fun-time-pony-4455936d23f0811b4232686ebe31ca3b
-DESCRIPTION:Day five of the ACT Comedy Festival at Fun Time Pony pairs two
-  standout acts as Takashi Wakasugi opens with Wabi-sabi Comedy at 6:15pm b
- efore award-winning comedian Dan Rath takes the stage at 8:00pm with Help 
- Me Please.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 6
-DTSTART;TZID=Australia/Sydney:20260320T200000
-DTEND;TZID=Australia/Sydney:20260321T040000
-UID:fun-time-pony-cf17eb2cee0ac8a9472cb7cc49498cf1
-DESCRIPTION:A stacked night at Fun Time Pony for day six of the ACT Comedy
-  Festival as Takashi Wakasugi brings Wabi-sabi Comedy at 6:00pm and again 
- at 9:00pm with Nath Valvo landing in between at 7:30pm with Homebody.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ACT Comedy Fest - Day 7
-DTSTART;TZID=Australia/Sydney:20260321T200000
-DTEND;TZID=Australia/Sydney:20260322T040000
-UID:fun-time-pony-1bf2494924413d90ea558f1c3c8df2fd
-DESCRIPTION:The ACT Comedy Festival finale at Fun Time Pony closes the wee
- k strong as Nath Valvo returns with Homebody at 6:15pm before Sam Taunton 
- wraps the festival at 8:00pm with This Must Be The Place.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 420/Comedy_11-22.png_wtl3ib.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://canberracomedyfestival.com.au
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thirsty Thursday
-DTSTART;TZID=Australia/Sydney:20260326T200000
-DTEND;TZID=Australia/Sydney:20260327T040000
-UID:fun-time-pony-ee9191cda0f6ee50bab135d7f939dbfd
-DESCRIPTION:Cheap drinks. Back-to-back DJs. A full house of locals. The cl
- assic Pony Thursday session that always gets loose. $5 SKNYB Vodkas $5 Cap
- ital Coast Ale Schooners $5 House Shots $5 Pizza Slices FREE ENTRY ALWAYS
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773882
- 095/Screenshot_2026-03-19_at_12.01.04_pm_gateu7.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Y.O.G.A
-DTSTART;TZID=Australia/Sydney:20260327T200000
-DTEND;TZID=Australia/Sydney:20260328T040000
-UID:fun-time-pony-c07c83d9fd09e6761f58ccc8e574ad4a
-DESCRIPTION:Get ready for something different. Y.O.G.A. (You’re Only Gre
- at Always) brings a wild mix of country-meets-electronic\, boot-scootin’
-  hoedown vibes and dance-floor energy that keeps everyone moving - think r
- emix beats\, unexpected drops\, and a party you won’t forget.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1774356
- 884/Screenshot_2026-03-24_at_11.54.17_pm_iurbpj.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Band Karaoke - Rubiks Dudes 
-DTSTART;TZID=Australia/Sydney:20260403T213000
-DTEND;TZID=Australia/Sydney:20260404T040000
-UID:fun-time-pony-5f3ae55576390f1a0a4d97a93d6c2e49
-DESCRIPTION:Step up to the mic and sing your heart out - backed by a full 
- live band the Rubiks Dudes! Pick your track\, grab the mic\, and rock Fun 
- Time Pony like a superstar.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775006
- 684/Live_Band_Karaoke_m2uica.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Drapht
-DTSTART;TZID=Australia/Sydney:20260410T200000
-DTEND;TZID=Australia/Sydney:20260411T040000
-UID:fun-time-pony-3586d6b5c6c8cfce758341bec55dce26
-DESCRIPTION:Drapht is hitting the road early 2026 with a national tour tha
- t delivers a high-energy celebration\, sharp storytelling\, and decades of
-  classic Australian hip hop.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 421/Drapht_26-04-10.jpg_ydqoke.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/42bd2d1e-94b7-47df-9638-4075
- 90a3f04b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pony Pit IV – 360 DJ Set
-DTSTART;TZID=Australia/Sydney:20260411T220000
-DTEND;TZID=Australia/Sydney:20260412T040000
-UID:fun-time-pony-38e2f9b6d1073afe2c574de37c5c41b9
-DESCRIPTION:Our infamous Pony Pit returns for round four - a 360° live DJ
-  setup in the centre of the Pony. Tough Break joins our boys Jonty + Cruze
- \, Fin\, Tulley + Keaton\, spinning techno right through till sunrise. 
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1774356
- 716/Post_1_1350x1080_Posters_i6nuxh.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jack Biilmann
-DTSTART;TZID=Australia/Sydney:20260417T200000
-DTEND;TZID=Australia/Sydney:20260418T040000
-UID:fun-time-pony-81ab9958cccc6732fa29f88a4737eb7e
-DESCRIPTION:Jack Biilmann & his band bring soulful country blues to Fun Ti
- me Pony! Catch the final show of his 2026 residency\, with special support
-  from Lindsay McDougall and Buddy Dingo. Don’t miss it!
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775010
- 263/Jack_B_e1npmx.jpg
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Hush
-DTSTART;TZID=Australia/Sydney:20260418T200000
-DTEND;TZID=Australia/Sydney:20260419T040000
-UID:fun-time-pony-617ad0adae93f64a312f9a0e64cdabe2
-DESCRIPTION:The Hush are hitting the road this March and April in support 
- of their upcoming single “Nothing For Free”
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1773101
- 422/TheHust_26-04-18_zd3qmf.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SmartCasual
-DTSTART;TZID=Australia/Sydney:20260425T193000
-DTEND;TZID=Australia/Sydney:20260426T040000
-UID:fun-time-pony-c8441cc58cada973ac0cd5dd797bf148
-DESCRIPTION:SmartCasual bring their signature indie and dancefloor energy 
- to the Pony. Live set followed by DJs keeping the room moving late into th
- e night.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775010
- 636/Supports_Posters_FTP_rrnefv.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comedy Club - Connor Burns - GALLUS
-DTSTART;TZID=Australia/Sydney:20260429T183000
-DTEND;TZID=Australia/Sydney:20260430T040000
-UID:fun-time-pony-fe68d880197bda2e0ad89fd4620706bc
-DESCRIPTION:Don’t miss the all-new show from Scotland’s hilarious glob
- al break-through stand-up star!\n\nGALLUS is Connor Burn’s fourth solo h
- our. A prolific joke writer who’s lightning fast\, razor- sharp wit comb
- ines with his signature single malt Scottish-level cynicism to help create
-  the perfect storm of brilliant jokes performed by a disarming comedy powe
- rhouse and\, now more recently\, has seen Connor become a social media sta
- r.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775006
- 110/CONNOR-BURNS_1920-X-1080_und7fh.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://www.trybooking.com/events/1538516/sessions/6234994/sections/29
- 61343/tickets
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cheeky Leash 
-DTSTART;TZID=Australia/Sydney:20260502T200000
-DTEND;TZID=Australia/Sydney:20260503T040000
-UID:fun-time-pony-79411a60caf29055478b688662deb0f2
-DESCRIPTION:Following the release of their new single Falling\, Cheeky Lea
- sh are taking on a Regional Tour\, taking their dynamic live show to Fun T
- ime Pony.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1774924
- 949/Post_yypqgz.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/4dbda4b1-07af-447a-ae90-322e
- 67c24535?utm_source=Oztix&utm_medium=Website&utm_content=search&utm_term=c
- heeky%20leash&_gl=1*ppdqg6*_ga*MTE3NDAwNjU0My4xNzY3NzQ1MjYz*_ga_Z6Q34PSGS3
- *czE3NzQ5MjQ1MzgkbzI4JGcxJHQxNzc0OTI0NTQzJGo1NSRsMCRoMA..*_ga_7P85H1C38Y*c
- zE3NzQ5MjQ1MzgkbzI4JGcxJHQxNzc0OTI0NTQzJGo1NSRsMCRoMA..*_ga_8L9QNFFKLF*czE
- 3NzQ5MjQ1MzgkbzI4JGcxJHQxNzc0OTI0NTQzJGo1NSRsMCRoMA..*_ga_1BDJF9CBT9*czE3N
- zQ5MjQ1MzgkbzI4JGcxJHQxNzc0OTI0NTQzJGo1NSRsMCRoMA..*_ga_0145TC6JJ6*czE3NzQ
- 5MjQ1MzgkbzI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..*_ga_NG0RK0J52R*czE3NzQ5M
- jQ1MzgkbzI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..*_ga_XPQ0QETFJ1*czE3NzQ5MjQ
- 1MzgkbzI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..*_ga_Z5GGRD8WRJ*czE3NzQ5MjQ1M
- zgkbzI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..*_ga_6GL2NMGVS1*czE3NzQ5MjQ1Mzg
- kbzI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..*_ga_BP4FQR8YCV*czE3NzQ5MjQ1Mzgkb
- zI4JGcwJHQxNzc0OTI0NTQyJGo1NiRsMCRoMA..
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Profannity 
-DTSTART;TZID=Australia/Sydney:20260508T200000
-DTEND;TZID=Australia/Sydney:20260509T040000
-UID:fun-time-pony-1f75ef1e3a7e6eea027a801bd7d3feab
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775007
- 958/OVERVIEW_SOCIALS_a0xuht.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/30d79a55-fadb-4a82-b719-566a
- 5251d858?utm_source=Oztix&utm_medium=Website&_gl=1*n32au7*_ga*MTE3NDAwNjU0
- My4xNzY3NzQ1MjYz*_ga_Z6Q34PSGS3*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg3JG
- o0NCRsMCRoMA..*_ga_7P85H1C38Y*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg3JGo0
- NCRsMCRoMA..*_ga_8L9QNFFKLF*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg3JGo0NC
- RsMCRoMA..*_ga_1BDJF9CBT9*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg3JGo0NCRs
- MCRoMA..*_ga_0145TC6JJ6*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg3JGo0NCRsMC
- RoMA..*_ga_NG0RK0J52R*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg2JGo0NSRsMCRo
- MA..*_ga_XPQ0QETFJ1*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg2JGo0NSRsMCRoMA
- ..*_ga_Z5GGRD8WRJ*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg2JGo0NSRsMCRoMA..
- *_ga_6GL2NMGVS1*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg2JGo0NSRsMCRoMA..*_
- ga_BP4FQR8YCV*czE3NzczMzk0MzAkbzM0JGcxJHQxNzc3MzQwNjg2JGo0NSRsMCRoMA..
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Noosh - A Scratch Night Game Show 
-DTSTART;TZID=Australia/Sydney:20260513T200000
-DTEND;TZID=Australia/Sydney:20260514T040000
-UID:fun-time-pony-5c27e079aa9e5c7203b5f0fc361f4f1d
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1776432
- 319/Noosh_posters_2025_rh1ctr.jpg
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/7ba3d0d0-bf62-4303-82b2-5097
- 223d1e57
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live Band Karaoke - Rubiks Dudes 
-DTSTART;TZID=Australia/Sydney:20260522T213000
-DTEND;TZID=Australia/Sydney:20260523T040000
-UID:fun-time-pony-3c98a085ce08028f17cdad05927a8ef8
-DESCRIPTION:Step up to the mic and sing your heart out - backed by a full 
- live band the Rubiks Dudes! Pick your track\, grab the mic\, and rock Fun 
- Time Pony like a superstar.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775006
- 684/Live_Band_Karaoke_m2uica.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775012563/POST_1_t
- cyg6l.png
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mid Drift 
-DTSTART;TZID=Australia/Sydney:20260523T193000
-DTEND;TZID=Australia/Sydney:20260524T040000
-UID:fun-time-pony-8f71ac85abda961b5b5a3c26bcb94204
-DESCRIPTION:Bursting with sun-soaked melodies and woozy guitar licks\, ind
- ie-rock sweethearts Mid Drift have swiftly captured hearts all across Aust
- ralia\, selling out two national headliner tours in 2025. Between major su
- pport slots alongside Aussie crowd favourites Ocean Alley\, Old Mervs\, an
- d DICE and appearances at renowned Australian festivals such as Laneway an
- d Rolling Sets Festival\, the female fronted 5-piece show no signs of slow
- ing down having announced their sophomore EP ‘Good At Avoiding’ is set
-  to come out on 17th February 2026.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1775012
- 563/POST_1_tcyg6l.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/b067f888-33b3-42ab-b018-6dcd
- 50bdcf5d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Comedy Club  - Daniel Muggleton - White Here\, White Now
@@ -1154,6 +763,22 @@ URL:https://moshtix.com.au/v2/event/daniel-muggleton-in-canberra-white-her
  e-white-now-tour-2026/193024
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Comedy Club - Good Times Improv 
+DTSTART;TZID=Australia/Sydney:20260617T200000
+DTEND;TZID=Australia/Sydney:20260618T040000
+UID:fun-time-pony-010b2205e424a12baa42fbc710a2b41f
+DESCRIPTION:Join Carlo Ritchie and Julia Zemiro for a night of laughs\, go
+ od times\, maybe there will be tears\, no one knows! Watch as your suggest
+ ions are turned into comedy spun gold before your very eyes as two of Aust
+ ralia’s best improvisers work their magic on the stage.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1779670
+ 762/GoodTimes_June_Portrait_v65c0g.png
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://comedyact.com.au/event/the-good-time-impro-club/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noosh - A Scratch Night Game Show 
 DTSTART;TZID=Australia/Sydney:20260624T200000
 DTEND;TZID=Australia/Sydney:20260625T040000
@@ -1165,25 +790,5 @@ ORGANIZER:Fun Time Pony
 STATUS:CONFIRMED
 URL:https://tickets.oztix.com.au/outlet/event/57e1949b-5dba-417d-b466-eb8b
  d65a54b9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:First Pour 
-DTSTART;TZID=Australia/Sydney:20260523T200000
-DTEND;TZID=Australia/Sydney:20260524T040000
-UID:fun-time-pony-d81d60ae48d76d34196d90cbaa5aa825
-DESCRIPTION:Parlour of Dreams presents First Pour of Dreams\, a one-night-
- only cocktail menu launch with Corella. Join us Saturday 23 May for a cock
- tail on arrival\, canapés by Corella\, vinyl DJ and a free Botanist glass
- . Tickets are $60pp with limited seats available via Oztix.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1777863
- 117/Post1Socials_eh0csd.webp
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-URL:https://tickets.oztix.com.au/outlet/event/f5c457dc-0131-4bf7-9c9a-fdc6
- ae5b3ab9?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PA
- dGRleARk6GdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA8xMjQwMjQ1NzQyODc0MTQAAadSu_kI0e
- xWmkkVfYhbWZUjcpv9ZGb4uqpjOqEcw3XsA1Q7lfW6BBtD4cJrmw_aem_UxD0j9tSD1K-sW8KZ
- TR1RQ&utm_id=97760_v0_s00_e0_tv3_a1denni1smy1qz
 END:VEVENT
 END:VCALENDAR
