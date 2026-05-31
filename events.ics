@@ -1,64 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Ben van Gelder & Reinier Baas
-DTSTART:20260530T060000Z
-DTEND:20260530T080000Z
-DTSTAMP:20260530T033001Z
-UID:smiths-alternative-ba10db50f94c3e570ab9daffc73ef797
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95222/f__32969_benreinier.jpg
-CREATED:20260129T052115Z
-DESCRIPTION:
-LAST-MODIFIED:20260311T065137Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/ben-van-gelder-reinier-baas-95
- 222
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jef Neve and Teus Nobel
-DTSTART:20260530T090000Z
-DTEND:20260530T110000Z
-DTSTAMP:20260530T033001Z
-UID:smiths-alternative-d9f0a7cbb2af3eaa4f1f61798c3675ff
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95225/f__32971_nevenobel.jpg
-CREATED:20260129T055931Z
-DESCRIPTION:Neve-Nobel\, album release tour
-LAST-MODIFIED:20260129T074857Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/jef-neve-and-teus-nobel-95225
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eyrie Improv - Improvised Burlesque
-DTSTART:20260530T113000Z
-DTEND:20260530T133000Z
-DTSTAMP:20260530T033001Z
-UID:smiths-alternative-473dce879d2e801cac97a6db5dfb41a9
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96158/f__33234_impp.jpg
-CREATED:20260326T033956Z
-DESCRIPTION:Choose Your Own Adventure Burlesque.*SPECIAL EDITION starring 
- Gina Stirling!*
-LAST-MODIFIED:20260326T091915Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/eyrie-improv-improvised-burles
- que-96158
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Sloane Tapes
 DTSTART:20260531T020000Z
 DTEND:20260531T040000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-d6efdeeec10d3d009a65a482d049ce22
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96440/f__33561_sloane1.jpg
@@ -75,13 +21,13 @@ BEGIN:VEVENT
 SUMMARY:Serenade
 DTSTART:20260531T040000Z
 DTEND:20260531T053000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-96adfc7b910143039b5340232bea6846
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95320/f__32997_serenade-2026.jpg
 CREATED:20260204T133019Z
 DESCRIPTION:with Tobias Cole
-LAST-MODIFIED:20260205T034704Z
+LAST-MODIFIED:20260531T023809Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 ORGANIZER:Smiths Alternative
@@ -92,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:The GAS Band - Great Australian Songbook
 DTSTART:20260531T060000Z
 DTEND:20260531T080000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-6096782fcba2cafdc562f7e37e38dea7
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96798/f__33905_gas.jpg
@@ -110,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:Tom Woodward
 DTSTART:20260531T070000Z
 DTEND:20260531T090000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-25b286b2fcf16bf4e82b03b99ccc5b03
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96589/f__33680_tomwww.jpg
@@ -127,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:DYLAN WRIGHT
 DTSTART:20260531T090000Z
 DTEND:20260531T110000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-f663e94fa6cde287eef3ff8e103036c1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95265/f__32984_dylan_wright.jpg
@@ -144,7 +90,7 @@ BEGIN:VEVENT
 SUMMARY:Monstress
 DTSTART:20260531T093000Z
 DTEND:20260531T113000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-7d79f88e5d6b933234d90791e89a8490
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96960/f__34666_monstress.jpg
@@ -161,7 +107,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260601T083000Z
 DTEND:20260601T103000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-c9848bdb7282df5e059b1e545cd23151
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97224/f__35521_rauny.jpg
@@ -178,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's That Poetry Thing
 DTSTART:20260601T090000Z
 DTEND:20260601T110000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-51f8b58d00cb2218e80f4a389c66c5a8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97400/f__35913_tpt010626.jpg
@@ -196,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260602T083000Z
 DTEND:20260602T110000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-540c06722d1fda559bfe41bc4bf09acd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96755/f__32298_ssad.jpg
@@ -215,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260602T083000Z
 DTEND:20260602T120000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-75ed0d63bae4fbd404730a7ac1ff80c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97707/f__30321_bigbangbeng.jpg
@@ -234,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:FLESH June Sess
 DTSTART:20260603T083000Z
 DTEND:20260603T110000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-92569e0a6f81cf91dc4d0a48dadf111e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95167/f__32961_jun.jpg
@@ -251,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's Jazz presents The Dan Junor Quartet
 DTSTART:20260603T090000Z
 DTEND:20260603T110000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-e2965ee91e9eb54427b64a2533a51b03
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97386/f__35752_gjjun3.jpg
@@ -268,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Alexandra Ivanova Trio
 DTSTART:20260604T083000Z
 DTEND:20260604T103000Z
-DTSTAMP:20260530T033001Z
+DTSTAMP:20260531T035631Z
 UID:smiths-alternative-7809b9067ea67273fccb3f44190757e2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96703/f__33886_alexandra-ivanova.jpg
@@ -282,10 +228,65 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/alexandra-ivanova-trio-96703
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Dave Graney and Clare Moore
+DTSTART:20260604T090000Z
+DTEND:20260604T110000Z
+DTSTAMP:20260531T035631Z
+UID:smiths-alternative-951e75935b491424a865afd4d212f050
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95853/f__33161_graney.jpg
+CREATED:20260310T051047Z
+DESCRIPTION:2026 album - Laburnum Of The Mind.Contains the single - HITS A
+ RE THE WORST.
+LAST-MODIFIED:20260310T051949Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/dave-graney-and-clare-moore-95
+ 853
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Pigs
+DTSTART:20260605T100000Z
+DTEND:20260605T130000Z
+DTSTAMP:20260531T035631Z
+UID:smiths-alternative-0a435f58c2db396b450501d121ee3dd9
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95012/f__32924_thepigs.jpg
+CREATED:20260115T064540Z
+DESCRIPTION:
+LAST-MODIFIED:20260115T064842Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-pigs-95012
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dept of Rock All Stars
+DTSTART:20260606T050000Z
+DTEND:20260606T080000Z
+DTSTAMP:20260531T035631Z
+UID:smiths-alternative-3467f1ac5794a3569e118f4133596de2
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95711/f__33119_as66.jpg
+CREATED:20260225T100546Z
+DESCRIPTION:Dept of Rock proudly presents an All Stars gig featuring bands
+  from the 2025 comp: Area 4:51\, Same\, Same but Different\, DIVE and Phoe
+ nix Bureau
+LAST-MODIFIED:20260225T224552Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/dept-of-rock-all-stars-95711
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Purelink (NYC) w/ Umki and Discobasis
 DTSTART;TZID=Australia/Sydney:20260531T180000
 DTEND;TZID=Australia/Sydney:20260531T220000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10002044-1780250400-1780264800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-28-at-3.20.07-pm.png
@@ -316,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260603T183000
 DTEND;TZID=Australia/Sydney:20260603T210000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10001787-1780511400-1780520400@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -334,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260605T190000
 DTEND;TZID=Australia/Sydney:20260605T210000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10000507-1780686000-1780693200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -352,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Disco Kid (JPN)
 DTSTART;TZID=Australia/Sydney:20260607T160000
 DTEND;TZID=Australia/Sydney:20260607T220000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10002049-1780848000-1780869600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-9.56.29-am.png
@@ -395,7 +396,7 @@ BEGIN:VEVENT
 SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
 DTSTART;TZID=Australia/Sydney:20260613T190000
 DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
@@ -429,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -477,7 +478,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -528,7 +529,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -558,7 +559,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260530T133002
+DTSTAMP:20260531T135633
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -592,17 +593,7 @@ URL:https://ganggangcafe.com.au/event/select-music-presents-felipe-baldomi
  r-sunset-highway-tour/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:ROCK n ROLL NEVER DIES!
-DTSTART;TZID=Australia/Sydney:20260530T193000
-DTEND;TZID=Australia/Sydney:20260530T203000
-UID:dissent-69a6a2bc20b4b1d950233c36
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-ORGANIZER:Dissent Cafe and Bar
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ducks Street
+SUMMARY:Ducks Street w/ Ducks in Trees\, Nightswim & Boshi
 DTSTART;TZID=Australia/Sydney:20260604T183000
 DTEND;TZID=Australia/Sydney:20260604T193000
 UID:dissent-6a0406c1e8e053ae38845c71
@@ -622,7 +613,8 @@ ORGANIZER:Dissent Cafe and Bar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Corduroy Company with Stonebird and Between Bread
+SUMMARY:Corduroy Company with Stonebird and Between Bread (Farewell Ben & 
+ Kate!)
 DTSTART;TZID=Australia/Sydney:20260606T193000
 DTEND;TZID=Australia/Sydney:20260606T203000
 UID:dissent-6a0186f26af0753572b88499
@@ -707,6 +699,16 @@ DTSTART;TZID=Australia/Sydney:20260621T130000
 DTEND;TZID=Australia/Sydney:20260621T140000
 UID:dissent-69cc6000bb7affa9252171c7
 LOCATION:Live At The Polo 38 David St\, Turner ACT 2612\, Australia
+ORGANIZER:Dissent Cafe and Bar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kapital Kultura
+DTSTART;TZID=Australia/Sydney:20260621T170000
+DTEND;TZID=Australia/Sydney:20260621T180000
+UID:dissent-6a1690fd347be04370478050
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
 ORGANIZER:Dissent Cafe and Bar
 STATUS:CONFIRMED
 END:VEVENT
