@@ -1,113 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:The Sloane Tapes
-DTSTART:20260531T020000Z
-DTEND:20260531T040000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-d6efdeeec10d3d009a65a482d049ce22
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96440/f__33561_sloane1.jpg
-CREATED:20260409T103523Z
-DESCRIPTION:
-LAST-MODIFIED:20260423T031641Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/the-sloane-tapes-96440
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Serenade
-DTSTART:20260531T040000Z
-DTEND:20260531T053000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-96adfc7b910143039b5340232bea6846
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95320/f__32997_serenade-2026.jpg
-CREATED:20260204T133019Z
-DESCRIPTION:with Tobias Cole
-LAST-MODIFIED:20260531T023809Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/serenade-95320
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The GAS Band - Great Australian Songbook
-DTSTART:20260531T060000Z
-DTEND:20260531T080000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-6096782fcba2cafdc562f7e37e38dea7
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96798/f__33905_gas.jpg
-CREATED:20260430T105756Z
-DESCRIPTION:
-LAST-MODIFIED:20260430T110247Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/great-australian-songbook-9679
- 8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tom Woodward
-DTSTART:20260531T070000Z
-DTEND:20260531T090000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-25b286b2fcf16bf4e82b03b99ccc5b03
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96589/f__33680_tomwww.jpg
-CREATED:20260419T053021Z
-DESCRIPTION:Special Guest: What She's Having
-LAST-MODIFIED:20260525T140807Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/tom-woodward-96589
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DYLAN WRIGHT
-DTSTART:20260531T090000Z
-DTEND:20260531T110000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-f663e94fa6cde287eef3ff8e103036c1
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95265/f__32984_dylan_wright.jpg
-CREATED:20260203T030245Z
-DESCRIPTION:
-LAST-MODIFIED:20260430T110443Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/dylan-wright-95265
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monstress
-DTSTART:20260531T093000Z
-DTEND:20260531T113000Z
-DTSTAMP:20260531T035631Z
-UID:smiths-alternative-7d79f88e5d6b933234d90791e89a8490
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96960/f__34666_monstress.jpg
-CREATED:20260505T034737Z
-DESCRIPTION:It’s Okay: East Coast Tour
-LAST-MODIFIED:20260505T163628Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/monstress-96960
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260601T083000Z
 DTEND:20260601T103000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-c9848bdb7282df5e059b1e545cd23151
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97224/f__35521_rauny.jpg
@@ -124,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's That Poetry Thing
 DTSTART:20260601T090000Z
 DTEND:20260601T110000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-51f8b58d00cb2218e80f4a389c66c5a8
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97400/f__35913_tpt010626.jpg
@@ -142,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260602T083000Z
 DTEND:20260602T110000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-540c06722d1fda559bfe41bc4bf09acd
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96755/f__32298_ssad.jpg
@@ -161,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260602T083000Z
 DTEND:20260602T120000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-75ed0d63bae4fbd404730a7ac1ff80c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97707/f__30321_bigbangbeng.jpg
@@ -180,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:FLESH June Sess
 DTSTART:20260603T083000Z
 DTEND:20260603T110000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-92569e0a6f81cf91dc4d0a48dadf111e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95167/f__32961_jun.jpg
@@ -197,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Geoff's Jazz presents The Dan Junor Quartet
 DTSTART:20260603T090000Z
 DTEND:20260603T110000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-e2965ee91e9eb54427b64a2533a51b03
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97386/f__35752_gjjun3.jpg
@@ -214,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Alexandra Ivanova Trio
 DTSTART:20260604T083000Z
 DTEND:20260604T103000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-7809b9067ea67273fccb3f44190757e2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96703/f__33886_alexandra-ivanova.jpg
@@ -231,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:Dave Graney and Clare Moore
 DTSTART:20260604T090000Z
 DTEND:20260604T110000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-951e75935b491424a865afd4d212f050
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95853/f__33161_graney.jpg
@@ -250,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:The Pigs
 DTSTART:20260605T100000Z
 DTEND:20260605T130000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-0a435f58c2db396b450501d121ee3dd9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95012/f__32924_thepigs.jpg
@@ -267,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Dept of Rock All Stars
 DTSTART:20260606T050000Z
 DTEND:20260606T080000Z
-DTSTAMP:20260531T035631Z
+DTSTAMP:20260601T041006Z
 UID:smiths-alternative-3467f1ac5794a3569e118f4133596de2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95711/f__33119_as66.jpg
@@ -283,41 +180,118 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/dept-of-rock-all-stars-95711
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Purelink (NYC) w/ Umki and Discobasis
-DTSTART;TZID=Australia/Sydney:20260531T180000
-DTEND;TZID=Australia/Sydney:20260531T220000
-DTSTAMP:20260531T135633
-UID:ganggang-10002044-1780250400-1780264800@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/04/Screenshot-2026-04-28-at-3.20.07-pm.png
-CREATED:20260428T052052Z
-DESCRIPTION:urelink is an ambient music trio from Brooklyn\, New York City
- . The group\, comprised of Ben Paulson\, Tommy Paslaski\, and Akeem Asani\
- , formed in 2020 and has been described as an “ambient boyband.” Their
-  debut release\, the single Bliss / Swivel\, was self-released in 2021\, 
- with both tracks later included on the 2023 EP To / Deep. More recently i
- n 2025 their album Faith was released\, featuring Loraine James and others
- . \n\n\n\nThe trio began collaborating after Ben Paulson\, known professio
- nally as Kindtree\, and Tommy Paslaski\, known professionally as Concave R
- eflection\, who had previously collaborated under the name All Light Hits 
- U\, met Akeem Asani\, who had been releasing under the name Millia\, in 20
- 19. They began playing music together in early 2020\, using Ableton Live t
- o link their three computers over Wi-Fi\, which inspired the name Purelink
- . \n\n\n\nTo have them as part of their Australian tour is a real honour f
- or us\, we’ve been very big fans of Purelink since their first release. 
- To say the least we highly recommend coming\, sitting listening\, and gett
- ing to hear some very special music that is hard to come by. \n\n\n\nSuppo
- rts from amazing Umki and Discobasis.
-LAST-MODIFIED:20260428T052054Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-ORGANIZER:Gang Gang Cafe
-URL:https://ganggangcafe.com.au/event/purelink-nyc-w-umki-and-discobasis/
+SUMMARY:What She's Having
+DTSTART:20260606T090000Z
+DTEND:20260606T110000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-1e881cb8ebcbed6eb2d9be5ba4da6c21
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97403/f__35924_wsh-sunset-photo.jpg
+CREATED:20260521T095151Z
+DESCRIPTION:
+LAST-MODIFIED:20260521T101620Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/what-shes-having-97403
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mahesh & Tapestries of Sound
+DTSTART:20260607T030000Z
+DTEND:20260607T050000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-1ef819ac5bd52647ebc6611b1392a8ab
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97696/f__36697_mah.jpg
+CREATED:20260524T172747Z
+DESCRIPTION:Led by the homespun\, eclectic vocals of Mahesh Radhakrishnan\
+ , Tapestries of Sound weaves together Indian ragas\, Gaelic and Appalachia
+ n melodies on a bed of exquisite rhythms\, grooves and epic symphony.
+LAST-MODIFIED:20260525T150304Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/mahesh-tapestries-of-sound-976
+ 96
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tessa Devine
+DTSTART:20260607T060000Z
+DTEND:20260607T080000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-d116866de1d6160426d1015a04f0e098
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96302/f__33264_tess.jpg
+CREATED:20260403T030302Z
+DESCRIPTION:Our beloved Tessa comes to visit with her acoustic guitar\, he
+ r loop station\, her goofy stage banter\, her beautiful voice and her hear
+ tfelt feel-good lyrics.
+LAST-MODIFIED:20260403T055838Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/tessa-devine-96302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tribute to The Great Ladies of Jazz
+DTSTART:20260607T090000Z
+DTEND:20260607T110000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-2718c59e278847418ca7eaf30a4055f4
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96709/f__32845_nadira.jpg
+CREATED:20260423T063159Z
+DESCRIPTION:
+LAST-MODIFIED:20260429T093138Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/nadira-and-friends-96709
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Open Mic Comedy
+DTSTART:20260607T090000Z
+DTEND:20260607T110000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-2718c59e278847418ca7eaf30a4055f4
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97382/f__35724_comedyjune26.jpg
+CREATED:20260519T132033Z
+DESCRIPTION:Comedy Open Mic at Smith's - First Sunday (or sometimes second
+ ) of the month
+LAST-MODIFIED:20260519T132403Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smiths-open-mic-comedy-97382
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Theatre of Horror & Immorality
+DTSTART:20260608T083000Z
+DTEND:20260608T103000Z
+DTSTAMP:20260601T041006Z
+UID:smiths-alternative-5791bc9420ef4c3ef2325b75160ea425
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97230/f__35521_rauny.jpg
+CREATED:20260514T060248Z
+DESCRIPTION:
+LAST-MODIFIED:20260521T103221Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smiths-theatre-97230
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260603T183000
 DTEND;TZID=Australia/Sydney:20260603T210000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10001787-1780511400-1780520400@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -335,7 +309,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260605T190000
 DTEND;TZID=Australia/Sydney:20260605T210000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10000507-1780686000-1780693200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -353,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Disco Kid (JPN)
 DTSTART;TZID=Australia/Sydney:20260607T160000
 DTEND;TZID=Australia/Sydney:20260607T220000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10002049-1780848000-1780869600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-9.56.29-am.png
@@ -396,7 +370,7 @@ BEGIN:VEVENT
 SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
 DTSTART;TZID=Australia/Sydney:20260613T190000
 DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
@@ -430,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -478,7 +452,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -529,7 +503,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -559,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260531T135633
+DTSTAMP:20260601T141008
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
