@@ -1,44 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:FLESH June Sess
-DTSTART:20260603T083000Z
-DTEND:20260603T110000Z
-DTSTAMP:20260603T041233Z
-UID:smiths-alternative-92569e0a6f81cf91dc4d0a48dadf111e
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/95167/f__32961_jun.jpg
-CREATED:20260127T091918Z
-DESCRIPTION:
-LAST-MODIFIED:20260127T093822Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/flesh-june-sess-95167
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geoff's Jazz presents The Dan Junor Quartet
-DTSTART:20260603T090000Z
-DTEND:20260603T110000Z
-DTSTAMP:20260603T041233Z
-UID:smiths-alternative-e2965ee91e9eb54427b64a2533a51b03
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/97386/f__35752_gjjun3.jpg
-CREATED:20260519T135352Z
-DESCRIPTION:
-LAST-MODIFIED:20260519T135856Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/geoffs-jazz-97386
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Alexandra Ivanova Trio
 DTSTART:20260604T083000Z
 DTEND:20260604T103000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-7809b9067ea67273fccb3f44190757e2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96703/f__33886_alexandra-ivanova.jpg
@@ -55,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Dave Graney and Clare Moore
 DTSTART:20260604T090000Z
 DTEND:20260604T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-951e75935b491424a865afd4d212f050
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95853/f__33161_graney.jpg
@@ -74,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:The Pigs
 DTSTART:20260605T100000Z
 DTEND:20260605T130000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-0a435f58c2db396b450501d121ee3dd9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95012/f__32924_thepigs.jpg
@@ -91,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:Dept of Rock All Stars
 DTSTART:20260606T050000Z
 DTEND:20260606T080000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-3467f1ac5794a3569e118f4133596de2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95711/f__33119_as66.jpg
@@ -110,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:What She's Having
 DTSTART:20260606T090000Z
 DTEND:20260606T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-1e881cb8ebcbed6eb2d9be5ba4da6c21
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97403/f__35924_wsh-sunset-photo.jpg
@@ -127,7 +93,7 @@ BEGIN:VEVENT
 SUMMARY:Mahesh & Tapestries of Sound
 DTSTART:20260607T030000Z
 DTEND:20260607T050000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-1ef819ac5bd52647ebc6611b1392a8ab
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97696/f__36697_mah.jpg
@@ -147,7 +113,7 @@ BEGIN:VEVENT
 SUMMARY:Tessa Devine
 DTSTART:20260607T060000Z
 DTEND:20260607T080000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-d116866de1d6160426d1015a04f0e098
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96302/f__33264_tess.jpg
@@ -166,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Tribute to The Great Ladies of Jazz
 DTSTART:20260607T090000Z
 DTEND:20260607T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-2718c59e278847418ca7eaf30a4055f4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96709/f__32845_nadira.jpg
@@ -183,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Open Mic Comedy
 DTSTART:20260607T090000Z
 DTEND:20260607T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-2718c59e278847418ca7eaf30a4055f4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97382/f__35724_comedyjune26.jpg
@@ -201,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260608T083000Z
 DTEND:20260608T103000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-5791bc9420ef4c3ef2325b75160ea425
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97230/f__35521_rauny.jpg
@@ -218,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing Big Open Mic
 DTSTART:20260608T090000Z
 DTEND:20260608T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-040c208763ddcb2e6f810d27004ae030
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97420/f__35928_tpt080626.jpg
@@ -235,7 +201,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260609T083000Z
 DTEND:20260609T110000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-802b89b029a83fb82f804b7eeebc2451
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98182/f__32298_ssad.jpg
@@ -254,14 +220,14 @@ BEGIN:VEVENT
 SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
 DTSTART:20260609T083000Z
 DTEND:20260609T120000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-b5d731fbf4aebb87e4dfc13b29d466c3
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98218/f__30321_bigbangbeng.jpg
 CREATED:20260602T063719Z
 DESCRIPTION:Smith's version of the open-mic\, only BIGGER. The Big BBBBB i
  s five songs each from up to eight singer-songwriters.
-LAST-MODIFIED:20260603T022538Z
+LAST-MODIFIED:20260603T090543Z
 LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
 ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
 ORGANIZER:Smiths Alternative
@@ -273,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:Lyrebird Tanka Circle Book Launch
 DTSTART:20260611T063000Z
 DTEND:20260611T083000Z
-DTSTAMP:20260603T041233Z
+DTSTAMP:20260604T040552Z
 UID:smiths-alternative-20dc2488ba0be4c4cb56478e93327379
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97094/f__34880_roots.jpg
@@ -289,28 +255,45 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/lyrebird-tanka-circle-97094
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wednesday Trivia
-DTSTART;TZID=Australia/Sydney:20260603T183000
-DTEND;TZID=Australia/Sydney:20260603T210000
-DTSTAMP:20260603T141234
-UID:ganggang-10001787-1780511400-1780520400@ganggangcafe.com.au
-CREATED:20260421T012136Z
-DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
- come and host a trivia night for us. We’re talking pop culture\, politic
- s\, geography\, musical clues\, movie clues\, cryptic clues\, something fo
- r everyone!  Call us up to book a table inside if you’re keen to get qui
- zzy. A cancellation fee is charged if you do not show up to your booking 
- 🙁 Otherwise you can enjoy regular service outside.
-LAST-MODIFIED:20260421T012138Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-ORGANIZER:Gang Gang Cafe
-URL:https://ganggangcafe.com.au/event/wednesday-trivia/2026-06-03/
+SUMMARY:The Lounge Club
+DTSTART:20260611T083000Z
+DTEND:20260611T103000Z
+DTSTAMP:20260604T040552Z
+UID:smiths-alternative-c0e47a020541d3760eb0360dbb6c1236
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97885/f__36995_lc.jpg
+CREATED:20260526T170119Z
+DESCRIPTION:feat. Kitty & The Bobcats & The Pure Drop
+LAST-MODIFIED:20260526T222709Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/the-lounge-club-97885
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Matilda Lorenz Quintet
+DTSTART:20260611T090000Z
+DTEND:20260611T110000Z
+DTSTAMP:20260604T040552Z
+UID:smiths-alternative-157baf45518ed0e26dfed9362bd06163
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97710/f__36702_mat.jpg
+CREATED:20260524T185012Z
+DESCRIPTION:Returning to Smith's\, Matilda Lorenz is a an emerging jazz an
+ d contemporary vocalist.
+LAST-MODIFIED:20260524T185602Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/matilda-lorenz-quintet-97710
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260605T190000
 DTEND;TZID=Australia/Sydney:20260605T210000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10000507-1780686000-1780693200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -328,7 +311,7 @@ BEGIN:VEVENT
 SUMMARY:Mr Disco Kid (JPN)
 DTSTART;TZID=Australia/Sydney:20260607T160000
 DTEND;TZID=Australia/Sydney:20260607T220000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10002049-1780848000-1780869600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-9.56.29-am.png
@@ -368,10 +351,28 @@ ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/mr-disco-kid-jpn/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wednesday Trivia
+DTSTART;TZID=Australia/Sydney:20260610T183000
+DTEND;TZID=Australia/Sydney:20260610T210000
+DTSTAMP:20260604T140554
+UID:ganggang-10001788-1781116200-1781125200@ganggangcafe.com.au
+CREATED:20260421T012136Z
+DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
+ come and host a trivia night for us. We’re talking pop culture\, politic
+ s\, geography\, musical clues\, movie clues\, cryptic clues\, something fo
+ r everyone!  Call us up to book a table inside if you’re keen to get qui
+ zzy. A cancellation fee is charged if you do not show up to your booking 
+ 🙁 Otherwise you can enjoy regular service outside.
+LAST-MODIFIED:20260421T012138Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/wednesday-trivia/2026-06-10/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
 DTSTART;TZID=Australia/Sydney:20260613T190000
 DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
@@ -405,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -453,7 +454,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -504,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -534,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260603T141234
+DTSTAMP:20260604T140554
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -801,24 +802,6 @@ URL:https://tickets.oztix.com.au/outlet/event/775a4353-aa2e-45e3-84ab-5e0d
  QR8YCV*czE3ODAwMjQ2OTQkbzQ4JGcxJHQxNzgwMDI0NzAwJGo1NCRsMCRoMA..
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Civic Video
-DTSTART;TZID=Australia/Sydney:20260529T200000
-DTEND;TZID=Australia/Sydney:20260530T040000
-UID:fun-time-pony-1d36d2ba19ed0ff4548910bb92778f5f
-DESCRIPTION:Civic Video is a Sydney-based indie rock trio made up of Zac N
- ewton-John\, Belle Whitwell\, and Riley Maher. Their sound blends the shim
- mering\, expansive textures of Spacey Jane and Holy Holy with the lyrical 
- depth of Sam Fender\, creating a modern nostalgia anchored in emotive\, ho
- ok-driven indie rock.\n\nThe result is music that feels both familiar and 
- fresh — built on soaring melodies\, reflective storytelling\, and a dist
- inctly contemporary edge.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1779858
- 964/Civic_Video_Canberra_45_xiwil7.png
-LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
-ORGANIZER:Fun Time Pony
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Hush ft. Loose Surface
 DTSTART;TZID=Australia/Sydney:20260606T200000
 DTEND;TZID=Australia/Sydney:20260607T040000
@@ -861,22 +844,15 @@ SUMMARY:Snow Machine Pre Party at Fun Time Pony
 DTSTART;TZID=Australia/Sydney:20260801T200000
 DTEND;TZID=Australia/Sydney:20260802T040000
 UID:fun-time-pony-3b289bdba9fb67f34f2e0751670fc9b3
-DESCRIPTION:Snow Machine Queenstown is taking over Fun Time Pony this Augu
- st. \nIt's your pre-festival warm-up\, a reason to get the crew in the sam
- e room\, and a shot at winning some seriously good prizes while you're at 
- it.  \nFeaturing a live DJ set from Savage\, supported by Piste Evo + loca
- l DJs all night long\n\nThrow on your best snow fit for your chance to win
-  best dressed prizes.\n\nMajor Prize: The ultimate VIP Snow Machine Queens
- town Experience For Two - Valued at over $2\,000\n\n2x VIP 4-Day Festival 
- Tickets\, including VIP access to the Snow Machine main arena\, access to 
- all on-mountain apres stages across Coronet Peak and Remarkables\, and all
-  Snow Machine Official Afterparties. \nDouble Pass to the Revolver Takeove
- r Party \nDouble Pass to the Rees Street Party\nSpot prizes: 5x GA Weekend
-  Tickets \n\nFriday + Saturday night entry to Snow Machine Queenstown main
-  arena\,  and all on-mountain apres stages across Coronet Peak and Remarka
- bles. 
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1780453
- 514/IMG_7095_osxown.png
+DESCRIPTION:This August\, Snow Machine Queenstown takes over Fun Time Pony
+  for a pre-festival warm-up. Featuring Savage\, Piste Evo and local DJs al
+ l night. Wear your best snow fit for a chance to win prizes.\n\nMajor Priz
+ e VIP Snow Machine Queenstown Experience for Two valued at over $2\,000 (I
+ ncludes VIP 4-Day Festival Tickets\, main arena access\, on-mountain aprè
+ s stages and official afterparties)\nSpot Prizes 5 x GA Weekend Tickets wi
+ th Friday and Saturday night entry.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1780450
+ 541/IMG_7096_yn0hlj.png
 LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
 ORGANIZER:Fun Time Pony
 STATUS:CONFIRMED
