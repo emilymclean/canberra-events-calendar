@@ -1,48 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Smith's Scribblers After Dark
-DTSTART:20260609T083000Z
-DTEND:20260609T110000Z
-DTSTAMP:20260609T033526Z
-UID:smiths-alternative-802b89b029a83fb82f804b7eeebc2451
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/98182/f__32298_ssad.jpg
-CREATED:20260601T094925Z
-DESCRIPTION:Spend Tuesday night creating something splendid and improving 
- your brain.
-LAST-MODIFIED:20260601T095106Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
- 98182
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The BIG Bang!! Beng!! Bing!! Bong!! Bung!!
-DTSTART:20260609T083000Z
-DTEND:20260609T120000Z
-DTSTAMP:20260609T033526Z
-UID:smiths-alternative-b5d731fbf4aebb87e4dfc13b29d466c3
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/98218/f__30321_bigbangbeng.jpg
-CREATED:20260602T063719Z
-DESCRIPTION:Smith's version of the open-mic\, only BIGGER. The Big BBBBB i
- s five songs each from up to eight singer-songwriters.
-LAST-MODIFIED:20260603T090543Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/the-big-bang!!-beng!!-bing!!-b
- ong!!-bung!!-98218
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lyrebird Tanka Circle Book Launch
 DTSTART:20260611T063000Z
 DTEND:20260611T083000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-20dc2488ba0be4c4cb56478e93327379
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97094/f__34880_roots.jpg
@@ -61,7 +23,7 @@ BEGIN:VEVENT
 SUMMARY:The Lounge Club
 DTSTART:20260611T083000Z
 DTEND:20260611T103000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-c0e47a020541d3760eb0360dbb6c1236
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97885/f__36995_lc.jpg
@@ -78,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Matilda Lorenz Quintet
 DTSTART:20260611T090000Z
 DTEND:20260611T110000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-157baf45518ed0e26dfed9362bd06163
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97710/f__36702_mat.jpg
@@ -96,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Jazmine Mary
 DTSTART:20260612T093000Z
 DTEND:20260612T113000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-3b8e99963da561f66d8c9627f856ec5e
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97772/f__36807_jazm.jpg
@@ -116,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:MAXINE
 DTSTART:20260613T050000Z
 DTEND:20260613T070000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-65111d2fe759ea113a211fca7e64286b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98200/f__38392_maxine.jpg
@@ -133,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Tenda & Corduroy Company EP launch
 DTSTART:20260613T080000Z
 DTEND:20260613T100000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-b2b96bc24b998a4972eaa34879e48337
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97065/f__34801_tenda.jpg
@@ -150,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:Band Beng Bing Bong Bung
 DTSTART:20260613T110000Z
 DTEND:20260613T134000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-3af82326f34ce717bdca6dab6165040a
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97961/f__27083_bandbeng.jpg
@@ -168,7 +130,7 @@ BEGIN:VEVENT
 SUMMARY:Jenny Sawer's Vocal Student Showcase
 DTSTART:20260614T030000Z
 DTEND:20260614T050000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-1e9bf6d2838a9da357dd3885753c1234
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96970/f__34677_jsawer.jpg
@@ -185,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Masterclass with Tobias Cole
 DTSTART:20260614T060000Z
 DTEND:20260614T073000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-76053d88455185d36cb0cc82d31dc1e1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95903/f__33172_masterclass.jpg
@@ -202,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260615T080000Z
 DTEND:20260615T100000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-0f473961f1f464fac1a9b5c9a1552347
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97233/f__40483_theatre.jpg
@@ -219,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260615T090000Z
 DTEND:20260615T110000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-782acd685070677cfc2907949d8b6f85
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98279/f__38801_tpt150626.jpg
@@ -236,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:MARION Welcomes New Patrons
 DTSTART:20260616T080000Z
 DTEND:20260616T100000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-8be5fe3c1a5805f13b2e97fff2099636
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98290/f__38907_marion-patrons.jpg
@@ -253,7 +215,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260616T083000Z
 DTEND:20260616T110000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-e84bbeb7b37a0db60d4d40955632cbf6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98187/f__32298_ssad.jpg
@@ -272,7 +234,7 @@ BEGIN:VEVENT
 SUMMARY:The Darlings Family Trust
 DTSTART:20260617T090000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260609T033526Z
+DTSTAMP:20260610T034924Z
 UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96525/f__33511_darlings.jpg
@@ -287,10 +249,46 @@ URL:http://www.smithsalternative.com/events/the-darlings-family-trust-9652
  5
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Classical Capers
+DTSTART:20260617T090000Z
+DTEND:20260617T110000Z
+DTSTAMP:20260610T034924Z
+UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/98296/f__2157_classicalcapers.jpg
+CREATED:20260603T093920Z
+DESCRIPTION:Opera star Tobias Cole hosts an entertaining evening for class
+ ically trained (and untrained) musicians and enthusiasts.
+LAST-MODIFIED:20260603T094134Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/classical-capers-98296
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BYWAYS
+DTSTART:20260618T093000Z
+DTEND:20260618T113000Z
+DTSTAMP:20260610T034924Z
+UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/98237/f__33499_byw.jpg
+CREATED:20260602T102432Z
+DESCRIPTION:Ben Marston\, Chris Pound and Nick McBride return with their s
+ eries of monthly concerts.
+LAST-MODIFIED:20260609T040617Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/byways-98237
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260610T183000
 DTEND;TZID=Australia/Sydney:20260610T210000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10001788-1781116200-1781125200@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -308,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260612T190000
 DTEND;TZID=Australia/Sydney:20260612T210000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10000508-1781290800-1781298000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -326,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
 DTSTART;TZID=Australia/Sydney:20260613T190000
 DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
@@ -360,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -408,7 +406,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -459,7 +457,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -489,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260609T133528
+DTSTAMP:20260610T134925
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -523,17 +521,8 @@ URL:https://ganggangcafe.com.au/event/select-music-presents-felipe-baldomi
  r-sunset-highway-tour/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Mistletone presents The Bats (NZ) w/ Tee Vee Repairmann + dogworld
-DTSTART;TZID=Australia/Sydney:20260609T190000
-DTEND;TZID=Australia/Sydney:20260609T200000
-UID:dissent-69dcdb699da10a3651b92174
-LOCATION:Live At The Polo 38 David St\, Turner ACT 2612\, Australia
-ORGANIZER:Dissent Cafe and Bar
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:NUCLEAR WINTER 2026 EAST COAST TOUR: BLOOD OF A POMEGRANATE\, YOUR
-  MOTHERS DISGUSTING WINDOW\, ATAVUS INFECTUM\, SHAKING
+  MOTHERS DISGUSTING WINDOW\, NIMBY VS FUKNO\, SHAKING & DREALM
 DTSTART;TZID=Australia/Sydney:20260611T190000
 DTEND;TZID=Australia/Sydney:20260611T200000
 UID:dissent-69f2970baed7b514fdd23227
@@ -645,6 +634,16 @@ ORGANIZER:Dissent Cafe and Bar
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Vi-Nil Records Compilation album launch
+DTSTART;TZID=Australia/Sydney:20260703T193000
+DTEND;TZID=Australia/Sydney:20260703T203000
+UID:dissent-69e09628b11bed2db85280bc
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+ORGANIZER:Dissent Cafe and Bar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Comedy Club  - Daniel Muggleton - White Here\, White Now
 DTSTART;TZID=Australia/Sydney:20261121T183000
 DTEND;TZID=Australia/Sydney:20261122T040000
@@ -721,8 +720,8 @@ DESCRIPTION:Following their tour with UK legend Mike Skinner and The Stree
   Expect anthems from Shady Nasty's 2025 debut 'TREK' - crowned ‘Record o
  f the Year’ by FBi Radio - to collide with underground classics from 'CL
  UBSMOKE' and 'Bad Posture' EPs in their signature heaving live show.
-IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1779860
- 055/SN_FTP_SW_tprqan.heic
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1780977
+ 504/shady_lbivgn.png
 LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
 ORGANIZER:Fun Time Pony
 STATUS:CONFIRMED
