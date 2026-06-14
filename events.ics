@@ -1,62 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:MAXINE
-DTSTART:20260613T050000Z
-DTEND:20260613T070000Z
-DTSTAMP:20260613T035113Z
-UID:smiths-alternative-65111d2fe759ea113a211fca7e64286b
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/98200/f__38392_maxine.jpg
-CREATED:20260601T142146Z
-DESCRIPTION:
-LAST-MODIFIED:20260603T153203Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/maxine-98200
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tenda & Corduroy Company EP launch
-DTSTART:20260613T080000Z
-DTEND:20260613T100000Z
-DTSTAMP:20260613T035113Z
-UID:smiths-alternative-b2b96bc24b998a4972eaa34879e48337
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/97065/f__34801_tenda.jpg
-CREATED:20260506T121056Z
-DESCRIPTION:
-LAST-MODIFIED:20260506T121916Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/tenda-corduroy-company-97065
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Band Beng Bing Bong Bung
-DTSTART:20260613T110000Z
-DTEND:20260613T134000Z
-DTSTAMP:20260613T035113Z
-UID:smiths-alternative-3af82326f34ce717bdca6dab6165040a
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/97961/f__27083_bandbeng.jpg
-CREATED:20260527T150237Z
-DESCRIPTION:Forty minute sets from local bands. Appearing: The Anthills\, 
- The Invisible Bees and Encore
-LAST-MODIFIED:20260527T152139Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/band-beng-bing-bong-bung-97961
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jenny Sawer's Vocal Student Showcase
 DTSTART:20260614T030000Z
 DTEND:20260614T050000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-1e9bf6d2838a9da357dd3885753c1234
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96970/f__34677_jsawer.jpg
@@ -73,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Masterclass with Tobias Cole
 DTSTART:20260614T060000Z
 DTEND:20260614T073000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-76053d88455185d36cb0cc82d31dc1e1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/95903/f__33172_masterclass.jpg
@@ -90,7 +38,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260615T080000Z
 DTEND:20260615T100000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-0f473961f1f464fac1a9b5c9a1552347
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97233/f__40483_theatre.jpg
@@ -107,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260615T090000Z
 DTEND:20260615T110000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-782acd685070677cfc2907949d8b6f85
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98279/f__38801_tpt150626.jpg
@@ -124,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:MARION Welcomes New Patrons
 DTSTART:20260616T080000Z
 DTEND:20260616T100000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-8be5fe3c1a5805f13b2e97fff2099636
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98290/f__38907_marion-patrons.jpg
@@ -141,7 +89,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260616T083000Z
 DTEND:20260616T110000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-e84bbeb7b37a0db60d4d40955632cbf6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98187/f__32298_ssad.jpg
@@ -160,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:The Darlings Family Trust
 DTSTART:20260617T090000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96525/f__33511_darlings.jpg
@@ -178,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260617T090000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98296/f__2157_classicalcapers.jpg
@@ -196,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:BYWAYS
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98237/f__33499_byw.jpg
@@ -214,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Chuckle Force Comedy #14
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98668/f__40439_cfc14.jpg
@@ -231,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:We Mavericks
 DTSTART:20260619T083000Z
 DTEND:20260619T103000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-622d99c73218b7efea3d27a18833a7a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96975/f__34735_we-mavs.jpg
@@ -248,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:SICK DAY
 DTSTART:20260619T093000Z
 DTEND:20260619T113000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-ee492454c57c1d580877a7c5497ab62c
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97878/f__36990_sick.jpg
@@ -265,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:Come Write
 DTSTART:20260620T020000Z
 DTEND:20260620T040000Z
-DTSTAMP:20260613T035113Z
+DTSTAMP:20260614T040951Z
 UID:smiths-alternative-84194cbf6139950b1af26f2989bd0e68
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98792/f__33162_maz.jpg
@@ -280,44 +228,63 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/come-write-98792
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:New York (USA) live at Gang Gang w/ Alias Error and Genie
-DTSTART;TZID=Australia/Sydney:20260613T190000
-DTEND;TZID=Australia/Sydney:20260613T230000
-DTSTAMP:20260613T135114
-UID:ganggang-10002054-1781377200-1781391600@ganggangcafe.com.au
-ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
- 26/05/Screenshot-2026-05-21-at-4.23.58-pm.png
-CREATED:20260521T062428Z
-DESCRIPTION:We are over the moon to be hosting NEW YORK on June 13th. \n\n
- \n\nTo have the incredible duo perform at Gang Gang is something we never 
- imagined. NEW YORK is a girl-pop music and performance project by artists
-  Gretchen Lawrence and Coumba Samba. The sampling of royalty free loops an
- d sounds of clicks and cuts are met with chopped vocals and impulsive lyri
- cs. NEW YORK chews up the sounds and visuals of hip hop\, pop\, and electr
- o and spits them out on to the city streets. They self-released their debu
- t album No Sleep Till N.Y. in 2022. \n\n\n\nIf you are unfamiliar with the
- ir music we highly recommend you have a listen\, and grab a ticket while y
- ou’re at it. \n\n\n\nAlso\, to have Alias Error on support makes all the
-  more reason to come. Alias Error is the artist moniker of Berlin/ Sydney
- -based Australian singer\, songwriter\, and DJ Alia Sèror-O’Neill. She 
- is best known for her work electronic/trip-hop duo a.s.o. alongside produc
- er Tornado Wallace\, which released its acclaimed self-titled debut album 
- in 2023. Since then\, Alias has worked with James K\, RIP Swirl\, Now Alwa
- ys Fades\, and has new works coming soon. Another incredible artist we are
-  over the moon to have. \n\n\n\nDon’t forget\, we also have one of Canbe
- rra’s absolute best artists as well\, Genie playing their live set as se
- cond support. \n\n\n\nGrab a ticket before you can’t.
-LAST-MODIFIED:20260521T062429Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-ORGANIZER:Gang Gang Cafe
-URL:https://ganggangcafe.com.au/event/new-york-usa-live-at-gang-gang-w-ali
- as-error-and-genie/
+SUMMARY:Go Jump!
+DTSTART:20260620T040000Z
+DTEND:20260620T060000Z
+DTSTAMP:20260614T040951Z
+UID:smiths-alternative-31fb29a81d0422127721d8b05c7eafb9
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/98778/f__42153_kcole.jpg
+CREATED:20260610T062920Z
+DESCRIPTION:Fone a Friend Fun presents: Katie Cole's "Go Jump! The Eastern
+  Grey Cabaret" with support\, Ian Paulin's "Aunty River. Stories of Water"
+LAST-MODIFIED:20260610T111846Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/go-jump!-98778
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rhys Coventry
+DTSTART:20260620T070000Z
+DTEND:20260620T090000Z
+DTSTAMP:20260614T040951Z
+UID:smiths-alternative-ae87511966bf7843c9a6acf894b8afcc
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97071/f__34803_rhyscov.jpg
+CREATED:20260506T141211Z
+DESCRIPTION:
+LAST-MODIFIED:20260507T040826Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/rhys-coventry-97071
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:That’s Not Bellydance!
+DTSTART:20260620T090000Z
+DTEND:20260620T110000Z
+DTSTAMP:20260614T040951Z
+UID:smiths-alternative-9157bde38f22a7f0760a5b9c07f8100b
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96768/f__33900_that-s-not-bellydance.jpg
+CREATED:20260429T054915Z
+DESCRIPTION:Group and solo performances of Fusion Dance that may have cros
+ sed a line. 
+LAST-MODIFIED:20260430T110408Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/thats-not-bellydance-96768
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260617T183000
 DTEND;TZID=Australia/Sydney:20260617T210000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10001789-1781721000-1781730000@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -335,7 +302,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260619T190000
 DTEND;TZID=Australia/Sydney:20260619T210000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10000509-1781895600-1781902800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -353,7 +320,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -401,7 +368,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -452,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -482,7 +449,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260613T135114
+DTSTAMP:20260614T140953
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -520,16 +487,6 @@ SUMMARY:Monday Open Mic Night
 DTSTART;TZID=Australia/Sydney:20250623T193000
 DTEND;TZID=Australia/Sydney:20250623T203000
 UID:dissent-6a2a7e7d162aa31581168553
-LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
- a
-ORGANIZER:Dissent Cafe and Bar
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hot Glue - 'Again\, Again' Album Launch w/ Buffy + UXO @ Dissent
-DTSTART;TZID=Australia/Sydney:20260613T193000
-DTEND;TZID=Australia/Sydney:20260613T203000
-UID:dissent-69c214c3692125034d0710f5
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 ORGANIZER:Dissent Cafe and Bar
@@ -632,6 +589,17 @@ SUMMARY:Vi-Nil Records Compilation album launch
 DTSTART;TZID=Australia/Sydney:20260703T193000
 DTEND;TZID=Australia/Sydney:20260703T203000
 UID:dissent-69e09628b11bed2db85280bc
+LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
+ a
+ORGANIZER:Dissent Cafe and Bar
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Snowy *WORLD TOUR '26*  w/ Strawberry Prince + Angel Waste @ Disse
+ nt (2XXFM 50th Birthday)
+DTSTART;TZID=Australia/Sydney:20260704T193000
+DTEND;TZID=Australia/Sydney:20260704T203000
+UID:dissent-6a267c4b0deebb71c74e9aaa
 LOCATION:Dissent Cafe and Bar 181 City Walk\, Canberra ACT 2601\, Australi
  a
 ORGANIZER:Dissent Cafe and Bar
