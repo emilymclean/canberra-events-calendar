@@ -1,44 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:Smith's Theatre of Horror & Immorality
-DTSTART:20260615T080000Z
-DTEND:20260615T100000Z
-DTSTAMP:20260615T042135Z
-UID:smiths-alternative-0f473961f1f464fac1a9b5c9a1552347
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/97233/f__40483_theatre.jpg
-CREATED:20260514T061012Z
-DESCRIPTION:
-LAST-MODIFIED:20260606T141528Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/smiths-theatre-97233
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:That Poetry Thing
-DTSTART:20260615T090000Z
-DTEND:20260615T110000Z
-DTSTAMP:20260615T042135Z
-UID:smiths-alternative-782acd685070677cfc2907949d8b6f85
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/98279/f__38801_tpt150626.jpg
-CREATED:20260603T074902Z
-DESCRIPTION:featuring Tamsin Kerr\, Samia Goudie and Paul Collis
-LAST-MODIFIED:20260603T075325Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/that-poetry-thing-98279
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:MARION Welcomes New Patrons
 DTSTART:20260616T080000Z
 DTEND:20260616T100000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-8be5fe3c1a5805f13b2e97fff2099636
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98290/f__38907_marion-patrons.jpg
@@ -55,7 +21,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260616T083000Z
 DTEND:20260616T110000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-e84bbeb7b37a0db60d4d40955632cbf6
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98187/f__32298_ssad.jpg
@@ -74,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:The Darlings Family Trust
 DTSTART:20260617T090000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96525/f__33511_darlings.jpg
@@ -92,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY:Classical Capers
 DTSTART:20260617T090000Z
 DTEND:20260617T110000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98296/f__2157_classicalcapers.jpg
@@ -110,7 +76,7 @@ BEGIN:VEVENT
 SUMMARY:BYWAYS
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98237/f__33499_byw.jpg
@@ -128,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Chuckle Force Comedy #14
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98668/f__40439_cfc14.jpg
@@ -145,7 +111,7 @@ BEGIN:VEVENT
 SUMMARY:We Mavericks
 DTSTART:20260619T083000Z
 DTEND:20260619T103000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-622d99c73218b7efea3d27a18833a7a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96975/f__34735_we-mavs.jpg
@@ -162,7 +128,7 @@ BEGIN:VEVENT
 SUMMARY:SICK DAY
 DTSTART:20260619T093000Z
 DTEND:20260619T113000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-ee492454c57c1d580877a7c5497ab62c
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97878/f__36990_sick.jpg
@@ -179,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:Come Write
 DTSTART:20260620T020000Z
 DTEND:20260620T040000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-84194cbf6139950b1af26f2989bd0e68
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98792/f__33162_maz.jpg
@@ -197,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Go Jump!
 DTSTART:20260620T040000Z
 DTEND:20260620T060000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-31fb29a81d0422127721d8b05c7eafb9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98778/f__42153_kcole.jpg
@@ -215,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Rhys Coventry
 DTSTART:20260620T070000Z
 DTEND:20260620T090000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-ae87511966bf7843c9a6acf894b8afcc
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97071/f__34803_rhyscov.jpg
@@ -232,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:That’s Not Bellydance!
 DTSTART:20260620T090000Z
 DTEND:20260620T110000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-9157bde38f22a7f0760a5b9c07f8100b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96768/f__33900_that-s-not-bellydance.jpg
@@ -250,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:Write Here\, Write Now with Jack Heath
 DTSTART:20260621T010000Z
 DTEND:20260621T040000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-d7bde82013add95c4e5aa13d52621da2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97957/f__37234_write-here.jpg
@@ -267,7 +233,7 @@ BEGIN:VEVENT
 SUMMARY:The Razzlers
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260615T042135Z
+DTSTAMP:20260616T041331Z
 UID:smiths-alternative-122248ff717e006530e772077b47f88b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98794/f__32510_tradtrio_5779.jpg
@@ -282,10 +248,44 @@ STATUS:CONFIRMED
 URL:http://www.smithsalternative.com/events/the-razzlers-98794
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Shortis & Simpson
+DTSTART:20260621T060000Z
+DTEND:20260621T080000Z
+DTSTAMP:20260616T041331Z
+UID:smiths-alternative-52b3b2c15bf87e2e121c31b041ed7ea1
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97058/f__34799_cuff.jpg
+CREATED:20260506T083249Z
+DESCRIPTION:Shortis & Simpson in a brand new OFF THE CUFF!
+LAST-MODIFIED:20260506T093035Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/shortis-simpson-97058
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smith's Theatre of Horror & Immorality
+DTSTART:20260622T080000Z
+DTEND:20260622T100000Z
+DTSTAMP:20260616T041331Z
+UID:smiths-alternative-5f1bc043372ed69ee572850dcb954f95
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/97236/f__40484_theatre.jpg
+CREATED:20260514T061129Z
+DESCRIPTION:
+LAST-MODIFIED:20260606T141551Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/smiths-theatre-97236
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wednesday Trivia
 DTSTART;TZID=Australia/Sydney:20260617T183000
 DTEND;TZID=Australia/Sydney:20260617T210000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10001789-1781721000-1781730000@ganggangcafe.com.au
 CREATED:20260421T012136Z
 DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
@@ -300,10 +300,51 @@ ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/wednesday-trivia/2026-06-17/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Happy Birthday Lost Souls! - Readings and Music
+DTSTART;TZID=Australia/Sydney:20260618T183000
+DTEND;TZID=Australia/Sydney:20260618T203000
+DTSTAMP:20260616T141333
+UID:ganggang-10002061-1781807400-1781814600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-16-at-11.18.38-am.png
+CREATED:20260616T012006Z
+DESCRIPTION:Time flies in the realm of Lost Souls! Did you know we are one
+  year old this winter solstice? \n\n\n\nWe invite you to help us mark the 
+ first year since our dark\, strange and beautiful birth with readings and 
+ music. Our performers will share a beguiling blend of horror short stories
+ \, an “in character” short talk and weird poetry\, followed by music o
+ f bittersweet melodies and rhythms. \n\n\n\nThis night will also be a chan
+ ce to acknowledge the creativity\, skill and persistence of all our amazin
+ g contributors and performers after our first twelve months of publishing 
+ and hosting live events. \n\n\n\nThe Lost Souls community features a diver
+ se and wonderful variety of novelists\, short story writers\, poets\, illu
+ strators\, painters\, singers\, songwriters\, script writers\, podcasters 
+ and many talented others from Canberra. \n\n\n\nMany in the Lost Souls com
+ munity have seen great achievements this past year\, especially through ou
+ r magazine. There have been nominations for short story awards\, appearanc
+ es on ABC radio\, positive reviews\, re-publishing of our work\, our first
+  digital publication from the magazine and many more. \n\n\n\nAnd\, of cou
+ rse\, none of this would have been possible without our lovely audience! \
+ n\n\n\nAs our community changes and grows through the cycle of death and r
+ enewal with the winter solstice\, our performers will share with you work 
+ inspired by the shortest day and longest night of the year\, and our first
+  birthday. \n\n\n\nFeaturing performances by Joseph Ashley-Smith (writer)\
+ , P. S. Cottier (poet)\, Aaron Dries (writer)\, Kaaron Warren (writer)\, D
+ an Power (performer\, fine artist and science communicator) and Jenny Sawe
+ r (singer\, musician). Hosted by Fionn Macpherson from Lost Souls Magazine
+ . \n\n\n\nYou can mingle with our performers and others from our lovely co
+ mmunity as winter takes hold of Canberra.
+LAST-MODIFIED:20260616T012007Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/happy-birthday-lost-souls-readings-a
+ nd-music/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260619T190000
 DTEND;TZID=Australia/Sydney:20260619T210000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10000509-1781895600-1781902800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -321,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -366,10 +407,35 @@ ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/hana-stretton/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Gang Gang Comedy - Suma Iyer
+DTSTART;TZID=Australia/Sydney:20260702T193000
+DTEND;TZID=Australia/Sydney:20260702T213000
+DTSTAMP:20260616T141333
+UID:ganggang-10002062-1783020600-1783027800@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-16-at-11.19.59-am.png
+CREATED:20260616T012153Z
+DESCRIPTION:Gang Gang Comedy brings you the best comedians from around the
+  country. This July we have rising comedy star Suma Iyer. Local supports w
+ ill be the very funny Dylan Holmes\, newcomer Cruze Batcheldor\, and every
+ one’s favourite Chris Ryan. Your MC for the evening is the one and only 
+ Maddy Weeks.  \n\n\n\nFresh off a successful comedy festival season\, tou
+ ring Adelaide and Sydney\, Suma Iyer is back in town ready to make you lau
+ gh. Winner of the Raw Comedy ACT state final for 2024\, Suma’s cleverly 
+ constructed and relatable observations and stories will keep you laughing 
+ long after the show has ended. \n\n\n\n“This one’s star is going to ri
+ se” – The List UK \n\n\n\nDoors at 7pm for a 7:30pm show start. \n\n\n
+ \nTix $22 online Humanitix\, $25 at the door.
+LAST-MODIFIED:20260616T012154Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/gang-gang-comedy-suma-iyer/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -420,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -447,10 +513,27 @@ ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/leah-senior/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Fruit Bats (USA) solo
+DTSTART;TZID=Australia/Sydney:20260822T190000
+DTEND;TZID=Australia/Sydney:20260822T220000
+DTSTAMP:20260616T141333
+UID:ganggang-10002059-1787425200-1787436000@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-16-at-10.31.00-am.png
+CREATED:20260616T005336Z
+DESCRIPTION:Another incredible show presented by Jet Black Cat\, we are st
+ oked to be hosting Fruit Bats (USA) on their debut Aus tour. Nostalgic\, c
+ ountry-esque\, soaring melodies…one not to miss
+LAST-MODIFIED:20260616T005423Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/fruit-bats-usa-solo-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260615T142136
+DTSTAMP:20260616T141333
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -482,6 +565,51 @@ LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
 ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/select-music-presents-felipe-baldomi
  r-sunset-highway-tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shock Corridor - Album Tour with Dumbhead
+DTSTART;TZID=Australia/Sydney:20260905T180000
+DTEND;TZID=Australia/Sydney:20260905T220000
+DTSTAMP:20260616T141333
+UID:ganggang-10002060-1788631200-1788645600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-16-at-11.12.58-am.png
+CREATED:20260616T011322Z
+DESCRIPTION:Naarm/Melbourne sextet Shock Corridor announce a national tour
+  in support of their self-titled debut album\, due August 12. The run open
+ s August 28 at Melbourne’s Thornbury Theatre and winds through Sydney’
+ s Oxford Art Factory\, Canberra\, Adelaide\, Wonder Mountain Festival in B
+ eechworth\, Castlemaine and Brisbane through late September with a one-off
+  Sydney show at Phoenix Central Park on June 24 to preview the record in f
+ ull. \n\n\n\nThe album was tracked over seven days at Soundpark Studios wi
+ th producer Dan Luscombe\, a name synonymous with the last decade of Austr
+ alian guitar music for his work with the Drones\, Amyl and the Sniffers\, 
+ Courtney Barnett and Floodlights\, and mixed by Aaron Cupples (Spiritualiz
+ ed\, Tropical Fuck Storm\, Kirin J Callinan). \n\n\n\nFormed in 2019 by si
+ x friends with backgrounds in classical strings\, jazz\, hip-hop and DIY e
+ lectronics\, the band\, George (vocals\, guitar)\, Saskia (violin\, vocals
+ )\, Joe (synth\, drum machine\, trumpet)\, Henry (bass\, trumpet)\, Ari (g
+ uitar) and Paddy (drums)\, refined a startlingly singular palette through 
+ long lockdown rehearsals before emerging onto the Naarm circuit in 2023. T
+ heir music borrows the spectral patience of the Dirty Three\, the trip-hop
+  weight of Massive Attack and the pent-up theatricality that Australian po
+ st-punk seems to manufacture in unusual quantities. Songs build slowly\; e
+ ruptions\, when they come\, feel earned. \n\n\n\nEarlier singles “Buster
+ ” and “Sheet Metal” pulled support from BBC 6 Music\, METAL\, ASBO a
+ nd the Line of Best Fit\, while FBi Radio recently named the group their I
+ ndependent Artist of the Week. In December the band sold out The Night Cat
+  (650 capacity) at home and have shared stages with Bleak Squad at the Mel
+ bourne Recital Centre and Floodlights on the road. \n\n\n\n“We kept the 
+ record self-titled because it felt like the widest possible foundation of 
+ what Shock Corridor is. A lot of it was written while the world felt incre
+ asingly unstable — there was this constant feeling of helplessness\, but
+  also a desire to stay connected to the people around you. The album lives
+  in that tension.”
+LAST-MODIFIED:20260616T011323Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/shock-corridor-album-tour-with-dumbh
+ ead/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monday Open Mic Night
