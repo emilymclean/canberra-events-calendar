@@ -1,46 +1,10 @@
 BEGIN:VCALENDAR
 X-WR-CALNAME:Canberra Events Calendar
 BEGIN:VEVENT
-SUMMARY:The Darlings Family Trust
-DTSTART:20260617T090000Z
-DTEND:20260617T110000Z
-DTSTAMP:20260617T041230Z
-UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/96525/f__33511_darlings.jpg
-CREATED:20260415T075659Z
-DESCRIPTION:
-LAST-MODIFIED:20260423T032001Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/the-darlings-family-trust-9652
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Classical Capers
-DTSTART:20260617T090000Z
-DTEND:20260617T110000Z
-DTSTAMP:20260617T041230Z
-UID:smiths-alternative-f1469b90ee6747947be310b28b5dd434
-ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
- s/images/66/98296/f__2157_classicalcapers.jpg
-CREATED:20260603T093920Z
-DESCRIPTION:Opera star Tobias Cole hosts an entertaining evening for class
- ically trained (and untrained) musicians and enthusiasts.
-LAST-MODIFIED:20260603T094134Z
-LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
-ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
-ORGANIZER:Smiths Alternative
-STATUS:CONFIRMED
-URL:http://www.smithsalternative.com/events/classical-capers-98296
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:BYWAYS
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98237/f__33499_byw.jpg
@@ -58,7 +22,7 @@ BEGIN:VEVENT
 SUMMARY:Chuckle Force Comedy #14
 DTSTART:20260618T093000Z
 DTEND:20260618T113000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-a9f8e68d25db1ba089bcdf2b4caaf7f1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98668/f__40439_cfc14.jpg
@@ -75,7 +39,7 @@ BEGIN:VEVENT
 SUMMARY:We Mavericks
 DTSTART:20260619T083000Z
 DTEND:20260619T103000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-622d99c73218b7efea3d27a18833a7a5
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96975/f__34735_we-mavs.jpg
@@ -92,7 +56,7 @@ BEGIN:VEVENT
 SUMMARY:SICK DAY
 DTSTART:20260619T093000Z
 DTEND:20260619T113000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-ee492454c57c1d580877a7c5497ab62c
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97878/f__36990_sick.jpg
@@ -109,7 +73,7 @@ BEGIN:VEVENT
 SUMMARY:Come Write
 DTSTART:20260620T020000Z
 DTEND:20260620T040000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-84194cbf6139950b1af26f2989bd0e68
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98792/f__33162_maz.jpg
@@ -127,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Go Jump!
 DTSTART:20260620T040000Z
 DTEND:20260620T060000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-31fb29a81d0422127721d8b05c7eafb9
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98778/f__42153_kcole.jpg
@@ -145,7 +109,7 @@ BEGIN:VEVENT
 SUMMARY:Rhys Coventry
 DTSTART:20260620T070000Z
 DTEND:20260620T090000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-ae87511966bf7843c9a6acf894b8afcc
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97071/f__34803_rhyscov.jpg
@@ -162,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:That’s Not Bellydance!
 DTSTART:20260620T090000Z
 DTEND:20260620T110000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-9157bde38f22a7f0760a5b9c07f8100b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/96768/f__33900_that-s-not-bellydance.jpg
@@ -180,7 +144,7 @@ BEGIN:VEVENT
 SUMMARY:Write Here\, Write Now with Jack Heath
 DTSTART:20260621T010000Z
 DTEND:20260621T040000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-d7bde82013add95c4e5aa13d52621da2
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97957/f__37234_write-here.jpg
@@ -197,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:The Razzlers
 DTSTART:20260621T040000Z
 DTEND:20260621T060000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-122248ff717e006530e772077b47f88b
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98794/f__32510_tradtrio_5779.jpg
@@ -215,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Shortis & Simpson
 DTSTART:20260621T060000Z
 DTEND:20260621T080000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-52b3b2c15bf87e2e121c31b041ed7ea1
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97058/f__34799_cuff.jpg
@@ -232,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Theatre of Horror & Immorality
 DTSTART:20260622T080000Z
 DTEND:20260622T100000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-5f1bc043372ed69ee572850dcb954f95
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/97236/f__40484_theatre.jpg
@@ -249,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:That Poetry Thing
 DTSTART:20260622T090000Z
 DTEND:20260622T110000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-040606d7fbe590737b50269f28b203f4
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98797/f__42409_tpt220626.jpg
@@ -266,7 +230,7 @@ BEGIN:VEVENT
 SUMMARY:Smith's Scribblers After Dark
 DTSTART:20260623T083000Z
 DTEND:20260623T110000Z
-DTSTAMP:20260617T041230Z
+DTSTAMP:20260618T040321Z
 UID:smiths-alternative-f9795505a4594e7837d865fadc63d010
 ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
  s/images/66/98186/f__32298_ssad.jpg
@@ -282,28 +246,44 @@ URL:http://www.smithsalternative.com/events/smith-s-scribblers-after-dark-
  98186
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Wednesday Trivia
-DTSTART;TZID=Australia/Sydney:20260617T183000
-DTEND;TZID=Australia/Sydney:20260617T210000
-DTSTAMP:20260617T141231
-UID:ganggang-10001789-1781721000-1781730000@ganggangcafe.com.au
-CREATED:20260421T012136Z
-DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
- come and host a trivia night for us. We’re talking pop culture\, politic
- s\, geography\, musical clues\, movie clues\, cryptic clues\, something fo
- r everyone!  Call us up to book a table inside if you’re keen to get qui
- zzy. A cancellation fee is charged if you do not show up to your booking 
- 🙁 Otherwise you can enjoy regular service outside.
-LAST-MODIFIED:20260421T012138Z
-LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
-ORGANIZER:Gang Gang Cafe
-URL:https://ganggangcafe.com.au/event/wednesday-trivia/2026-06-17/
+SUMMARY:Mosaic + Woolgathering
+DTSTART:20260623T090000Z
+DTEND:20260623T110000Z
+DTSTAMP:20260618T040321Z
+UID:smiths-alternative-70c3f273f2f3430f655c9149e1b94c0c
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/96450/f__33897_mos.jpg
+CREATED:20260409T114941Z
+DESCRIPTION:
+LAST-MODIFIED:20260429T030134Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/mosaic-woolgathering-96450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Serenade
+DTSTART:20260624T090000Z
+DTEND:20260624T103000Z
+DTSTAMP:20260618T040321Z
+UID:smiths-alternative-ea0b02244e838dd545e3c57dc1a3876b
+ATTACH;FMTTYPE=image/jpeg:http://www.smithsalternative.com/infomaxim/asset
+ s/images/66/95322/f__32997_serenade-2026.jpg
+CREATED:20260204T133119Z
+DESCRIPTION:with Tobias Cole
+LAST-MODIFIED:20260205T035828Z
+LOCATION:Smiths Alternative\, 76 Alinga St\, Canberra ACT 2601
+ORGANIZER;CN=Eventsity:mailto:admin@eventsity.com
+ORGANIZER:Smiths Alternative
+STATUS:CONFIRMED
+URL:http://www.smithsalternative.com/events/serenade-95322
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Happy Birthday Lost Souls! - Readings and Music
 DTSTART;TZID=Australia/Sydney:20260618T183000
 DTEND;TZID=Australia/Sydney:20260618T203000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002061-1781807400-1781814600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/06/Screenshot-2026-06-16-at-11.18.38-am.png
@@ -344,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Friday Night Jazz - Free Entry
 DTSTART;TZID=Australia/Sydney:20260619T190000
 DTEND;TZID=Australia/Sydney:20260619T210000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10000509-1781895600-1781902800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/jpeg:https://ganggangcafe.com.au/wp-content/uploads/2
  024/02/micah-live-at-gang-gang-shot-by-creswick-collective-5-of-10-scaled.
@@ -362,7 +342,7 @@ BEGIN:VEVENT
 SUMMARY:Hana Stretton
 DTSTART;TZID=Australia/Sydney:20260621T180000
 DTEND;TZID=Australia/Sydney:20260621T220000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10001258-1782064800-1782079200@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/04/Screenshot-2026-04-14-at-9.43.02-am.png
@@ -407,10 +387,53 @@ ORGANIZER:Gang Gang Cafe
 URL:https://ganggangcafe.com.au/event/hana-stretton/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Wednesday Trivia
+DTSTART;TZID=Australia/Sydney:20260624T183000
+DTEND;TZID=Australia/Sydney:20260624T210000
+DTSTAMP:20260618T140322
+UID:ganggang-10001790-1782325800-1782334800@ganggangcafe.com.au
+CREATED:20260421T012136Z
+DESCRIPTION:Trivia at Gang Gang. \n\n\n\nOn Wednesday night Quiz Meisters 
+ come and host a trivia night for us. We’re talking pop culture\, politic
+ s\, geography\, musical clues\, movie clues\, cryptic clues\, something fo
+ r everyone!  Call us up to book a table inside if you’re keen to get qui
+ zzy. A cancellation fee is charged if you do not show up to your booking 
+ 🙁 Otherwise you can enjoy regular service outside.
+LAST-MODIFIED:20260421T012138Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/wednesday-trivia/2026-06-24/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Buzz Kull "Deep Hate" Live in Canberra
+DTSTART;TZID=Australia/Sydney:20260627T190000
+DTEND;TZID=Australia/Sydney:20260627T220000
+DTSTAMP:20260618T140322
+UID:ganggang-10002063-1782586800-1782597600@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-17-at-2.35.41-pm.png
+CREATED:20260617T043619Z
+DESCRIPTION:Fresh off the release of his new EP Deep Hate via Heartworm 
+ Press\, Buzz Kull heads to Canberra for an intimate headline show at The A
+ byss (The Basement). \n\n\n\nIn recent years\, the Sydney dark electronic 
+ mainstay has toured Australia with Molchat Doma and Boy Harsher\, the Unit
+ ed States with Cold Cave\, and Europe with Kontravoid\, cementing his repu
+ tation as one of the underground’s most commanding live acts. \n\n\n\nDe
+ ep Hate sees Marc Dwyer at his most focused and ferocious\, delivering fo
+ ur relentless industrial pop cuts steeped in nocturnal atmosphere. \n\n\n\
+ nAt Nighthawks\, experience Deep Hate up close in one of Canberra’s mo
+ st immersive late-night rooms
+LAST-MODIFIED:20260617T043620Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/buzz-kull-deep-hate-live-in-canberra
+ /
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gang Gang Comedy - Suma Iyer
 DTSTART;TZID=Australia/Sydney:20260702T193000
 DTEND;TZID=Australia/Sydney:20260702T213000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002062-1783020600-1783027800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/06/Screenshot-2026-06-16-at-11.19.59-am.png
@@ -435,7 +458,7 @@ BEGIN:VEVENT
 SUMMARY:Cut Worms (USA) with special guest John Andrews (USA)
 DTSTART;TZID=Australia/Sydney:20260709T190000
 DTEND;TZID=Australia/Sydney:20260709T220000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10001243-1783623600-1783634400@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/03/Screenshot-2026-03-17-at-11.30.21-am.png
@@ -483,10 +506,69 @@ URL:https://ganggangcafe.com.au/event/cut-worms-usa-with-special-guest-joh
  n-andrews-usa/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Miss Kaninna
+DTSTART;TZID=Australia/Sydney:20260711T190000
+DTEND;TZID=Australia/Sydney:20260711T220000
+DTSTAMP:20260618T140322
+UID:ganggang-10002064-1783796400-1783807200@ganggangcafe.com.au
+ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
+ 26/06/Screenshot-2026-06-18-at-8.58.56-am.png
+CREATED:20260617T230355Z
+DESCRIPTION:Sometimes we have people play at the cafe who have such an imp
+ act that it’s a little bittersweet\, they’re so good that they’re go
+ ing to be too big for us to ever get them back. Miss Kaninna was one of th
+ ose sets at our festival Sundowner. She has been blowing up ever since (su
+ pported Kneecap in the UK/Europe) and we are so stoked she is keen to come
+  back.Miss Kaninna \n\n\n\nMiss Kaninna is a First Nations artist whose mu
+ sic\, voice\, and presence have made her one of \n\n\n\nthe most compellin
+ g figures in so-called Australian music today. Hailing from Bruny Island\,
+  \n\n\n\nTasmania\, she is of Yorta Yorta\, Dja Dja Wurrung\, Kalkadoon\, 
+ and Yirendali heritage. She made \n\n\n\nhistory in 2024 with her debut si
+ ngle\, Blak Britney\, earning three ARIA nominations\, including \n\n\n\nB
+ est Independent Release\, becoming the first independent Aboriginal woman 
+ nominated for an \n\n\n\nARIA for a debut single. The track reached #1 on 
+ triple j\, featured in Netflix’s Heartbreak High \n\n\n\nand was named b
+ y Rolling Stone as one of the Best Australian & NZ Songs of the 21st Centu
+ ry\, \n\n\n\nmarking a critical and cultural breakthrough. \n\n\n\nHer deb
+ ut EP\, KANINNA\, followed to critical acclaim\, winning Best Independent 
+ Hip-Hop \n\n\n\nEP/Album and Breakthrough Independent Artist of the Year a
+ t the 2025 Australian Independent \n\n\n\nMusic (AIR) Awards\, and receivi
+ ng an ARIA nomination for Best Hip-Hop Release. \n\n\n\nIn late 2025\, Mis
+ s Kaninna took her music overseas\, joining Irish rappers Kneecap\, for an
+  \n\n\n\n18-date sold out tour across the UK and Europe. From Amsterdam to
+  Glasgow\, her ferocious \n\n\n\ncharisma\, rage\, and resistance made eve
+ ry performance an uncompromising statement of \n\n\n\nidentity and truth. 
+ \n\n\n\nAt home\, she has supported Amyl and the Sniffers\, Hiatus Kaiyote
+  and M.I.A\, whilst sharing \n\n\n\nstages with Stormzy\, Steve Lacy\, and
+  Raye on the 2024 Laneway Festival tour. She was named \n\n\n\ntriple j Un
+ earthed Artist of the Year\, received SXSW Sydney’s inaugural Justin Cos
+ by Award for \n\n\n\nBest New Talent\, and was included in NME’s 2025 Es
+ sential 100 Emerging Artists. In 2026\, \n\n\n\nAmazon named her one of th
+ eir Global Artists to Watch. \n\n\n\nMiss Kaninna’s reputation as a live
+  performer rests on her ability to hold space\, rousing rage \n\n\n\nand j
+ oy in equal measure. Floating effortlessly between Hip-Hop\, R&B\, rock an
+ d pop\, her \n\n\n\ngenre-defying approach to performance provides a staun
+ ch foundation for a new artist with an \n\n\n\nurgency for change. With ac
+ tivism a crucial thread in her lineage and her art\, contributing her \n\n
+ \n\nplatform and support to marginalised communities form a vital part of 
+ her practise. In 2025 she \n\n\n\nspearheaded the creation of Sovereign Da
+ y Out – a festival to uplift First Nations people \n\n\n\nfollowing a wh
+ ite supremacist attack on sacred land – and continues ongoing work with 
+ \n\n\n\ninitiatives supporting Indigenous\, immigrant\, LGBTQI+ and women
+ ’s rights. \n\n\n\nWith each milestone and movement\, Miss Kaninna conti
+ nues to solidify her place as an artist \n\n\n\nwhose voice and presence c
+ ommand attention. She is a cultural leader\, a creative force\, and a \n\n
+ \n\nperformer whose influence extends far beyond the stage.
+LAST-MODIFIED:20260617T230356Z
+LOCATION:Gang Gang Cafe\, Shop 4/2 Frencham Pl\, Downer ACT 2602
+ORGANIZER:Gang Gang Cafe
+URL:https://ganggangcafe.com.au/event/miss-kaninna/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Leah Senior
 DTSTART;TZID=Australia/Sydney:20260809T180000
 DTEND;TZID=Australia/Sydney:20260809T220000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002052-1786298400-1786312800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-19-at-10.19.38-am.png
@@ -516,7 +598,7 @@ BEGIN:VEVENT
 SUMMARY:Fruit Bats (USA) solo
 DTSTART;TZID=Australia/Sydney:20260822T190000
 DTEND;TZID=Australia/Sydney:20260822T220000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002059-1787425200-1787436000@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/06/Screenshot-2026-06-16-at-10.31.00-am.png
@@ -533,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Select Music presents Felipe Baldomir 'Sunset Highway' Tour
 DTSTART;TZID=Australia/Sydney:20260827T190000
 DTEND;TZID=Australia/Sydney:20260827T223000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002050-1787857200-1787869800@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/05/Screenshot-2026-05-12-at-10.00.06-am.png
@@ -570,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Shock Corridor - Album Tour with Dumbhead
 DTSTART;TZID=Australia/Sydney:20260905T180000
 DTEND;TZID=Australia/Sydney:20260905T220000
-DTSTAMP:20260617T141231
+DTSTAMP:20260618T140322
 UID:ganggang-10002060-1788631200-1788645600@ganggangcafe.com.au
 ATTACH;FMTTYPE=image/png:https://ganggangcafe.com.au/wp-content/uploads/20
  26/06/Screenshot-2026-06-16-at-11.12.58-am.png
@@ -957,5 +1039,122 @@ ORGANIZER:Fun Time Pony
 STATUS:CONFIRMED
 URL:https://tickets.oztix.com.au/outlet/event/cd96832e-534c-40d4-a116-db03
  f940eae9
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Archie 
+DTSTART;TZID=Australia/Sydney:20260718T200000
+DTEND;TZID=Australia/Sydney:20260719T040000
+UID:fun-time-pony-aaa1d50118c0a84d3419c2e50771e80a
+DESCRIPTION:ARCHIE return to Canberra for a special hometown headline show
+  at Fun Time Pony this July.\n\nFresh off the release of their latest EP T
+ ogether Apart\, the band bring their energetic live show back home for a o
+ ne-night-only performance.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781676
+ 067/IMG_7748_utwrt8.jpg
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://tickets.oztix.com.au/outlet/event/6bc03538-aa6c-4533-9e8b-ef8a
+ 7d9011f8?utm_source=Oztix&utm_medium=Website&utm_content=search&utm_term=A
+ RCHIE%20@%20Fun%20Time%20Pony&_gl=1*1e63x65*_ga*MTE3NDAwNjU0My4xNzY3NzQ1Mj
+ Yz*_ga_Z6Q34PSGS3*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..
+ *_ga_7P85H1C38Y*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_
+ ga_8L9QNFFKLF*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga
+ _1BDJF9CBT9*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_0
+ 145TC6JJ6*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_NG0
+ RK0J52R*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_XPQ0Q
+ ETFJ1*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_Z5GGRD8
+ WRJ*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_6GL2NMGVS
+ 1*czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..*_ga_BP4FQR8YCV*
+ czE3ODE2NzU3NzYkbzYwJGcxJHQxNzgxNjc1NzgxJGo1NSRsMCRoMA..
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Club - Good Times Improv 
+DTSTART;TZID=Australia/Sydney:20260826T200000
+DTEND;TZID=Australia/Sydney:20260827T040000
+UID:fun-time-pony-722372d96056463c5ef5f7ee6f8eaa47
+DESCRIPTION:After completely selling out their first show together\, Carlo
+  Ritchie and Julia Zemiro are back for a night of completely made-up fun!\
+ n\nThere’ll be laughs\, there’ll be good times\, maybe there will be t
+ ears\, no one knows! Watch as your suggestions are turned into comedy spun
+  gold before your very eyes as two of Australia’s best improvisers work 
+ their magic on the stage
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781741
+ 196/GoodTimes_August_hlzv5i.png
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://www.trybooking.com/events/landing/1594049
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Club - Tom Gibson
+DTSTART;TZID=Australia/Sydney:20260701T200000
+DTEND;TZID=Australia/Sydney:20260702T040000
+UID:fun-time-pony-5ca49ac63ae66b1e270f1ec8be564256
+DESCRIPTION:Tom Gibson has a knack for turning everyday moments into unexp
+ ectedly big laughs. A\nstoryteller with a magical sense of timing\, he dra
+ ws audiences in before hitting them with clever\ntwists on family life\, a
+ mbition\, and the strange gap between who we are and who we pretend to\nbe
+ .\nPlease don’t judge that. It was ChatGPT.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781739
+ 507/DSC_0056_yictc9.jpg
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://comedyact.com.au/event/canberra-comedy-club-july-2026/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comedy Club - Chris Ryan
+DTSTART;TZID=Australia/Sydney:20260805T200000
+DTEND;TZID=Australia/Sydney:20260806T040000
+UID:fun-time-pony-c0251c41d5654622764b00944478fdf1
+DESCRIPTION:August in Canberra can be bitterly cold\, as can our feature a
+ ct this month\, Chris Ryan. A proud Canberran\, Chris has become a fixture
+  on the national touring comedy scene in Australia. She was handpicked as 
+ the national support act for UK comedian\, Jen Brister (Reactive 2025) and
+  for Judith Lucy and Kaz Cook’s national tour (Kaz & Jude’s Menopausal
+  Night Out 2023-2024). Chris has three comedy specials streaming on YouTub
+ e and is touring her fifth festival show\, Extreme Tenant\, in 2026.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781740
+ 457/IMG_5283_rhyatx.jpg
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://comedyact.com.au/event/canberra-comedy-club-august-2026-copy/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:James Rogue - The Mano Po Tour
+DTSTART;TZID=Australia/Sydney:20260812T200000
+DTEND;TZID=Australia/Sydney:20260813T040000
+UID:fun-time-pony-f16eddf6019c256075006c0eb4b4495a
+DESCRIPTION:The Kiwi-Pinoy Comedy Boy is back—hitting the road for his f
+ irst-ever world tour with a brand new show\, Mano Po. A ‘mano po’ is a
+  Filipino gesture of respect—given to your elders. And for Filipinos\, y
+ ou already know the fear: one day\, it’s coming for you. A funny and hea
+ rtfelt new hour about ageing\, unpacking your life and the panic of realis
+ ing you’ve become the adult—whether you’re ready or not.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781740
+ 904/IG_9_BY_16_CANBERRA_k9b5ao.jpg
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://comedyact.com.au/event/james-roque-the-mano-po-tour/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dan Rath - Help Me Please
+DTSTART;TZID=Australia/Sydney:20261002T200000
+DTEND;TZID=Australia/Sydney:20261003T040000
+UID:fun-time-pony-bb3f33747c6f16f4796f55b20552a54f
+DESCRIPTION:You probably already know me from reading the news. In 2018\, 
+ I dressed up as a sewing needle and hid inside a strawberry.\n\nThere shou
+ ld be a French word for the moment you realize a bald dude actually has a 
+ ponytail.\nI’m so used to failure that success represents an existential
+  threat.
+IMAGE;VALUE=URI:https://res.cloudinary.com/dxzcb4vmj/image/upload/v1781742
+ 062/DanRath_HelpMePlease_1080x1920_vzm372.jpg
+LOCATION:Fun Time Pony\, 2/122 Alinga St\, Canberra ACT 2601
+ORGANIZER:Fun Time Pony
+STATUS:CONFIRMED
+URL:https://comedyact.com.au/event/dan-rath-help-me-please/
 END:VEVENT
 END:VCALENDAR
